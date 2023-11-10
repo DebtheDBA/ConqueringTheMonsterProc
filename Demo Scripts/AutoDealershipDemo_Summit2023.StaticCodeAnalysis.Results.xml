@@ -1,0 +1,3227 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Problems>
+  <Problem>
+    <Rule>Microsoft.Rules.Data.SR0014</Rule>
+    <ProblemDescription>Data loss might occur when casting from Money to Decimal(3, 2).</ProblemDescription>
+    <SourceFile>C:\GitRepo\ConqueringtheMonsterProc\AutoDealershipDemo_Summit2023\AutoDealershipDemo_Summit2023\dbo\Views\vw_SalesPerson_AnnualProfit_Flattened.sql</SourceFile>
+    <Line>10</Line>
+    <Column>8</Column>
+    <Severity>Warning</Severity>
+  </Problem>
+  <Problem>
+    <Rule>Microsoft.Rules.Data.SR0007</Rule>
+    <ProblemDescription>Nullable columns can cause final results to be evaluated as NULL for the predicate.</ProblemDescription>
+    <SourceFile>C:\GitRepo\ConqueringtheMonsterProc\AutoDealershipDemo_Summit2023\AutoDealershipDemo_Summit2023\demo\Functions\udf_CalculateNetProfit.sql</SourceFile>
+    <Line>16</Line>
+    <Column>8</Column>
+    <Severity>Warning</Severity>
+  </Problem>
+  <Problem>
+    <Rule>Microsoft.Rules.Data.SR0007</Rule>
+    <ProblemDescription>Nullable columns can cause final results to be evaluated as NULL for the predicate.</ProblemDescription>
+    <SourceFile>C:\GitRepo\ConqueringtheMonsterProc\AutoDealershipDemo_Summit2023\AutoDealershipDemo_Summit2023\dbo\Functions\udf_CalcSalesCommission.sql</SourceFile>
+    <Line>22</Line>
+    <Column>8</Column>
+    <Severity>Warning</Severity>
+  </Problem>
+  <Problem>
+    <Rule>Microsoft.Rules.Data.SR0014</Rule>
+    <ProblemDescription>Data loss might occur when casting from Money to Decimal(3, 2).</ProblemDescription>
+    <SourceFile>C:\GitRepo\ConqueringtheMonsterProc\AutoDealershipDemo_Summit2023\AutoDealershipDemo_Summit2023\dbo\Functions\udf_CalcSalesCommission.sql</SourceFile>
+    <Line>12</Line>
+    <Column>13</Column>
+    <Severity>Warning</Severity>
+  </Problem>
+  <Problem>
+    <Rule>Microsoft.Rules.Data.SR0014</Rule>
+    <ProblemDescription>Data loss might occur when casting from Integer to Decimal(3, 2).</ProblemDescription>
+    <SourceFile>C:\GitRepo\ConqueringtheMonsterProc\AutoDealershipDemo_Summit2023\AutoDealershipDemo_Summit2023\dbo\Functions\udf_CalcSalesCommission.sql</SourceFile>
+    <Line>12</Line>
+    <Column>94</Column>
+    <Severity>Warning</Severity>
+  </Problem>
+  <Problem>
+    <Rule>Microsoft.Rules.Data.SR0014</Rule>
+    <ProblemDescription>Data loss might occur when casting from Money to Decimal(3, 2).</ProblemDescription>
+    <SourceFile>C:\GitRepo\ConqueringtheMonsterProc\AutoDealershipDemo_Summit2023\AutoDealershipDemo_Summit2023\dbo\Functions\udf_CalcSalesCommission.sql</SourceFile>
+    <Line>15</Line>
+    <Column>9</Column>
+    <Severity>Warning</Severity>
+  </Problem>
+  <Problem>
+    <Rule>Microsoft.Rules.Data.SR0007</Rule>
+    <ProblemDescription>Nullable columns can cause final results to be evaluated as NULL for the predicate.</ProblemDescription>
+    <SourceFile>C:\GitRepo\ConqueringtheMonsterProc\AutoDealershipDemo_Summit2023\AutoDealershipDemo_Summit2023\dbo\Functions\udf_CalcNetSalesCommission.sql</SourceFile>
+    <Line>22</Line>
+    <Column>7</Column>
+    <Severity>Warning</Severity>
+  </Problem>
+  <Problem>
+    <Rule>Microsoft.Rules.Data.SR0014</Rule>
+    <ProblemDescription>Data loss might occur when casting from Money to Decimal(3, 2).</ProblemDescription>
+    <SourceFile>C:\GitRepo\ConqueringtheMonsterProc\AutoDealershipDemo_Summit2023\AutoDealershipDemo_Summit2023\dbo\Functions\udf_CalcNetSalesCommission.sql</SourceFile>
+    <Line>12</Line>
+    <Column>8</Column>
+    <Severity>Warning</Severity>
+  </Problem>
+  <Problem>
+    <Rule>Microsoft.Rules.Data.SR0014</Rule>
+    <ProblemDescription>Data loss might occur when casting from Integer to Decimal(3, 2).</ProblemDescription>
+    <SourceFile>C:\GitRepo\ConqueringtheMonsterProc\AutoDealershipDemo_Summit2023\AutoDealershipDemo_Summit2023\dbo\Functions\udf_CalcNetSalesCommission.sql</SourceFile>
+    <Line>12</Line>
+    <Column>67</Column>
+    <Severity>Warning</Severity>
+  </Problem>
+  <Problem>
+    <Rule>Microsoft.Rules.Data.SR0014</Rule>
+    <ProblemDescription>Data loss might occur when casting from Money to Decimal(3, 2).</ProblemDescription>
+    <SourceFile>C:\GitRepo\ConqueringtheMonsterProc\AutoDealershipDemo_Summit2023\AutoDealershipDemo_Summit2023\dbo\Functions\udf_CalcNetSalesCommission.sql</SourceFile>
+    <Line>15</Line>
+    <Column>4</Column>
+    <Severity>Warning</Severity>
+  </Problem>
+  <Problem>
+    <Rule>Microsoft.Rules.Data.SR0007</Rule>
+    <ProblemDescription>Nullable columns can cause final results to be evaluated as NULL for the predicate.</ProblemDescription>
+    <SourceFile>C:\GitRepo\ConqueringtheMonsterProc\AutoDealershipDemo_Summit2023\AutoDealershipDemo_Summit2023\dbo\Functions\itvf_CalcNetProfit.sql</SourceFile>
+    <Line>21</Line>
+    <Column>8</Column>
+    <Severity>Warning</Severity>
+  </Problem>
+  <Problem>
+    <Rule>Microsoft.Rules.Data.SR0014</Rule>
+    <ProblemDescription>Data loss might occur when casting from Money to Decimal(3, 2).</ProblemDescription>
+    <SourceFile>C:\GitRepo\ConqueringtheMonsterProc\AutoDealershipDemo_Summit2023\AutoDealershipDemo_Summit2023\dbo\Functions\itvf_CalcNetProfit.sql</SourceFile>
+    <Line>14</Line>
+    <Column>9</Column>
+    <Severity>Warning</Severity>
+  </Problem>
+  <Problem>
+    <Rule>Microsoft.Rules.Data.SR0007</Rule>
+    <ProblemDescription>Nullable columns can cause final results to be evaluated as NULL for the predicate.</ProblemDescription>
+    <SourceFile>C:\GitRepo\ConqueringtheMonsterProc\AutoDealershipDemo_Summit2023\AutoDealershipDemo_Summit2023\dbo\Functions\mstvf_VehicleDetails.sql</SourceFile>
+    <Line>64</Line>
+    <Column>9</Column>
+    <Severity>Warning</Severity>
+  </Problem>
+  <Problem>
+    <Rule>Microsoft.Rules.Data.SR0007</Rule>
+    <ProblemDescription>Nullable columns can cause final results to be evaluated as NULL for the predicate.</ProblemDescription>
+    <SourceFile>C:\GitRepo\ConqueringtheMonsterProc\AutoDealershipDemo_Summit2023\AutoDealershipDemo_Summit2023\dbo\Functions\tvf_CalcNetProfit.sql</SourceFile>
+    <Line>17</Line>
+    <Column>8</Column>
+    <Severity>Warning</Severity>
+  </Problem>
+  <Problem>
+    <Rule>Microsoft.Rules.Data.SR0007</Rule>
+    <ProblemDescription>Nullable columns can cause final results to be evaluated as NULL for the predicate.</ProblemDescription>
+    <SourceFile>C:\GitRepo\ConqueringtheMonsterProc\AutoDealershipDemo_Summit2023\AutoDealershipDemo_Summit2023\dbo\Functions\mstvf_CalcNetProfit.sql</SourceFile>
+    <Line>31</Line>
+    <Column>8</Column>
+    <Severity>Warning</Severity>
+  </Problem>
+  <Problem>
+    <Rule>Microsoft.Rules.Data.SR0014</Rule>
+    <ProblemDescription>Data loss might occur when casting from Money to Decimal(28, 12).</ProblemDescription>
+    <SourceFile>C:\GitRepo\ConqueringtheMonsterProc\AutoDealershipDemo_Summit2023\AutoDealershipDemo_Summit2023\dbo\Functions\mstvf_CalcNetProfit.sql</SourceFile>
+    <Line>21</Line>
+    <Column>3</Column>
+    <Severity>Warning</Severity>
+  </Problem>
+  <Problem>
+    <Rule>Microsoft.Rules.Data.SR0014</Rule>
+    <ProblemDescription>Data loss might occur when casting from Money to Decimal(3, 2).</ProblemDescription>
+    <SourceFile>C:\GitRepo\ConqueringtheMonsterProc\AutoDealershipDemo_Summit2023\AutoDealershipDemo_Summit2023\dbo\Functions\mstvf_CalcNetProfit.sql</SourceFile>
+    <Line>24</Line>
+    <Column>9</Column>
+    <Severity>Warning</Severity>
+  </Problem>
+  <Problem>
+    <Rule>Microsoft.Rules.Data.SR0014</Rule>
+    <ProblemDescription>Data loss might occur when casting from Money to Decimal(3, 2).</ProblemDescription>
+    <SourceFile>C:\GitRepo\ConqueringtheMonsterProc\AutoDealershipDemo_Summit2023\AutoDealershipDemo_Summit2023\dbo\Functions\mstvf_CalcNetProfit.sql</SourceFile>
+    <Line>24</Line>
+    <Column>9</Column>
+    <Severity>Warning</Severity>
+  </Problem>
+  <Problem>
+    <Rule>Microsoft.Rules.Data.SR0007</Rule>
+    <ProblemDescription>Nullable columns can cause final results to be evaluated as NULL for the predicate.</ProblemDescription>
+    <SourceFile>C:\GitRepo\ConqueringtheMonsterProc\AutoDealershipDemo_Summit2023\AutoDealershipDemo_Summit2023\dbo\Functions\mstvf_SalesByState.sql</SourceFile>
+    <Line>32</Line>
+    <Column>8</Column>
+    <Severity>Warning</Severity>
+  </Problem>
+  <Problem>
+    <Rule>Microsoft.Rules.Data.SR0006</Rule>
+    <ProblemDescription>A column in an expression to be compared in a predicate might cause a table scan and degrade performance.</ProblemDescription>
+    <SourceFile>C:\GitRepo\ConqueringtheMonsterProc\AutoDealershipDemo_Summit2023\AutoDealershipDemo_Summit2023\Workload\Stored Procedures\sp_FastQuery_SalesHistoryCustomer.sql</SourceFile>
+    <Line>29</Line>
+    <Column>8</Column>
+    <Severity>Warning</Severity>
+  </Problem>
+  <Problem>
+    <Rule>Microsoft.Rules.Data.SR0016</Rule>
+    <ProblemDescription>Stored procedure(sp_FastQuery_SalesHistoryCustomer) includes sp_ prefix in its name.</ProblemDescription>
+    <SourceFile>C:\GitRepo\ConqueringtheMonsterProc\AutoDealershipDemo_Summit2023\AutoDealershipDemo_Summit2023\Workload\Stored Procedures\sp_FastQuery_SalesHistoryCustomer.sql</SourceFile>
+    <Line>3</Line>
+    <Column>29</Column>
+    <Severity>Warning</Severity>
+  </Problem>
+  <Problem>
+    <Rule>Microsoft.Rules.Data.SR0006</Rule>
+    <ProblemDescription>A column in an expression to be compared in a predicate might cause a table scan and degrade performance.</ProblemDescription>
+    <SourceFile>C:\GitRepo\ConqueringtheMonsterProc\AutoDealershipDemo_Summit2023\AutoDealershipDemo_Summit2023\Workload\Stored Procedures\sp_FastQuery_InventoryPackage.sql</SourceFile>
+    <Line>48</Line>
+    <Column>8</Column>
+    <Severity>Warning</Severity>
+  </Problem>
+  <Problem>
+    <Rule>Microsoft.Rules.Data.SR0016</Rule>
+    <ProblemDescription>Stored procedure(sp_FastQuery_InventoryPackage) includes sp_ prefix in its name.</ProblemDescription>
+    <SourceFile>C:\GitRepo\ConqueringtheMonsterProc\AutoDealershipDemo_Summit2023\AutoDealershipDemo_Summit2023\Workload\Stored Procedures\sp_FastQuery_InventoryPackage.sql</SourceFile>
+    <Line>2</Line>
+    <Column>29</Column>
+    <Severity>Warning</Severity>
+  </Problem>
+  <Problem>
+    <Rule>Microsoft.Rules.Data.SR0001</Rule>
+    <ProblemDescription>The shape of the result set produced by a SELECT * statement will change if the underlying table or view structure changes.</ProblemDescription>
+    <SourceFile>C:\GitRepo\ConqueringtheMonsterProc\AutoDealershipDemo_Summit2023\AutoDealershipDemo_Summit2023\Workload\Stored Procedures\sp_PAGEIOLATCH_AllSoldInventory.sql</SourceFile>
+    <Line>17</Line>
+    <Column>17</Column>
+    <Severity>Warning</Severity>
+  </Problem>
+  <Problem>
+    <Rule>Microsoft.Rules.Data.SR0004</Rule>
+    <ProblemDescription>A column without an index that is used as an IN predicate test expression might degrade performance.</ProblemDescription>
+    <SourceFile>C:\GitRepo\ConqueringtheMonsterProc\AutoDealershipDemo_Summit2023\AutoDealershipDemo_Summit2023\Workload\Stored Procedures\sp_PAGEIOLATCH_AllSoldInventory.sql</SourceFile>
+    <Line>27</Line>
+    <Column>6</Column>
+    <Severity>Warning</Severity>
+  </Problem>
+  <Problem>
+    <Rule>Microsoft.Rules.Data.SR0004</Rule>
+    <ProblemDescription>A column without an index that is used as an IN predicate test expression might degrade performance.</ProblemDescription>
+    <SourceFile>C:\GitRepo\ConqueringtheMonsterProc\AutoDealershipDemo_Summit2023\AutoDealershipDemo_Summit2023\Workload\Stored Procedures\sp_PAGEIOLATCH_AllSoldInventory.sql</SourceFile>
+    <Line>28</Line>
+    <Column>6</Column>
+    <Severity>Warning</Severity>
+  </Problem>
+  <Problem>
+    <Rule>Microsoft.Rules.Data.SR0014</Rule>
+    <ProblemDescription>Data loss might occur when casting from ASCII String(10) to DateTime.</ProblemDescription>
+    <SourceFile>C:\GitRepo\ConqueringtheMonsterProc\AutoDealershipDemo_Summit2023\AutoDealershipDemo_Summit2023\Workload\Stored Procedures\sp_PAGEIOLATCH_AllSoldInventory.sql</SourceFile>
+    <Line>13</Line>
+    <Column>30</Column>
+    <Severity>Warning</Severity>
+  </Problem>
+  <Problem>
+    <Rule>Microsoft.Rules.Data.SR0016</Rule>
+    <ProblemDescription>Stored procedure(sp_PAGEIOLATCH_AllSoldInventory) includes sp_ prefix in its name.</ProblemDescription>
+    <SourceFile>C:\GitRepo\ConqueringtheMonsterProc\AutoDealershipDemo_Summit2023\AutoDealershipDemo_Summit2023\Workload\Stored Procedures\sp_PAGEIOLATCH_AllSoldInventory.sql</SourceFile>
+    <Line>3</Line>
+    <Column>29</Column>
+    <Severity>Warning</Severity>
+  </Problem>
+  <Problem>
+    <Rule>Microsoft.Rules.Data.SR0001</Rule>
+    <ProblemDescription>The shape of the result set produced by a SELECT * statement will change if the underlying table or view structure changes.</ProblemDescription>
+    <SourceFile>C:\GitRepo\ConqueringtheMonsterProc\AutoDealershipDemo_Summit2023\AutoDealershipDemo_Summit2023\demo\Stored Procedures\sp_InventoryFlat_Fast_Parallel.sql</SourceFile>
+    <Line>7</Line>
+    <Column>9</Column>
+    <Severity>Warning</Severity>
+  </Problem>
+  <Problem>
+    <Rule>Microsoft.Rules.Data.SR0016</Rule>
+    <ProblemDescription>Stored procedure(sp_InventoryFlat_Fast_Parallel) includes sp_ prefix in its name.</ProblemDescription>
+    <SourceFile>C:\GitRepo\ConqueringtheMonsterProc\AutoDealershipDemo_Summit2023\AutoDealershipDemo_Summit2023\demo\Stored Procedures\sp_InventoryFlat_Fast_Parallel.sql</SourceFile>
+    <Line>1</Line>
+    <Column>25</Column>
+    <Severity>Warning</Severity>
+  </Problem>
+  <Problem>
+    <Rule>Microsoft.Rules.Data.SR0001</Rule>
+    <ProblemDescription>The shape of the result set produced by a SELECT * statement will change if the underlying table or view structure changes.</ProblemDescription>
+    <SourceFile>C:\GitRepo\ConqueringtheMonsterProc\AutoDealershipDemo_Summit2023\AutoDealershipDemo_Summit2023\demo\Stored Procedures\sp_InventoryFlat_Fast_Serial.sql</SourceFile>
+    <Line>8</Line>
+    <Column>9</Column>
+    <Severity>Warning</Severity>
+  </Problem>
+  <Problem>
+    <Rule>Microsoft.Rules.Data.SR0016</Rule>
+    <ProblemDescription>Stored procedure(sp_InventoryFlat_Fast_Serial) includes sp_ prefix in its name.</ProblemDescription>
+    <SourceFile>C:\GitRepo\ConqueringtheMonsterProc\AutoDealershipDemo_Summit2023\AutoDealershipDemo_Summit2023\demo\Stored Procedures\sp_InventoryFlat_Fast_Serial.sql</SourceFile>
+    <Line>2</Line>
+    <Column>25</Column>
+    <Severity>Warning</Severity>
+  </Problem>
+  <Problem>
+    <Rule>Microsoft.Rules.Data.SR0007</Rule>
+    <ProblemDescription>Nullable columns can cause final results to be evaluated as NULL for the predicate.</ProblemDescription>
+    <SourceFile>C:\GitRepo\ConqueringtheMonsterProc\AutoDealershipDemo_Summit2023\AutoDealershipDemo_Summit2023\Workload\Stored Procedures\PlanExplorerTest.sql</SourceFile>
+    <Line>33</Line>
+    <Column>7</Column>
+    <Severity>Warning</Severity>
+  </Problem>
+  <Problem>
+    <Rule>Microsoft.Rules.Data.SR0007</Rule>
+    <ProblemDescription>Nullable columns can cause final results to be evaluated as NULL for the predicate.</ProblemDescription>
+    <SourceFile>C:\GitRepo\ConqueringtheMonsterProc\AutoDealershipDemo_Summit2023\AutoDealershipDemo_Summit2023\Workload\Stored Procedures\PlanExplorerTest.sql</SourceFile>
+    <Line>34</Line>
+    <Column>6</Column>
+    <Severity>Warning</Severity>
+  </Problem>
+  <Problem>
+    <Rule>Microsoft.Rules.Data.SR0014</Rule>
+    <ProblemDescription>Data loss might occur when casting from ASCII String(10) to DateTime.</ProblemDescription>
+    <SourceFile>C:\GitRepo\ConqueringtheMonsterProc\AutoDealershipDemo_Summit2023\AutoDealershipDemo_Summit2023\Workload\Stored Procedures\PlanExplorerTest.sql</SourceFile>
+    <Line>5</Line>
+    <Column>27</Column>
+    <Severity>Warning</Severity>
+  </Problem>
+  <Problem>
+    <Rule>Microsoft.Rules.Data.SR0014</Rule>
+    <ProblemDescription>Data loss might occur when casting from Date to DateTime.</ProblemDescription>
+    <SourceFile>C:\GitRepo\ConqueringtheMonsterProc\AutoDealershipDemo_Summit2023\AutoDealershipDemo_Summit2023\Workload\Stored Procedures\PlanExplorerTest.sql</SourceFile>
+    <Line>34</Line>
+    <Column>6</Column>
+    <Severity>Warning</Severity>
+  </Problem>
+  <Problem>
+    <Rule>Microsoft.Rules.Data.SR0007</Rule>
+    <ProblemDescription>Nullable columns can cause final results to be evaluated as NULL for the predicate.</ProblemDescription>
+    <SourceFile>C:\GitRepo\ConqueringtheMonsterProc\AutoDealershipDemo_Summit2023\AutoDealershipDemo_Summit2023\Workload\Stored Procedures\sp_GetUnsoldMakeModel_GrpByMonth.sql</SourceFile>
+    <Line>26</Line>
+    <Column>9</Column>
+    <Severity>Warning</Severity>
+  </Problem>
+  <Problem>
+    <Rule>Microsoft.Rules.Data.SR0016</Rule>
+    <ProblemDescription>Stored procedure(sp_GetUnsoldMakeModel_GrpByMonth) includes sp_ prefix in its name.</ProblemDescription>
+    <SourceFile>C:\GitRepo\ConqueringtheMonsterProc\AutoDealershipDemo_Summit2023\AutoDealershipDemo_Summit2023\Workload\Stored Procedures\sp_GetUnsoldMakeModel_GrpByMonth.sql</SourceFile>
+    <Line>2</Line>
+    <Column>29</Column>
+    <Severity>Warning</Severity>
+  </Problem>
+  <Problem>
+    <Rule>Microsoft.Rules.Data.SR0007</Rule>
+    <ProblemDescription>Nullable columns can cause final results to be evaluated as NULL for the predicate.</ProblemDescription>
+    <SourceFile>C:\GitRepo\ConqueringtheMonsterProc\AutoDealershipDemo_Summit2023\AutoDealershipDemo_Summit2023\dbo\Stored Procedures\sp_Add_Automobile_Inventory.sql</SourceFile>
+    <Line>169</Line>
+    <Column>9</Column>
+    <Severity>Warning</Severity>
+  </Problem>
+  <Problem>
+    <Rule>Microsoft.Rules.Data.SR0007</Rule>
+    <ProblemDescription>Nullable columns can cause final results to be evaluated as NULL for the predicate.</ProblemDescription>
+    <SourceFile>C:\GitRepo\ConqueringtheMonsterProc\AutoDealershipDemo_Summit2023\AutoDealershipDemo_Summit2023\dbo\Stored Procedures\sp_Add_Automobile_Inventory.sql</SourceFile>
+    <Line>169</Line>
+    <Column>25</Column>
+    <Severity>Warning</Severity>
+  </Problem>
+  <Problem>
+    <Rule>Microsoft.Rules.Data.SR0007</Rule>
+    <ProblemDescription>Nullable columns can cause final results to be evaluated as NULL for the predicate.</ProblemDescription>
+    <SourceFile>C:\GitRepo\ConqueringtheMonsterProc\AutoDealershipDemo_Summit2023\AutoDealershipDemo_Summit2023\dbo\Stored Procedures\sp_Add_Automobile_Inventory.sql</SourceFile>
+    <Line>178</Line>
+    <Column>29</Column>
+    <Severity>Warning</Severity>
+  </Problem>
+  <Problem>
+    <Rule>Microsoft.Rules.Data.SR0007</Rule>
+    <ProblemDescription>Nullable columns can cause final results to be evaluated as NULL for the predicate.</ProblemDescription>
+    <SourceFile>C:\GitRepo\ConqueringtheMonsterProc\AutoDealershipDemo_Summit2023\AutoDealershipDemo_Summit2023\dbo\Stored Procedures\sp_Add_Automobile_Inventory.sql</SourceFile>
+    <Line>208</Line>
+    <Column>9</Column>
+    <Severity>Warning</Severity>
+  </Problem>
+  <Problem>
+    <Rule>Microsoft.Rules.Data.SR0007</Rule>
+    <ProblemDescription>Nullable columns can cause final results to be evaluated as NULL for the predicate.</ProblemDescription>
+    <SourceFile>C:\GitRepo\ConqueringtheMonsterProc\AutoDealershipDemo_Summit2023\AutoDealershipDemo_Summit2023\dbo\Stored Procedures\sp_Add_Automobile_Inventory.sql</SourceFile>
+    <Line>208</Line>
+    <Column>25</Column>
+    <Severity>Warning</Severity>
+  </Problem>
+  <Problem>
+    <Rule>Microsoft.Rules.Data.SR0007</Rule>
+    <ProblemDescription>Nullable columns can cause final results to be evaluated as NULL for the predicate.</ProblemDescription>
+    <SourceFile>C:\GitRepo\ConqueringtheMonsterProc\AutoDealershipDemo_Summit2023\AutoDealershipDemo_Summit2023\dbo\Stored Procedures\sp_Add_Automobile_Inventory.sql</SourceFile>
+    <Line>254</Line>
+    <Column>29</Column>
+    <Severity>Warning</Severity>
+  </Problem>
+  <Problem>
+    <Rule>Microsoft.Rules.Data.SR0014</Rule>
+    <ProblemDescription>Data loss might occur when casting from BigInt to Int.</ProblemDescription>
+    <SourceFile>C:\GitRepo\ConqueringtheMonsterProc\AutoDealershipDemo_Summit2023\AutoDealershipDemo_Summit2023\dbo\Stored Procedures\sp_Add_Automobile_Inventory.sql</SourceFile>
+    <Line>108</Line>
+    <Column>3</Column>
+    <Severity>Warning</Severity>
+  </Problem>
+  <Problem>
+    <Rule>Microsoft.Rules.Data.SR0014</Rule>
+    <ProblemDescription>Data loss might occur when casting from DateTime to Date.</ProblemDescription>
+    <SourceFile>C:\GitRepo\ConqueringtheMonsterProc\AutoDealershipDemo_Summit2023\AutoDealershipDemo_Summit2023\dbo\Stored Procedures\sp_Add_Automobile_Inventory.sql</SourceFile>
+    <Line>199</Line>
+    <Column>3</Column>
+    <Severity>Warning</Severity>
+  </Problem>
+  <Problem>
+    <Rule>Microsoft.Rules.Data.SR0016</Rule>
+    <ProblemDescription>Stored procedure(sp_Add_Automobile_Inventory) includes sp_ prefix in its name.</ProblemDescription>
+    <SourceFile>C:\GitRepo\ConqueringtheMonsterProc\AutoDealershipDemo_Summit2023\AutoDealershipDemo_Summit2023\dbo\Stored Procedures\sp_Add_Automobile_Inventory.sql</SourceFile>
+    <Line>43</Line>
+    <Column>24</Column>
+    <Severity>Warning</Severity>
+  </Problem>
+  <Problem>
+    <Rule>Microsoft.Rules.Data.SR0007</Rule>
+    <ProblemDescription>Nullable columns can cause final results to be evaluated as NULL for the predicate.</ProblemDescription>
+    <SourceFile>C:\GitRepo\ConqueringtheMonsterProc\AutoDealershipDemo_Summit2023\AutoDealershipDemo_Summit2023\Workload\Stored Procedures\sp_GetUnsoldMakeModelCount.sql</SourceFile>
+    <Line>23</Line>
+    <Column>9</Column>
+    <Severity>Warning</Severity>
+  </Problem>
+  <Problem>
+    <Rule>Microsoft.Rules.Data.SR0016</Rule>
+    <ProblemDescription>Stored procedure(sp_GetUnsoldMakeModelCount) includes sp_ prefix in its name.</ProblemDescription>
+    <SourceFile>C:\GitRepo\ConqueringtheMonsterProc\AutoDealershipDemo_Summit2023\AutoDealershipDemo_Summit2023\Workload\Stored Procedures\sp_GetUnsoldMakeModelCount.sql</SourceFile>
+    <Line>2</Line>
+    <Column>29</Column>
+    <Severity>Warning</Severity>
+  </Problem>
+  <Problem>
+    <Rule>Microsoft.Rules.Data.SR0007</Rule>
+    <ProblemDescription>Nullable columns can cause final results to be evaluated as NULL for the predicate.</ProblemDescription>
+    <SourceFile>C:\GitRepo\ConqueringtheMonsterProc\AutoDealershipDemo_Summit2023\AutoDealershipDemo_Summit2023\Workload\Stored Procedures\sp_SoldMakeModel_GrpByMonth.sql</SourceFile>
+    <Line>29</Line>
+    <Column>9</Column>
+    <Severity>Warning</Severity>
+  </Problem>
+  <Problem>
+    <Rule>Microsoft.Rules.Data.SR0016</Rule>
+    <ProblemDescription>Stored procedure(sp_SoldMakeModel_GrpByMonth) includes sp_ prefix in its name.</ProblemDescription>
+    <SourceFile>C:\GitRepo\ConqueringtheMonsterProc\AutoDealershipDemo_Summit2023\AutoDealershipDemo_Summit2023\Workload\Stored Procedures\sp_SoldMakeModel_GrpByMonth.sql</SourceFile>
+    <Line>2</Line>
+    <Column>29</Column>
+    <Severity>Warning</Severity>
+  </Problem>
+  <Problem>
+    <Rule>Microsoft.Rules.Data.SR0007</Rule>
+    <ProblemDescription>Nullable columns can cause final results to be evaluated as NULL for the predicate.</ProblemDescription>
+    <SourceFile>C:\GitRepo\ConqueringtheMonsterProc\AutoDealershipDemo_Summit2023\AutoDealershipDemo_Summit2023\Workload\Stored Procedures\sp_GetAllInventory_ByRandModel_MethodA.sql</SourceFile>
+    <Line>32</Line>
+    <Column>9</Column>
+    <Severity>Warning</Severity>
+  </Problem>
+  <Problem>
+    <Rule>Microsoft.Rules.Data.SR0016</Rule>
+    <ProblemDescription>Stored procedure(sp_GetAllInventory_ByRandModel_MethodA) includes sp_ prefix in its name.</ProblemDescription>
+    <SourceFile>C:\GitRepo\ConqueringtheMonsterProc\AutoDealershipDemo_Summit2023\AutoDealershipDemo_Summit2023\Workload\Stored Procedures\sp_GetAllInventory_ByRandModel_MethodA.sql</SourceFile>
+    <Line>2</Line>
+    <Column>29</Column>
+    <Severity>Warning</Severity>
+  </Problem>
+  <Problem>
+    <Rule>Microsoft.Rules.Data.SR0016</Rule>
+    <ProblemDescription>Stored procedure(sp_Customer_TblVar) includes sp_ prefix in its name.</ProblemDescription>
+    <SourceFile>C:\GitRepo\ConqueringtheMonsterProc\AutoDealershipDemo_Summit2023\AutoDealershipDemo_Summit2023\dbo\Stored Procedures\sp_Customer_TblVar.sql</SourceFile>
+    <Line>5</Line>
+    <Column>24</Column>
+    <Severity>Warning</Severity>
+  </Problem>
+  <Problem>
+    <Rule>Microsoft.Rules.Data.SR0007</Rule>
+    <ProblemDescription>Nullable columns can cause final results to be evaluated as NULL for the predicate.</ProblemDescription>
+    <SourceFile>C:\GitRepo\ConqueringtheMonsterProc\AutoDealershipDemo_Summit2023\AutoDealershipDemo_Summit2023\Workload\Stored Procedures\sp_GetAllInventory_ByRandModel_MethodB.sql</SourceFile>
+    <Line>37</Line>
+    <Column>9</Column>
+    <Severity>Warning</Severity>
+  </Problem>
+  <Problem>
+    <Rule>Microsoft.Rules.Data.SR0016</Rule>
+    <ProblemDescription>Stored procedure(sp_GetAllInventory_ByRandModel_MethodB) includes sp_ prefix in its name.</ProblemDescription>
+    <SourceFile>C:\GitRepo\ConqueringtheMonsterProc\AutoDealershipDemo_Summit2023\AutoDealershipDemo_Summit2023\Workload\Stored Procedures\sp_GetAllInventory_ByRandModel_MethodB.sql</SourceFile>
+    <Line>2</Line>
+    <Column>29</Column>
+    <Severity>Warning</Severity>
+  </Problem>
+  <Problem>
+    <Rule>Microsoft.Rules.Data.SR0004</Rule>
+    <ProblemDescription>A column without an index that is used as an IN predicate test expression might degrade performance.</ProblemDescription>
+    <SourceFile>C:\GitRepo\ConqueringtheMonsterProc\AutoDealershipDemo_Summit2023\AutoDealershipDemo_Summit2023\Workload\Stored Procedures\sp_GetInventory_ByRandColor.sql</SourceFile>
+    <Line>32</Line>
+    <Column>9</Column>
+    <Severity>Warning</Severity>
+  </Problem>
+  <Problem>
+    <Rule>Microsoft.Rules.Data.SR0007</Rule>
+    <ProblemDescription>Nullable columns can cause final results to be evaluated as NULL for the predicate.</ProblemDescription>
+    <SourceFile>C:\GitRepo\ConqueringtheMonsterProc\AutoDealershipDemo_Summit2023\AutoDealershipDemo_Summit2023\Workload\Stored Procedures\sp_GetInventory_ByRandColor.sql</SourceFile>
+    <Line>32</Line>
+    <Column>9</Column>
+    <Severity>Warning</Severity>
+  </Problem>
+  <Problem>
+    <Rule>Microsoft.Rules.Data.SR0016</Rule>
+    <ProblemDescription>Stored procedure(sp_GetInventory_ByRandColor) includes sp_ prefix in its name.</ProblemDescription>
+    <SourceFile>C:\GitRepo\ConqueringtheMonsterProc\AutoDealershipDemo_Summit2023\AutoDealershipDemo_Summit2023\Workload\Stored Procedures\sp_GetInventory_ByRandColor.sql</SourceFile>
+    <Line>2</Line>
+    <Column>29</Column>
+    <Severity>Warning</Severity>
+  </Problem>
+  <Problem>
+    <Rule>Microsoft.Rules.Data.SR0006</Rule>
+    <ProblemDescription>A column in an expression to be compared in a predicate might cause a table scan and degrade performance.</ProblemDescription>
+    <SourceFile>C:\GitRepo\ConqueringtheMonsterProc\AutoDealershipDemo_Summit2023\AutoDealershipDemo_Summit2023\Workload\Stored Procedures\sp_RandomVINLookupBatch.sql</SourceFile>
+    <Line>13</Line>
+    <Column>8</Column>
+    <Severity>Warning</Severity>
+  </Problem>
+  <Problem>
+    <Rule>Microsoft.Rules.Data.SR0007</Rule>
+    <ProblemDescription>Nullable columns can cause final results to be evaluated as NULL for the predicate.</ProblemDescription>
+    <SourceFile>C:\GitRepo\ConqueringtheMonsterProc\AutoDealershipDemo_Summit2023\AutoDealershipDemo_Summit2023\Workload\Stored Procedures\sp_RandomVINLookupBatch.sql</SourceFile>
+    <Line>38</Line>
+    <Column>24</Column>
+    <Severity>Warning</Severity>
+  </Problem>
+  <Problem>
+    <Rule>Microsoft.Rules.Data.SR0016</Rule>
+    <ProblemDescription>Stored procedure(sp_RandomVINLookupBatch) includes sp_ prefix in its name.</ProblemDescription>
+    <SourceFile>C:\GitRepo\ConqueringtheMonsterProc\AutoDealershipDemo_Summit2023\AutoDealershipDemo_Summit2023\Workload\Stored Procedures\sp_RandomVINLookupBatch.sql</SourceFile>
+    <Line>2</Line>
+    <Column>29</Column>
+    <Severity>Warning</Severity>
+  </Problem>
+  <Problem>
+    <Rule>Microsoft.Rules.Data.SR0007</Rule>
+    <ProblemDescription>Nullable columns can cause final results to be evaluated as NULL for the predicate.</ProblemDescription>
+    <SourceFile>C:\GitRepo\ConqueringtheMonsterProc\AutoDealershipDemo_Summit2023\AutoDealershipDemo_Summit2023\Workload\Stored Procedures\sp_Get_SalesSummaryByState_GroupByYear.sql</SourceFile>
+    <Line>44</Line>
+    <Column>8</Column>
+    <Severity>Warning</Severity>
+  </Problem>
+  <Problem>
+    <Rule>Microsoft.Rules.Data.SR0016</Rule>
+    <ProblemDescription>Stored procedure(sp_Get_SalesSummaryByState_GroupByYear) includes sp_ prefix in its name.</ProblemDescription>
+    <SourceFile>C:\GitRepo\ConqueringtheMonsterProc\AutoDealershipDemo_Summit2023\AutoDealershipDemo_Summit2023\Workload\Stored Procedures\sp_Get_SalesSummaryByState_GroupByYear.sql</SourceFile>
+    <Line>22</Line>
+    <Column>31</Column>
+    <Severity>Warning</Severity>
+  </Problem>
+  <Problem>
+    <Rule>Microsoft.Rules.Data.SR0007</Rule>
+    <ProblemDescription>Nullable columns can cause final results to be evaluated as NULL for the predicate.</ProblemDescription>
+    <SourceFile>C:\GitRepo\ConqueringtheMonsterProc\AutoDealershipDemo_Summit2023\AutoDealershipDemo_Summit2023\dbo\Stored Procedures\sp_SyncInventoryFlat.sql</SourceFile>
+    <Line>14</Line>
+    <Column>8</Column>
+    <Severity>Warning</Severity>
+  </Problem>
+  <Problem>
+    <Rule>Microsoft.Rules.Data.SR0007</Rule>
+    <ProblemDescription>Nullable columns can cause final results to be evaluated as NULL for the predicate.</ProblemDescription>
+    <SourceFile>C:\GitRepo\ConqueringtheMonsterProc\AutoDealershipDemo_Summit2023\AutoDealershipDemo_Summit2023\dbo\Stored Procedures\sp_SyncInventoryFlat.sql</SourceFile>
+    <Line>22</Line>
+    <Column>8</Column>
+    <Severity>Warning</Severity>
+  </Problem>
+  <Problem>
+    <Rule>Microsoft.Rules.Data.SR0007</Rule>
+    <ProblemDescription>Nullable columns can cause final results to be evaluated as NULL for the predicate.</ProblemDescription>
+    <SourceFile>C:\GitRepo\ConqueringtheMonsterProc\AutoDealershipDemo_Summit2023\AutoDealershipDemo_Summit2023\dbo\Stored Procedures\sp_SyncInventoryFlat.sql</SourceFile>
+    <Line>68</Line>
+    <Column>29</Column>
+    <Severity>Warning</Severity>
+  </Problem>
+  <Problem>
+    <Rule>Microsoft.Rules.Data.SR0007</Rule>
+    <ProblemDescription>Nullable columns can cause final results to be evaluated as NULL for the predicate.</ProblemDescription>
+    <SourceFile>C:\GitRepo\ConqueringtheMonsterProc\AutoDealershipDemo_Summit2023\AutoDealershipDemo_Summit2023\dbo\Stored Procedures\sp_SyncInventoryFlat.sql</SourceFile>
+    <Line>111</Line>
+    <Column>30</Column>
+    <Severity>Warning</Severity>
+  </Problem>
+  <Problem>
+    <Rule>Microsoft.Rules.Data.SR0015</Rule>
+    <ProblemDescription>Deterministic function call (COUNT) might cause an unnecessary table scan.</ProblemDescription>
+    <SourceFile>C:\GitRepo\ConqueringtheMonsterProc\AutoDealershipDemo_Summit2023\AutoDealershipDemo_Summit2023\dbo\Stored Procedures\sp_SyncInventoryFlat.sql</SourceFile>
+    <Line>18</Line>
+    <Column>10</Column>
+    <Severity>Warning</Severity>
+  </Problem>
+  <Problem>
+    <Rule>Microsoft.Rules.Data.SR0015</Rule>
+    <ProblemDescription>Deterministic function call (COUNT) might cause an unnecessary table scan.</ProblemDescription>
+    <SourceFile>C:\GitRepo\ConqueringtheMonsterProc\AutoDealershipDemo_Summit2023\AutoDealershipDemo_Summit2023\dbo\Stored Procedures\sp_SyncInventoryFlat.sql</SourceFile>
+    <Line>26</Line>
+    <Column>10</Column>
+    <Severity>Warning</Severity>
+  </Problem>
+  <Problem>
+    <Rule>Microsoft.Rules.Data.SR0016</Rule>
+    <ProblemDescription>Stored procedure(sp_SyncInventoryFlat) includes sp_ prefix in its name.</ProblemDescription>
+    <SourceFile>C:\GitRepo\ConqueringtheMonsterProc\AutoDealershipDemo_Summit2023\AutoDealershipDemo_Summit2023\dbo\Stored Procedures\sp_SyncInventoryFlat.sql</SourceFile>
+    <Line>5</Line>
+    <Column>26</Column>
+    <Severity>Warning</Severity>
+  </Problem>
+  <Problem>
+    <Rule>Microsoft.Rules.Data.SR0007</Rule>
+    <ProblemDescription>Nullable columns can cause final results to be evaluated as NULL for the predicate.</ProblemDescription>
+    <SourceFile>C:\GitRepo\ConqueringtheMonsterProc\AutoDealershipDemo_Summit2023\AutoDealershipDemo_Summit2023\Workload\Stored Procedures\sp_Get_SalesSummaryByState_TransDate_GroupByYear.sql</SourceFile>
+    <Line>27</Line>
+    <Column>8</Column>
+    <Severity>Warning</Severity>
+  </Problem>
+  <Problem>
+    <Rule>Microsoft.Rules.Data.SR0007</Rule>
+    <ProblemDescription>Nullable columns can cause final results to be evaluated as NULL for the predicate.</ProblemDescription>
+    <SourceFile>C:\GitRepo\ConqueringtheMonsterProc\AutoDealershipDemo_Summit2023\AutoDealershipDemo_Summit2023\Workload\Stored Procedures\sp_Get_SalesSummaryByState_TransDate_GroupByYear.sql</SourceFile>
+    <Line>29</Line>
+    <Column>4</Column>
+    <Severity>Warning</Severity>
+  </Problem>
+  <Problem>
+    <Rule>Microsoft.Rules.Data.SR0007</Rule>
+    <ProblemDescription>Nullable columns can cause final results to be evaluated as NULL for the predicate.</ProblemDescription>
+    <SourceFile>C:\GitRepo\ConqueringtheMonsterProc\AutoDealershipDemo_Summit2023\AutoDealershipDemo_Summit2023\Workload\Stored Procedures\sp_Get_SalesSummaryByState_TransDate_GroupByYear.sql</SourceFile>
+    <Line>30</Line>
+    <Column>8</Column>
+    <Severity>Warning</Severity>
+  </Problem>
+  <Problem>
+    <Rule>Microsoft.Rules.Data.SR0016</Rule>
+    <ProblemDescription>Stored procedure(sp_Get_SalesSummaryByState_TransDate_GroupByYear) includes sp_ prefix in its name.</ProblemDescription>
+    <SourceFile>C:\GitRepo\ConqueringtheMonsterProc\AutoDealershipDemo_Summit2023\AutoDealershipDemo_Summit2023\Workload\Stored Procedures\sp_Get_SalesSummaryByState_TransDate_GroupByYear.sql</SourceFile>
+    <Line>3</Line>
+    <Column>31</Column>
+    <Severity>Warning</Severity>
+  </Problem>
+  <Problem>
+    <Rule>Microsoft.Rules.Data.SR0014</Rule>
+    <ProblemDescription>Data loss might occur when casting from Money to Decimal(4, 1).</ProblemDescription>
+    <SourceFile>C:\GitRepo\ConqueringtheMonsterProc\AutoDealershipDemo_Summit2023\AutoDealershipDemo_Summit2023\dbo\Stored Procedures\sp_Add_SalesHistory.sql</SourceFile>
+    <Line>110</Line>
+    <Column>3</Column>
+    <Severity>Warning</Severity>
+  </Problem>
+  <Problem>
+    <Rule>Microsoft.Rules.Data.SR0014</Rule>
+    <ProblemDescription>Data loss might occur when casting from Decimal(4, 1) to Money.</ProblemDescription>
+    <SourceFile>C:\GitRepo\ConqueringtheMonsterProc\AutoDealershipDemo_Summit2023\AutoDealershipDemo_Summit2023\dbo\Stored Procedures\sp_Add_SalesHistory.sql</SourceFile>
+    <Line>110</Line>
+    <Column>3</Column>
+    <Severity>Warning</Severity>
+  </Problem>
+  <Problem>
+    <Rule>Microsoft.Rules.Data.SR0014</Rule>
+    <ProblemDescription>Data loss might occur when casting from Money to Decimal(4, 1).</ProblemDescription>
+    <SourceFile>C:\GitRepo\ConqueringtheMonsterProc\AutoDealershipDemo_Summit2023\AutoDealershipDemo_Summit2023\dbo\Stored Procedures\sp_Add_SalesHistory.sql</SourceFile>
+    <Line>110</Line>
+    <Column>3</Column>
+    <Severity>Warning</Severity>
+  </Problem>
+  <Problem>
+    <Rule>Microsoft.Rules.Data.SR0016</Rule>
+    <ProblemDescription>Stored procedure(sp_Add_SalesHistory) includes sp_ prefix in its name.</ProblemDescription>
+    <SourceFile>C:\GitRepo\ConqueringtheMonsterProc\AutoDealershipDemo_Summit2023\AutoDealershipDemo_Summit2023\dbo\Stored Procedures\sp_Add_SalesHistory.sql</SourceFile>
+    <Line>2</Line>
+    <Column>26</Column>
+    <Severity>Warning</Severity>
+  </Problem>
+  <Problem>
+    <Rule>Microsoft.Rules.Data.SR0016</Rule>
+    <ProblemDescription>Stored procedure(sp_DropAllNCIs) includes sp_ prefix in its name.</ProblemDescription>
+    <SourceFile>C:\GitRepo\ConqueringtheMonsterProc\AutoDealershipDemo_Summit2023\AutoDealershipDemo_Summit2023\dbo\Stored Procedures\sp_DropAllNCIs.sql</SourceFile>
+    <Line>4</Line>
+    <Column>24</Column>
+    <Severity>Warning</Severity>
+  </Problem>
+  <Problem>
+    <Rule>Microsoft.Rules.Data.SR0001</Rule>
+    <ProblemDescription>The shape of the result set produced by a SELECT * statement will change if the underlying table or view structure changes.</ProblemDescription>
+    <SourceFile>C:\GitRepo\ConqueringtheMonsterProc\AutoDealershipDemo_Summit2023\AutoDealershipDemo_Summit2023\demo\Stored Procedures\sp_NightlyProcessingForReporting.sql</SourceFile>
+    <Line>465</Line>
+    <Column>3</Column>
+    <Severity>Warning</Severity>
+  </Problem>
+  <Problem>
+    <Rule>Microsoft.Rules.Data.SR0001</Rule>
+    <ProblemDescription>The shape of the result set produced by a SELECT * statement will change if the underlying table or view structure changes.</ProblemDescription>
+    <SourceFile>C:\GitRepo\ConqueringtheMonsterProc\AutoDealershipDemo_Summit2023\AutoDealershipDemo_Summit2023\demo\Stored Procedures\sp_NightlyProcessingForReporting.sql</SourceFile>
+    <Line>510</Line>
+    <Column>8</Column>
+    <Severity>Warning</Severity>
+  </Problem>
+  <Problem>
+    <Rule>Microsoft.Rules.Data.SR0007</Rule>
+    <ProblemDescription>Nullable columns can cause final results to be evaluated as NULL for the predicate.</ProblemDescription>
+    <SourceFile>C:\GitRepo\ConqueringtheMonsterProc\AutoDealershipDemo_Summit2023\AutoDealershipDemo_Summit2023\demo\Stored Procedures\sp_NightlyProcessingForReporting.sql</SourceFile>
+    <Line>72</Line>
+    <Column>4</Column>
+    <Severity>Warning</Severity>
+  </Problem>
+  <Problem>
+    <Rule>Microsoft.Rules.Data.SR0007</Rule>
+    <ProblemDescription>Nullable columns can cause final results to be evaluated as NULL for the predicate.</ProblemDescription>
+    <SourceFile>C:\GitRepo\ConqueringtheMonsterProc\AutoDealershipDemo_Summit2023\AutoDealershipDemo_Summit2023\demo\Stored Procedures\sp_NightlyProcessingForReporting.sql</SourceFile>
+    <Line>73</Line>
+    <Column>8</Column>
+    <Severity>Warning</Severity>
+  </Problem>
+  <Problem>
+    <Rule>Microsoft.Rules.Data.SR0007</Rule>
+    <ProblemDescription>Nullable columns can cause final results to be evaluated as NULL for the predicate.</ProblemDescription>
+    <SourceFile>C:\GitRepo\ConqueringtheMonsterProc\AutoDealershipDemo_Summit2023\AutoDealershipDemo_Summit2023\demo\Stored Procedures\sp_NightlyProcessingForReporting.sql</SourceFile>
+    <Line>245</Line>
+    <Column>9</Column>
+    <Severity>Warning</Severity>
+  </Problem>
+  <Problem>
+    <Rule>Microsoft.Rules.Data.SR0007</Rule>
+    <ProblemDescription>Nullable columns can cause final results to be evaluated as NULL for the predicate.</ProblemDescription>
+    <SourceFile>C:\GitRepo\ConqueringtheMonsterProc\AutoDealershipDemo_Summit2023\AutoDealershipDemo_Summit2023\demo\Stored Procedures\sp_NightlyProcessingForReporting.sql</SourceFile>
+    <Line>301</Line>
+    <Column>9</Column>
+    <Severity>Warning</Severity>
+  </Problem>
+  <Problem>
+    <Rule>Microsoft.Rules.Data.SR0007</Rule>
+    <ProblemDescription>Nullable columns can cause final results to be evaluated as NULL for the predicate.</ProblemDescription>
+    <SourceFile>C:\GitRepo\ConqueringtheMonsterProc\AutoDealershipDemo_Summit2023\AutoDealershipDemo_Summit2023\demo\Stored Procedures\sp_NightlyProcessingForReporting.sql</SourceFile>
+    <Line>326</Line>
+    <Column>7</Column>
+    <Severity>Warning</Severity>
+  </Problem>
+  <Problem>
+    <Rule>Microsoft.Rules.Data.SR0007</Rule>
+    <ProblemDescription>Nullable columns can cause final results to be evaluated as NULL for the predicate.</ProblemDescription>
+    <SourceFile>C:\GitRepo\ConqueringtheMonsterProc\AutoDealershipDemo_Summit2023\AutoDealershipDemo_Summit2023\demo\Stored Procedures\sp_NightlyProcessingForReporting.sql</SourceFile>
+    <Line>475</Line>
+    <Column>8</Column>
+    <Severity>Warning</Severity>
+  </Problem>
+  <Problem>
+    <Rule>Microsoft.Rules.Data.SR0007</Rule>
+    <ProblemDescription>Nullable columns can cause final results to be evaluated as NULL for the predicate.</ProblemDescription>
+    <SourceFile>C:\GitRepo\ConqueringtheMonsterProc\AutoDealershipDemo_Summit2023\AutoDealershipDemo_Summit2023\demo\Stored Procedures\sp_NightlyProcessingForReporting.sql</SourceFile>
+    <Line>439</Line>
+    <Column>13</Column>
+    <Severity>Warning</Severity>
+  </Problem>
+  <Problem>
+    <Rule>Microsoft.Rules.Data.SR0007</Rule>
+    <ProblemDescription>Nullable columns can cause final results to be evaluated as NULL for the predicate.</ProblemDescription>
+    <SourceFile>C:\GitRepo\ConqueringtheMonsterProc\AutoDealershipDemo_Summit2023\AutoDealershipDemo_Summit2023\demo\Stored Procedures\sp_NightlyProcessingForReporting.sql</SourceFile>
+    <Line>439</Line>
+    <Column>29</Column>
+    <Severity>Warning</Severity>
+  </Problem>
+  <Problem>
+    <Rule>Microsoft.Rules.Data.SR0007</Rule>
+    <ProblemDescription>Nullable columns can cause final results to be evaluated as NULL for the predicate.</ProblemDescription>
+    <SourceFile>C:\GitRepo\ConqueringtheMonsterProc\AutoDealershipDemo_Summit2023\AutoDealershipDemo_Summit2023\demo\Stored Procedures\sp_NightlyProcessingForReporting.sql</SourceFile>
+    <Line>446</Line>
+    <Column>13</Column>
+    <Severity>Warning</Severity>
+  </Problem>
+  <Problem>
+    <Rule>Microsoft.Rules.Data.SR0007</Rule>
+    <ProblemDescription>Nullable columns can cause final results to be evaluated as NULL for the predicate.</ProblemDescription>
+    <SourceFile>C:\GitRepo\ConqueringtheMonsterProc\AutoDealershipDemo_Summit2023\AutoDealershipDemo_Summit2023\demo\Stored Procedures\sp_NightlyProcessingForReporting.sql</SourceFile>
+    <Line>446</Line>
+    <Column>29</Column>
+    <Severity>Warning</Severity>
+  </Problem>
+  <Problem>
+    <Rule>Microsoft.Rules.Data.SR0007</Rule>
+    <ProblemDescription>Nullable columns can cause final results to be evaluated as NULL for the predicate.</ProblemDescription>
+    <SourceFile>C:\GitRepo\ConqueringtheMonsterProc\AutoDealershipDemo_Summit2023\AutoDealershipDemo_Summit2023\demo\Stored Procedures\sp_NightlyProcessingForReporting.sql</SourceFile>
+    <Line>453</Line>
+    <Column>13</Column>
+    <Severity>Warning</Severity>
+  </Problem>
+  <Problem>
+    <Rule>Microsoft.Rules.Data.SR0007</Rule>
+    <ProblemDescription>Nullable columns can cause final results to be evaluated as NULL for the predicate.</ProblemDescription>
+    <SourceFile>C:\GitRepo\ConqueringtheMonsterProc\AutoDealershipDemo_Summit2023\AutoDealershipDemo_Summit2023\demo\Stored Procedures\sp_NightlyProcessingForReporting.sql</SourceFile>
+    <Line>453</Line>
+    <Column>29</Column>
+    <Severity>Warning</Severity>
+  </Problem>
+  <Problem>
+    <Rule>Microsoft.Rules.Data.SR0007</Rule>
+    <ProblemDescription>Nullable columns can cause final results to be evaluated as NULL for the predicate.</ProblemDescription>
+    <SourceFile>C:\GitRepo\ConqueringtheMonsterProc\AutoDealershipDemo_Summit2023\AutoDealershipDemo_Summit2023\demo\Stored Procedures\sp_NightlyProcessingForReporting.sql</SourceFile>
+    <Line>460</Line>
+    <Column>9</Column>
+    <Severity>Warning</Severity>
+  </Problem>
+  <Problem>
+    <Rule>Microsoft.Rules.Data.SR0007</Rule>
+    <ProblemDescription>Nullable columns can cause final results to be evaluated as NULL for the predicate.</ProblemDescription>
+    <SourceFile>C:\GitRepo\ConqueringtheMonsterProc\AutoDealershipDemo_Summit2023\AutoDealershipDemo_Summit2023\demo\Stored Procedures\sp_NightlyProcessingForReporting.sql</SourceFile>
+    <Line>518</Line>
+    <Column>9</Column>
+    <Severity>Warning</Severity>
+  </Problem>
+  <Problem>
+    <Rule>Microsoft.Rules.Data.SR0014</Rule>
+    <ProblemDescription>Data loss might occur when casting from Money to Int.</ProblemDescription>
+    <SourceFile>C:\GitRepo\ConqueringtheMonsterProc\AutoDealershipDemo_Summit2023\AutoDealershipDemo_Summit2023\demo\Stored Procedures\sp_NightlyProcessingForReporting.sql</SourceFile>
+    <Line>243</Line>
+    <Column>4</Column>
+    <Severity>Warning</Severity>
+  </Problem>
+  <Problem>
+    <Rule>Microsoft.Rules.Data.SR0014</Rule>
+    <ProblemDescription>Data loss might occur when casting from Date to DateTime.</ProblemDescription>
+    <SourceFile>C:\GitRepo\ConqueringtheMonsterProc\AutoDealershipDemo_Summit2023\AutoDealershipDemo_Summit2023\demo\Stored Procedures\sp_NightlyProcessingForReporting.sql</SourceFile>
+    <Line>326</Line>
+    <Column>34</Column>
+    <Severity>Warning</Severity>
+  </Problem>
+  <Problem>
+    <Rule>Microsoft.Rules.Data.SR0014</Rule>
+    <ProblemDescription>Data loss might occur when casting from Date to DateTime.</ProblemDescription>
+    <SourceFile>C:\GitRepo\ConqueringtheMonsterProc\AutoDealershipDemo_Summit2023\AutoDealershipDemo_Summit2023\demo\Stored Procedures\sp_NightlyProcessingForReporting.sql</SourceFile>
+    <Line>326</Line>
+    <Column>49</Column>
+    <Severity>Warning</Severity>
+  </Problem>
+  <Problem>
+    <Rule>Microsoft.Rules.Data.SR0014</Rule>
+    <ProblemDescription>Data loss might occur when casting from Money to Decimal(3, 2).</ProblemDescription>
+    <SourceFile>C:\GitRepo\ConqueringtheMonsterProc\AutoDealershipDemo_Summit2023\AutoDealershipDemo_Summit2023\demo\Stored Procedures\sp_NightlyProcessingForReporting.sql</SourceFile>
+    <Line>390</Line>
+    <Column>60</Column>
+    <Severity>Warning</Severity>
+  </Problem>
+  <Problem>
+    <Rule>Microsoft.Rules.Data.SR0014</Rule>
+    <ProblemDescription>Data loss might occur when casting from Date to DateTime.</ProblemDescription>
+    <SourceFile>C:\GitRepo\ConqueringtheMonsterProc\AutoDealershipDemo_Summit2023\AutoDealershipDemo_Summit2023\demo\Stored Procedures\sp_NightlyProcessingForReporting.sql</SourceFile>
+    <Line>475</Line>
+    <Column>35</Column>
+    <Severity>Warning</Severity>
+  </Problem>
+  <Problem>
+    <Rule>Microsoft.Rules.Data.SR0014</Rule>
+    <ProblemDescription>Data loss might occur when casting from Date to DateTime.</ProblemDescription>
+    <SourceFile>C:\GitRepo\ConqueringtheMonsterProc\AutoDealershipDemo_Summit2023\AutoDealershipDemo_Summit2023\demo\Stored Procedures\sp_NightlyProcessingForReporting.sql</SourceFile>
+    <Line>475</Line>
+    <Column>50</Column>
+    <Severity>Warning</Severity>
+  </Problem>
+  <Problem>
+    <Rule>Microsoft.Rules.Data.SR0014</Rule>
+    <ProblemDescription>Data loss might occur when casting from Date to DateTime.</ProblemDescription>
+    <SourceFile>C:\GitRepo\ConqueringtheMonsterProc\AutoDealershipDemo_Summit2023\AutoDealershipDemo_Summit2023\demo\Stored Procedures\sp_NightlyProcessingForReporting.sql</SourceFile>
+    <Line>460</Line>
+    <Column>36</Column>
+    <Severity>Warning</Severity>
+  </Problem>
+  <Problem>
+    <Rule>Microsoft.Rules.Data.SR0014</Rule>
+    <ProblemDescription>Data loss might occur when casting from Date to DateTime.</ProblemDescription>
+    <SourceFile>C:\GitRepo\ConqueringtheMonsterProc\AutoDealershipDemo_Summit2023\AutoDealershipDemo_Summit2023\demo\Stored Procedures\sp_NightlyProcessingForReporting.sql</SourceFile>
+    <Line>460</Line>
+    <Column>51</Column>
+    <Severity>Warning</Severity>
+  </Problem>
+  <Problem>
+    <Rule>Microsoft.Rules.Data.SR0016</Rule>
+    <ProblemDescription>Stored procedure(sp_NightlyProcessingForReporting) includes sp_ prefix in its name.</ProblemDescription>
+    <SourceFile>C:\GitRepo\ConqueringtheMonsterProc\AutoDealershipDemo_Summit2023\AutoDealershipDemo_Summit2023\demo\Stored Procedures\sp_NightlyProcessingForReporting.sql</SourceFile>
+    <Line>12</Line>
+    <Column>25</Column>
+    <Severity>Warning</Severity>
+  </Problem>
+  <Problem>
+    <Rule>Microsoft.Rules.Data.SR0007</Rule>
+    <ProblemDescription>Nullable columns can cause final results to be evaluated as NULL for the predicate.</ProblemDescription>
+    <SourceFile>C:\GitRepo\ConqueringtheMonsterProc\AutoDealershipDemo_Summit2023\AutoDealershipDemo_Summit2023\demo\Stored Procedures\sp_SearchAllSoldInventory.sql</SourceFile>
+    <Line>47</Line>
+    <Column>3</Column>
+    <Severity>Warning</Severity>
+  </Problem>
+  <Problem>
+    <Rule>Microsoft.Rules.Data.SR0007</Rule>
+    <ProblemDescription>Nullable columns can cause final results to be evaluated as NULL for the predicate.</ProblemDescription>
+    <SourceFile>C:\GitRepo\ConqueringtheMonsterProc\AutoDealershipDemo_Summit2023\AutoDealershipDemo_Summit2023\demo\Stored Procedures\sp_SearchAllSoldInventory.sql</SourceFile>
+    <Line>51</Line>
+    <Column>3</Column>
+    <Severity>Warning</Severity>
+  </Problem>
+  <Problem>
+    <Rule>Microsoft.Rules.Data.SR0007</Rule>
+    <ProblemDescription>Nullable columns can cause final results to be evaluated as NULL for the predicate.</ProblemDescription>
+    <SourceFile>C:\GitRepo\ConqueringtheMonsterProc\AutoDealershipDemo_Summit2023\AutoDealershipDemo_Summit2023\demo\Stored Procedures\sp_SearchAllSoldInventory.sql</SourceFile>
+    <Line>55</Line>
+    <Column>3</Column>
+    <Severity>Warning</Severity>
+  </Problem>
+  <Problem>
+    <Rule>Microsoft.Rules.Data.SR0007</Rule>
+    <ProblemDescription>Nullable columns can cause final results to be evaluated as NULL for the predicate.</ProblemDescription>
+    <SourceFile>C:\GitRepo\ConqueringtheMonsterProc\AutoDealershipDemo_Summit2023\AutoDealershipDemo_Summit2023\demo\Stored Procedures\sp_SearchAllSoldInventory.sql</SourceFile>
+    <Line>59</Line>
+    <Column>3</Column>
+    <Severity>Warning</Severity>
+  </Problem>
+  <Problem>
+    <Rule>Microsoft.Rules.Data.SR0007</Rule>
+    <ProblemDescription>Nullable columns can cause final results to be evaluated as NULL for the predicate.</ProblemDescription>
+    <SourceFile>C:\GitRepo\ConqueringtheMonsterProc\AutoDealershipDemo_Summit2023\AutoDealershipDemo_Summit2023\demo\Stored Procedures\sp_SearchAllSoldInventory.sql</SourceFile>
+    <Line>63</Line>
+    <Column>3</Column>
+    <Severity>Warning</Severity>
+  </Problem>
+  <Problem>
+    <Rule>Microsoft.Rules.Data.SR0007</Rule>
+    <ProblemDescription>Nullable columns can cause final results to be evaluated as NULL for the predicate.</ProblemDescription>
+    <SourceFile>C:\GitRepo\ConqueringtheMonsterProc\AutoDealershipDemo_Summit2023\AutoDealershipDemo_Summit2023\demo\Stored Procedures\sp_SearchAllSoldInventory.sql</SourceFile>
+    <Line>66</Line>
+    <Column>3</Column>
+    <Severity>Warning</Severity>
+  </Problem>
+  <Problem>
+    <Rule>Microsoft.Rules.Data.SR0007</Rule>
+    <ProblemDescription>Nullable columns can cause final results to be evaluated as NULL for the predicate.</ProblemDescription>
+    <SourceFile>C:\GitRepo\ConqueringtheMonsterProc\AutoDealershipDemo_Summit2023\AutoDealershipDemo_Summit2023\demo\Stored Procedures\sp_SearchAllSoldInventory.sql</SourceFile>
+    <Line>69</Line>
+    <Column>3</Column>
+    <Severity>Warning</Severity>
+  </Problem>
+  <Problem>
+    <Rule>Microsoft.Rules.Data.SR0007</Rule>
+    <ProblemDescription>Nullable columns can cause final results to be evaluated as NULL for the predicate.</ProblemDescription>
+    <SourceFile>C:\GitRepo\ConqueringtheMonsterProc\AutoDealershipDemo_Summit2023\AutoDealershipDemo_Summit2023\demo\Stored Procedures\sp_SearchAllSoldInventory.sql</SourceFile>
+    <Line>72</Line>
+    <Column>3</Column>
+    <Severity>Warning</Severity>
+  </Problem>
+  <Problem>
+    <Rule>Microsoft.Rules.Data.SR0007</Rule>
+    <ProblemDescription>Nullable columns can cause final results to be evaluated as NULL for the predicate.</ProblemDescription>
+    <SourceFile>C:\GitRepo\ConqueringtheMonsterProc\AutoDealershipDemo_Summit2023\AutoDealershipDemo_Summit2023\demo\Stored Procedures\sp_SearchAllSoldInventory.sql</SourceFile>
+    <Line>75</Line>
+    <Column>3</Column>
+    <Severity>Warning</Severity>
+  </Problem>
+  <Problem>
+    <Rule>Microsoft.Rules.Data.SR0007</Rule>
+    <ProblemDescription>Nullable columns can cause final results to be evaluated as NULL for the predicate.</ProblemDescription>
+    <SourceFile>C:\GitRepo\ConqueringtheMonsterProc\AutoDealershipDemo_Summit2023\AutoDealershipDemo_Summit2023\demo\Stored Procedures\sp_SearchAllSoldInventory.sql</SourceFile>
+    <Line>78</Line>
+    <Column>3</Column>
+    <Severity>Warning</Severity>
+  </Problem>
+  <Problem>
+    <Rule>Microsoft.Rules.Data.SR0016</Rule>
+    <ProblemDescription>Stored procedure(sp_SearchAllSoldInventory) includes sp_ prefix in its name.</ProblemDescription>
+    <SourceFile>C:\GitRepo\ConqueringtheMonsterProc\AutoDealershipDemo_Summit2023\AutoDealershipDemo_Summit2023\demo\Stored Procedures\sp_SearchAllSoldInventory.sql</SourceFile>
+    <Line>2</Line>
+    <Column>25</Column>
+    <Severity>Warning</Severity>
+  </Problem>
+  <Problem>
+    <Rule>Microsoft.Rules.Data.SR0016</Rule>
+    <ProblemDescription>Stored procedure(sp_ExecuteRandomProc) includes sp_ prefix in its name.</ProblemDescription>
+    <SourceFile>C:\GitRepo\ConqueringtheMonsterProc\AutoDealershipDemo_Summit2023\AutoDealershipDemo_Summit2023\dbo\Stored Procedures\sp_ExecuteRandomProc.sql</SourceFile>
+    <Line>2</Line>
+    <Column>26</Column>
+    <Severity>Warning</Severity>
+  </Problem>
+  <Problem>
+    <Rule>Microsoft.Rules.Data.SR0014</Rule>
+    <ProblemDescription>Data loss might occur when casting from VarChar(215) to VarChar(100).</ProblemDescription>
+    <SourceFile>C:\GitRepo\ConqueringtheMonsterProc\AutoDealershipDemo_Summit2023\AutoDealershipDemo_Summit2023\dbo\Stored Procedures\sp_Add_Customers.sql</SourceFile>
+    <Line>109</Line>
+    <Column>3</Column>
+    <Severity>Warning</Severity>
+  </Problem>
+  <Problem>
+    <Rule>Microsoft.Rules.Data.SR0014</Rule>
+    <ProblemDescription>Data loss might occur when casting from DateTime to Date.</ProblemDescription>
+    <SourceFile>C:\GitRepo\ConqueringtheMonsterProc\AutoDealershipDemo_Summit2023\AutoDealershipDemo_Summit2023\dbo\Stored Procedures\sp_Add_Customers.sql</SourceFile>
+    <Line>115</Line>
+    <Column>3</Column>
+    <Severity>Warning</Severity>
+  </Problem>
+  <Problem>
+    <Rule>Microsoft.Rules.Data.SR0016</Rule>
+    <ProblemDescription>Stored procedure(sp_Add_Customers) includes sp_ prefix in its name.</ProblemDescription>
+    <SourceFile>C:\GitRepo\ConqueringtheMonsterProc\AutoDealershipDemo_Summit2023\AutoDealershipDemo_Summit2023\dbo\Stored Procedures\sp_Add_Customers.sql</SourceFile>
+    <Line>2</Line>
+    <Column>26</Column>
+    <Severity>Warning</Severity>
+  </Problem>
+  <Problem>
+    <Rule>Microsoft.Rules.Data.SR0007</Rule>
+    <ProblemDescription>Nullable columns can cause final results to be evaluated as NULL for the predicate.</ProblemDescription>
+    <SourceFile>C:\GitRepo\ConqueringtheMonsterProc\AutoDealershipDemo_Summit2023\AutoDealershipDemo_Summit2023\dbo\Stored Procedures\sp_NumVehiclesSoldEachYearByState.sql</SourceFile>
+    <Line>19</Line>
+    <Column>8</Column>
+    <Severity>Warning</Severity>
+  </Problem>
+  <Problem>
+    <Rule>Microsoft.Rules.Data.SR0016</Rule>
+    <ProblemDescription>Stored procedure(sp_NumVehiclesSoldEachYearByState) includes sp_ prefix in its name.</ProblemDescription>
+    <SourceFile>C:\GitRepo\ConqueringtheMonsterProc\AutoDealershipDemo_Summit2023\AutoDealershipDemo_Summit2023\dbo\Stored Procedures\sp_NumVehiclesSoldEachYearByState.sql</SourceFile>
+    <Line>5</Line>
+    <Column>24</Column>
+    <Severity>Warning</Severity>
+  </Problem>
+  <Problem>
+    <Rule>Microsoft.Rules.Data.SR0016</Rule>
+    <ProblemDescription>Stored procedure(sp_RandomVinLookupLoop) includes sp_ prefix in its name.</ProblemDescription>
+    <SourceFile>C:\GitRepo\ConqueringtheMonsterProc\AutoDealershipDemo_Summit2023\AutoDealershipDemo_Summit2023\Workload\Stored Procedures\sp_RandomVinLookupLoop.sql</SourceFile>
+    <Line>2</Line>
+    <Column>29</Column>
+    <Severity>Warning</Severity>
+  </Problem>
+  <Problem>
+    <Rule>Microsoft.Rules.Data.SR0007</Rule>
+    <ProblemDescription>Nullable columns can cause final results to be evaluated as NULL for the predicate.</ProblemDescription>
+    <SourceFile>C:\GitRepo\ConqueringtheMonsterProc\AutoDealershipDemo_Summit2023\AutoDealershipDemo_Summit2023\dbo\Stored Procedures\sp_GetSalesSummaryByYear.sql</SourceFile>
+    <Line>20</Line>
+    <Column>8</Column>
+    <Severity>Warning</Severity>
+  </Problem>
+  <Problem>
+    <Rule>Microsoft.Rules.Data.SR0007</Rule>
+    <ProblemDescription>Nullable columns can cause final results to be evaluated as NULL for the predicate.</ProblemDescription>
+    <SourceFile>C:\GitRepo\ConqueringtheMonsterProc\AutoDealershipDemo_Summit2023\AutoDealershipDemo_Summit2023\dbo\Stored Procedures\sp_GetSalesSummaryByYear.sql</SourceFile>
+    <Line>21</Line>
+    <Column>7</Column>
+    <Severity>Warning</Severity>
+  </Problem>
+  <Problem>
+    <Rule>Microsoft.Rules.Data.SR0014</Rule>
+    <ProblemDescription>Data loss might occur when casting from ASCII String(10) to DateTime.</ProblemDescription>
+    <SourceFile>C:\GitRepo\ConqueringtheMonsterProc\AutoDealershipDemo_Summit2023\AutoDealershipDemo_Summit2023\dbo\Stored Procedures\sp_GetSalesSummaryByYear.sql</SourceFile>
+    <Line>6</Line>
+    <Column>24</Column>
+    <Severity>Warning</Severity>
+  </Problem>
+  <Problem>
+    <Rule>Microsoft.Rules.Data.SR0014</Rule>
+    <ProblemDescription>Data loss might occur when casting from ASCII String(10) to DateTime.</ProblemDescription>
+    <SourceFile>C:\GitRepo\ConqueringtheMonsterProc\AutoDealershipDemo_Summit2023\AutoDealershipDemo_Summit2023\dbo\Stored Procedures\sp_GetSalesSummaryByYear.sql</SourceFile>
+    <Line>7</Line>
+    <Column>22</Column>
+    <Severity>Warning</Severity>
+  </Problem>
+  <Problem>
+    <Rule>Microsoft.Rules.Data.SR0016</Rule>
+    <ProblemDescription>Stored procedure(sp_GetSalesSummaryByYear) includes sp_ prefix in its name.</ProblemDescription>
+    <SourceFile>C:\GitRepo\ConqueringtheMonsterProc\AutoDealershipDemo_Summit2023\AutoDealershipDemo_Summit2023\dbo\Stored Procedures\sp_GetSalesSummaryByYear.sql</SourceFile>
+    <Line>5</Line>
+    <Column>24</Column>
+    <Severity>Warning</Severity>
+  </Problem>
+  <Problem>
+    <Rule>Microsoft.Rules.Data.SR0004</Rule>
+    <ProblemDescription>A column without an index that is used as an IN predicate test expression might degrade performance.</ProblemDescription>
+    <SourceFile>C:\GitRepo\ConqueringtheMonsterProc\AutoDealershipDemo_Summit2023\AutoDealershipDemo_Summit2023\Workload\Stored Procedures\sp_DealershipWorkload_Recompile.sql</SourceFile>
+    <Line>166</Line>
+    <Column>9</Column>
+    <Severity>Warning</Severity>
+  </Problem>
+  <Problem>
+    <Rule>Microsoft.Rules.Data.SR0006</Rule>
+    <ProblemDescription>A column in an expression to be compared in a predicate might cause a table scan and degrade performance.</ProblemDescription>
+    <SourceFile>C:\GitRepo\ConqueringtheMonsterProc\AutoDealershipDemo_Summit2023\AutoDealershipDemo_Summit2023\Workload\Stored Procedures\sp_DealershipWorkload_Recompile.sql</SourceFile>
+    <Line>452</Line>
+    <Column>10</Column>
+    <Severity>Warning</Severity>
+  </Problem>
+  <Problem>
+    <Rule>Microsoft.Rules.Data.SR0007</Rule>
+    <ProblemDescription>Nullable columns can cause final results to be evaluated as NULL for the predicate.</ProblemDescription>
+    <SourceFile>C:\GitRepo\ConqueringtheMonsterProc\AutoDealershipDemo_Summit2023\AutoDealershipDemo_Summit2023\Workload\Stored Procedures\sp_DealershipWorkload_Recompile.sql</SourceFile>
+    <Line>65</Line>
+    <Column>9</Column>
+    <Severity>Warning</Severity>
+  </Problem>
+  <Problem>
+    <Rule>Microsoft.Rules.Data.SR0007</Rule>
+    <ProblemDescription>Nullable columns can cause final results to be evaluated as NULL for the predicate.</ProblemDescription>
+    <SourceFile>C:\GitRepo\ConqueringtheMonsterProc\AutoDealershipDemo_Summit2023\AutoDealershipDemo_Summit2023\Workload\Stored Procedures\sp_DealershipWorkload_Recompile.sql</SourceFile>
+    <Line>78</Line>
+    <Column>9</Column>
+    <Severity>Warning</Severity>
+  </Problem>
+  <Problem>
+    <Rule>Microsoft.Rules.Data.SR0007</Rule>
+    <ProblemDescription>Nullable columns can cause final results to be evaluated as NULL for the predicate.</ProblemDescription>
+    <SourceFile>C:\GitRepo\ConqueringtheMonsterProc\AutoDealershipDemo_Summit2023\AutoDealershipDemo_Summit2023\Workload\Stored Procedures\sp_DealershipWorkload_Recompile.sql</SourceFile>
+    <Line>94</Line>
+    <Column>9</Column>
+    <Severity>Warning</Severity>
+  </Problem>
+  <Problem>
+    <Rule>Microsoft.Rules.Data.SR0007</Rule>
+    <ProblemDescription>Nullable columns can cause final results to be evaluated as NULL for the predicate.</ProblemDescription>
+    <SourceFile>C:\GitRepo\ConqueringtheMonsterProc\AutoDealershipDemo_Summit2023\AutoDealershipDemo_Summit2023\Workload\Stored Procedures\sp_DealershipWorkload_Recompile.sql</SourceFile>
+    <Line>112</Line>
+    <Column>9</Column>
+    <Severity>Warning</Severity>
+  </Problem>
+  <Problem>
+    <Rule>Microsoft.Rules.Data.SR0007</Rule>
+    <ProblemDescription>Nullable columns can cause final results to be evaluated as NULL for the predicate.</ProblemDescription>
+    <SourceFile>C:\GitRepo\ConqueringtheMonsterProc\AutoDealershipDemo_Summit2023\AutoDealershipDemo_Summit2023\Workload\Stored Procedures\sp_DealershipWorkload_Recompile.sql</SourceFile>
+    <Line>136</Line>
+    <Column>9</Column>
+    <Severity>Warning</Severity>
+  </Problem>
+  <Problem>
+    <Rule>Microsoft.Rules.Data.SR0007</Rule>
+    <ProblemDescription>Nullable columns can cause final results to be evaluated as NULL for the predicate.</ProblemDescription>
+    <SourceFile>C:\GitRepo\ConqueringtheMonsterProc\AutoDealershipDemo_Summit2023\AutoDealershipDemo_Summit2023\Workload\Stored Procedures\sp_DealershipWorkload_Recompile.sql</SourceFile>
+    <Line>146</Line>
+    <Column>9</Column>
+    <Severity>Warning</Severity>
+  </Problem>
+  <Problem>
+    <Rule>Microsoft.Rules.Data.SR0007</Rule>
+    <ProblemDescription>Nullable columns can cause final results to be evaluated as NULL for the predicate.</ProblemDescription>
+    <SourceFile>C:\GitRepo\ConqueringtheMonsterProc\AutoDealershipDemo_Summit2023\AutoDealershipDemo_Summit2023\Workload\Stored Procedures\sp_DealershipWorkload_Recompile.sql</SourceFile>
+    <Line>166</Line>
+    <Column>9</Column>
+    <Severity>Warning</Severity>
+  </Problem>
+  <Problem>
+    <Rule>Microsoft.Rules.Data.SR0007</Rule>
+    <ProblemDescription>Nullable columns can cause final results to be evaluated as NULL for the predicate.</ProblemDescription>
+    <SourceFile>C:\GitRepo\ConqueringtheMonsterProc\AutoDealershipDemo_Summit2023\AutoDealershipDemo_Summit2023\Workload\Stored Procedures\sp_DealershipWorkload_Recompile.sql</SourceFile>
+    <Line>197</Line>
+    <Column>9</Column>
+    <Severity>Warning</Severity>
+  </Problem>
+  <Problem>
+    <Rule>Microsoft.Rules.Data.SR0007</Rule>
+    <ProblemDescription>Nullable columns can cause final results to be evaluated as NULL for the predicate.</ProblemDescription>
+    <SourceFile>C:\GitRepo\ConqueringtheMonsterProc\AutoDealershipDemo_Summit2023\AutoDealershipDemo_Summit2023\Workload\Stored Procedures\sp_DealershipWorkload_Recompile.sql</SourceFile>
+    <Line>198</Line>
+    <Column>8</Column>
+    <Severity>Warning</Severity>
+  </Problem>
+  <Problem>
+    <Rule>Microsoft.Rules.Data.SR0007</Rule>
+    <ProblemDescription>Nullable columns can cause final results to be evaluated as NULL for the predicate.</ProblemDescription>
+    <SourceFile>C:\GitRepo\ConqueringtheMonsterProc\AutoDealershipDemo_Summit2023\AutoDealershipDemo_Summit2023\Workload\Stored Procedures\sp_DealershipWorkload_Recompile.sql</SourceFile>
+    <Line>208</Line>
+    <Column>9</Column>
+    <Severity>Warning</Severity>
+  </Problem>
+  <Problem>
+    <Rule>Microsoft.Rules.Data.SR0007</Rule>
+    <ProblemDescription>Nullable columns can cause final results to be evaluated as NULL for the predicate.</ProblemDescription>
+    <SourceFile>C:\GitRepo\ConqueringtheMonsterProc\AutoDealershipDemo_Summit2023\AutoDealershipDemo_Summit2023\Workload\Stored Procedures\sp_DealershipWorkload_Recompile.sql</SourceFile>
+    <Line>209</Line>
+    <Column>7</Column>
+    <Severity>Warning</Severity>
+  </Problem>
+  <Problem>
+    <Rule>Microsoft.Rules.Data.SR0007</Rule>
+    <ProblemDescription>Nullable columns can cause final results to be evaluated as NULL for the predicate.</ProblemDescription>
+    <SourceFile>C:\GitRepo\ConqueringtheMonsterProc\AutoDealershipDemo_Summit2023\AutoDealershipDemo_Summit2023\Workload\Stored Procedures\sp_DealershipWorkload_Recompile.sql</SourceFile>
+    <Line>229</Line>
+    <Column>9</Column>
+    <Severity>Warning</Severity>
+  </Problem>
+  <Problem>
+    <Rule>Microsoft.Rules.Data.SR0007</Rule>
+    <ProblemDescription>Nullable columns can cause final results to be evaluated as NULL for the predicate.</ProblemDescription>
+    <SourceFile>C:\GitRepo\ConqueringtheMonsterProc\AutoDealershipDemo_Summit2023\AutoDealershipDemo_Summit2023\Workload\Stored Procedures\sp_DealershipWorkload_Recompile.sql</SourceFile>
+    <Line>230</Line>
+    <Column>8</Column>
+    <Severity>Warning</Severity>
+  </Problem>
+  <Problem>
+    <Rule>Microsoft.Rules.Data.SR0007</Rule>
+    <ProblemDescription>Nullable columns can cause final results to be evaluated as NULL for the predicate.</ProblemDescription>
+    <SourceFile>C:\GitRepo\ConqueringtheMonsterProc\AutoDealershipDemo_Summit2023\AutoDealershipDemo_Summit2023\Workload\Stored Procedures\sp_DealershipWorkload_Recompile.sql</SourceFile>
+    <Line>256</Line>
+    <Column>9</Column>
+    <Severity>Warning</Severity>
+  </Problem>
+  <Problem>
+    <Rule>Microsoft.Rules.Data.SR0007</Rule>
+    <ProblemDescription>Nullable columns can cause final results to be evaluated as NULL for the predicate.</ProblemDescription>
+    <SourceFile>C:\GitRepo\ConqueringtheMonsterProc\AutoDealershipDemo_Summit2023\AutoDealershipDemo_Summit2023\Workload\Stored Procedures\sp_DealershipWorkload_Recompile.sql</SourceFile>
+    <Line>257</Line>
+    <Column>8</Column>
+    <Severity>Warning</Severity>
+  </Problem>
+  <Problem>
+    <Rule>Microsoft.Rules.Data.SR0007</Rule>
+    <ProblemDescription>Nullable columns can cause final results to be evaluated as NULL for the predicate.</ProblemDescription>
+    <SourceFile>C:\GitRepo\ConqueringtheMonsterProc\AutoDealershipDemo_Summit2023\AutoDealershipDemo_Summit2023\Workload\Stored Procedures\sp_DealershipWorkload_Recompile.sql</SourceFile>
+    <Line>258</Line>
+    <Column>8</Column>
+    <Severity>Warning</Severity>
+  </Problem>
+  <Problem>
+    <Rule>Microsoft.Rules.Data.SR0007</Rule>
+    <ProblemDescription>Nullable columns can cause final results to be evaluated as NULL for the predicate.</ProblemDescription>
+    <SourceFile>C:\GitRepo\ConqueringtheMonsterProc\AutoDealershipDemo_Summit2023\AutoDealershipDemo_Summit2023\Workload\Stored Procedures\sp_DealershipWorkload_Recompile.sql</SourceFile>
+    <Line>268</Line>
+    <Column>9</Column>
+    <Severity>Warning</Severity>
+  </Problem>
+  <Problem>
+    <Rule>Microsoft.Rules.Data.SR0007</Rule>
+    <ProblemDescription>Nullable columns can cause final results to be evaluated as NULL for the predicate.</ProblemDescription>
+    <SourceFile>C:\GitRepo\ConqueringtheMonsterProc\AutoDealershipDemo_Summit2023\AutoDealershipDemo_Summit2023\Workload\Stored Procedures\sp_DealershipWorkload_Recompile.sql</SourceFile>
+    <Line>273</Line>
+    <Column>8</Column>
+    <Severity>Warning</Severity>
+  </Problem>
+  <Problem>
+    <Rule>Microsoft.Rules.Data.SR0007</Rule>
+    <ProblemDescription>Nullable columns can cause final results to be evaluated as NULL for the predicate.</ProblemDescription>
+    <SourceFile>C:\GitRepo\ConqueringtheMonsterProc\AutoDealershipDemo_Summit2023\AutoDealershipDemo_Summit2023\Workload\Stored Procedures\sp_DealershipWorkload_Recompile.sql</SourceFile>
+    <Line>274</Line>
+    <Column>8</Column>
+    <Severity>Warning</Severity>
+  </Problem>
+  <Problem>
+    <Rule>Microsoft.Rules.Data.SR0007</Rule>
+    <ProblemDescription>Nullable columns can cause final results to be evaluated as NULL for the predicate.</ProblemDescription>
+    <SourceFile>C:\GitRepo\ConqueringtheMonsterProc\AutoDealershipDemo_Summit2023\AutoDealershipDemo_Summit2023\Workload\Stored Procedures\sp_DealershipWorkload_Recompile.sql</SourceFile>
+    <Line>284</Line>
+    <Column>9</Column>
+    <Severity>Warning</Severity>
+  </Problem>
+  <Problem>
+    <Rule>Microsoft.Rules.Data.SR0007</Rule>
+    <ProblemDescription>Nullable columns can cause final results to be evaluated as NULL for the predicate.</ProblemDescription>
+    <SourceFile>C:\GitRepo\ConqueringtheMonsterProc\AutoDealershipDemo_Summit2023\AutoDealershipDemo_Summit2023\Workload\Stored Procedures\sp_DealershipWorkload_Recompile.sql</SourceFile>
+    <Line>289</Line>
+    <Column>8</Column>
+    <Severity>Warning</Severity>
+  </Problem>
+  <Problem>
+    <Rule>Microsoft.Rules.Data.SR0007</Rule>
+    <ProblemDescription>Nullable columns can cause final results to be evaluated as NULL for the predicate.</ProblemDescription>
+    <SourceFile>C:\GitRepo\ConqueringtheMonsterProc\AutoDealershipDemo_Summit2023\AutoDealershipDemo_Summit2023\Workload\Stored Procedures\sp_DealershipWorkload_Recompile.sql</SourceFile>
+    <Line>300</Line>
+    <Column>5</Column>
+    <Severity>Warning</Severity>
+  </Problem>
+  <Problem>
+    <Rule>Microsoft.Rules.Data.SR0007</Rule>
+    <ProblemDescription>Nullable columns can cause final results to be evaluated as NULL for the predicate.</ProblemDescription>
+    <SourceFile>C:\GitRepo\ConqueringtheMonsterProc\AutoDealershipDemo_Summit2023\AutoDealershipDemo_Summit2023\Workload\Stored Procedures\sp_DealershipWorkload_Recompile.sql</SourceFile>
+    <Line>301</Line>
+    <Column>8</Column>
+    <Severity>Warning</Severity>
+  </Problem>
+  <Problem>
+    <Rule>Microsoft.Rules.Data.SR0007</Rule>
+    <ProblemDescription>Nullable columns can cause final results to be evaluated as NULL for the predicate.</ProblemDescription>
+    <SourceFile>C:\GitRepo\ConqueringtheMonsterProc\AutoDealershipDemo_Summit2023\AutoDealershipDemo_Summit2023\Workload\Stored Procedures\sp_DealershipWorkload_Recompile.sql</SourceFile>
+    <Line>303</Line>
+    <Column>8</Column>
+    <Severity>Warning</Severity>
+  </Problem>
+  <Problem>
+    <Rule>Microsoft.Rules.Data.SR0007</Rule>
+    <ProblemDescription>Nullable columns can cause final results to be evaluated as NULL for the predicate.</ProblemDescription>
+    <SourceFile>C:\GitRepo\ConqueringtheMonsterProc\AutoDealershipDemo_Summit2023\AutoDealershipDemo_Summit2023\Workload\Stored Procedures\sp_DealershipWorkload_Recompile.sql</SourceFile>
+    <Line>348</Line>
+    <Column>10</Column>
+    <Severity>Warning</Severity>
+  </Problem>
+  <Problem>
+    <Rule>Microsoft.Rules.Data.SR0007</Rule>
+    <ProblemDescription>Nullable columns can cause final results to be evaluated as NULL for the predicate.</ProblemDescription>
+    <SourceFile>C:\GitRepo\ConqueringtheMonsterProc\AutoDealershipDemo_Summit2023\AutoDealershipDemo_Summit2023\Workload\Stored Procedures\sp_DealershipWorkload_Recompile.sql</SourceFile>
+    <Line>349</Line>
+    <Column>9</Column>
+    <Severity>Warning</Severity>
+  </Problem>
+  <Problem>
+    <Rule>Microsoft.Rules.Data.SR0007</Rule>
+    <ProblemDescription>Nullable columns can cause final results to be evaluated as NULL for the predicate.</ProblemDescription>
+    <SourceFile>C:\GitRepo\ConqueringtheMonsterProc\AutoDealershipDemo_Summit2023\AutoDealershipDemo_Summit2023\Workload\Stored Procedures\sp_DealershipWorkload_Recompile.sql</SourceFile>
+    <Line>356</Line>
+    <Column>10</Column>
+    <Severity>Warning</Severity>
+  </Problem>
+  <Problem>
+    <Rule>Microsoft.Rules.Data.SR0007</Rule>
+    <ProblemDescription>Nullable columns can cause final results to be evaluated as NULL for the predicate.</ProblemDescription>
+    <SourceFile>C:\GitRepo\ConqueringtheMonsterProc\AutoDealershipDemo_Summit2023\AutoDealershipDemo_Summit2023\Workload\Stored Procedures\sp_DealershipWorkload_Recompile.sql</SourceFile>
+    <Line>357</Line>
+    <Column>9</Column>
+    <Severity>Warning</Severity>
+  </Problem>
+  <Problem>
+    <Rule>Microsoft.Rules.Data.SR0007</Rule>
+    <ProblemDescription>Nullable columns can cause final results to be evaluated as NULL for the predicate.</ProblemDescription>
+    <SourceFile>C:\GitRepo\ConqueringtheMonsterProc\AutoDealershipDemo_Summit2023\AutoDealershipDemo_Summit2023\Workload\Stored Procedures\sp_DealershipWorkload_Recompile.sql</SourceFile>
+    <Line>364</Line>
+    <Column>10</Column>
+    <Severity>Warning</Severity>
+  </Problem>
+  <Problem>
+    <Rule>Microsoft.Rules.Data.SR0007</Rule>
+    <ProblemDescription>Nullable columns can cause final results to be evaluated as NULL for the predicate.</ProblemDescription>
+    <SourceFile>C:\GitRepo\ConqueringtheMonsterProc\AutoDealershipDemo_Summit2023\AutoDealershipDemo_Summit2023\Workload\Stored Procedures\sp_DealershipWorkload_Recompile.sql</SourceFile>
+    <Line>365</Line>
+    <Column>9</Column>
+    <Severity>Warning</Severity>
+  </Problem>
+  <Problem>
+    <Rule>Microsoft.Rules.Data.SR0007</Rule>
+    <ProblemDescription>Nullable columns can cause final results to be evaluated as NULL for the predicate.</ProblemDescription>
+    <SourceFile>C:\GitRepo\ConqueringtheMonsterProc\AutoDealershipDemo_Summit2023\AutoDealershipDemo_Summit2023\Workload\Stored Procedures\sp_DealershipWorkload_Recompile.sql</SourceFile>
+    <Line>380</Line>
+    <Column>9</Column>
+    <Severity>Warning</Severity>
+  </Problem>
+  <Problem>
+    <Rule>Microsoft.Rules.Data.SR0007</Rule>
+    <ProblemDescription>Nullable columns can cause final results to be evaluated as NULL for the predicate.</ProblemDescription>
+    <SourceFile>C:\GitRepo\ConqueringtheMonsterProc\AutoDealershipDemo_Summit2023\AutoDealershipDemo_Summit2023\Workload\Stored Procedures\sp_DealershipWorkload_Recompile.sql</SourceFile>
+    <Line>381</Line>
+    <Column>8</Column>
+    <Severity>Warning</Severity>
+  </Problem>
+  <Problem>
+    <Rule>Microsoft.Rules.Data.SR0007</Rule>
+    <ProblemDescription>Nullable columns can cause final results to be evaluated as NULL for the predicate.</ProblemDescription>
+    <SourceFile>C:\GitRepo\ConqueringtheMonsterProc\AutoDealershipDemo_Summit2023\AutoDealershipDemo_Summit2023\Workload\Stored Procedures\sp_DealershipWorkload_Recompile.sql</SourceFile>
+    <Line>382</Line>
+    <Column>8</Column>
+    <Severity>Warning</Severity>
+  </Problem>
+  <Problem>
+    <Rule>Microsoft.Rules.Data.SR0007</Rule>
+    <ProblemDescription>Nullable columns can cause final results to be evaluated as NULL for the predicate.</ProblemDescription>
+    <SourceFile>C:\GitRepo\ConqueringtheMonsterProc\AutoDealershipDemo_Summit2023\AutoDealershipDemo_Summit2023\Workload\Stored Procedures\sp_DealershipWorkload_Recompile.sql</SourceFile>
+    <Line>383</Line>
+    <Column>8</Column>
+    <Severity>Warning</Severity>
+  </Problem>
+  <Problem>
+    <Rule>Microsoft.Rules.Data.SR0007</Rule>
+    <ProblemDescription>Nullable columns can cause final results to be evaluated as NULL for the predicate.</ProblemDescription>
+    <SourceFile>C:\GitRepo\ConqueringtheMonsterProc\AutoDealershipDemo_Summit2023\AutoDealershipDemo_Summit2023\Workload\Stored Procedures\sp_DealershipWorkload_Recompile.sql</SourceFile>
+    <Line>397</Line>
+    <Column>9</Column>
+    <Severity>Warning</Severity>
+  </Problem>
+  <Problem>
+    <Rule>Microsoft.Rules.Data.SR0007</Rule>
+    <ProblemDescription>Nullable columns can cause final results to be evaluated as NULL for the predicate.</ProblemDescription>
+    <SourceFile>C:\GitRepo\ConqueringtheMonsterProc\AutoDealershipDemo_Summit2023\AutoDealershipDemo_Summit2023\Workload\Stored Procedures\sp_DealershipWorkload_Recompile.sql</SourceFile>
+    <Line>398</Line>
+    <Column>8</Column>
+    <Severity>Warning</Severity>
+  </Problem>
+  <Problem>
+    <Rule>Microsoft.Rules.Data.SR0007</Rule>
+    <ProblemDescription>Nullable columns can cause final results to be evaluated as NULL for the predicate.</ProblemDescription>
+    <SourceFile>C:\GitRepo\ConqueringtheMonsterProc\AutoDealershipDemo_Summit2023\AutoDealershipDemo_Summit2023\Workload\Stored Procedures\sp_DealershipWorkload_Recompile.sql</SourceFile>
+    <Line>399</Line>
+    <Column>8</Column>
+    <Severity>Warning</Severity>
+  </Problem>
+  <Problem>
+    <Rule>Microsoft.Rules.Data.SR0007</Rule>
+    <ProblemDescription>Nullable columns can cause final results to be evaluated as NULL for the predicate.</ProblemDescription>
+    <SourceFile>C:\GitRepo\ConqueringtheMonsterProc\AutoDealershipDemo_Summit2023\AutoDealershipDemo_Summit2023\Workload\Stored Procedures\sp_DealershipWorkload_Recompile.sql</SourceFile>
+    <Line>400</Line>
+    <Column>8</Column>
+    <Severity>Warning</Severity>
+  </Problem>
+  <Problem>
+    <Rule>Microsoft.Rules.Data.SR0007</Rule>
+    <ProblemDescription>Nullable columns can cause final results to be evaluated as NULL for the predicate.</ProblemDescription>
+    <SourceFile>C:\GitRepo\ConqueringtheMonsterProc\AutoDealershipDemo_Summit2023\AutoDealershipDemo_Summit2023\Workload\Stored Procedures\sp_DealershipWorkload_Recompile.sql</SourceFile>
+    <Line>413</Line>
+    <Column>9</Column>
+    <Severity>Warning</Severity>
+  </Problem>
+  <Problem>
+    <Rule>Microsoft.Rules.Data.SR0007</Rule>
+    <ProblemDescription>Nullable columns can cause final results to be evaluated as NULL for the predicate.</ProblemDescription>
+    <SourceFile>C:\GitRepo\ConqueringtheMonsterProc\AutoDealershipDemo_Summit2023\AutoDealershipDemo_Summit2023\Workload\Stored Procedures\sp_DealershipWorkload_Recompile.sql</SourceFile>
+    <Line>414</Line>
+    <Column>8</Column>
+    <Severity>Warning</Severity>
+  </Problem>
+  <Problem>
+    <Rule>Microsoft.Rules.Data.SR0007</Rule>
+    <ProblemDescription>Nullable columns can cause final results to be evaluated as NULL for the predicate.</ProblemDescription>
+    <SourceFile>C:\GitRepo\ConqueringtheMonsterProc\AutoDealershipDemo_Summit2023\AutoDealershipDemo_Summit2023\Workload\Stored Procedures\sp_DealershipWorkload_Recompile.sql</SourceFile>
+    <Line>415</Line>
+    <Column>8</Column>
+    <Severity>Warning</Severity>
+  </Problem>
+  <Problem>
+    <Rule>Microsoft.Rules.Data.SR0007</Rule>
+    <ProblemDescription>Nullable columns can cause final results to be evaluated as NULL for the predicate.</ProblemDescription>
+    <SourceFile>C:\GitRepo\ConqueringtheMonsterProc\AutoDealershipDemo_Summit2023\AutoDealershipDemo_Summit2023\Workload\Stored Procedures\sp_DealershipWorkload_Recompile.sql</SourceFile>
+    <Line>416</Line>
+    <Column>8</Column>
+    <Severity>Warning</Severity>
+  </Problem>
+  <Problem>
+    <Rule>Microsoft.Rules.Data.SR0007</Rule>
+    <ProblemDescription>Nullable columns can cause final results to be evaluated as NULL for the predicate.</ProblemDescription>
+    <SourceFile>C:\GitRepo\ConqueringtheMonsterProc\AutoDealershipDemo_Summit2023\AutoDealershipDemo_Summit2023\Workload\Stored Procedures\sp_DealershipWorkload_Recompile.sql</SourceFile>
+    <Line>434</Line>
+    <Column>9</Column>
+    <Severity>Warning</Severity>
+  </Problem>
+  <Problem>
+    <Rule>Microsoft.Rules.Data.SR0007</Rule>
+    <ProblemDescription>Nullable columns can cause final results to be evaluated as NULL for the predicate.</ProblemDescription>
+    <SourceFile>C:\GitRepo\ConqueringtheMonsterProc\AutoDealershipDemo_Summit2023\AutoDealershipDemo_Summit2023\Workload\Stored Procedures\sp_DealershipWorkload_Recompile.sql</SourceFile>
+    <Line>453</Line>
+    <Column>9</Column>
+    <Severity>Warning</Severity>
+  </Problem>
+  <Problem>
+    <Rule>Microsoft.Rules.Data.SR0016</Rule>
+    <ProblemDescription>Stored procedure(sp_DealershipWorkload_Recompile) includes sp_ prefix in its name.</ProblemDescription>
+    <SourceFile>C:\GitRepo\ConqueringtheMonsterProc\AutoDealershipDemo_Summit2023\AutoDealershipDemo_Summit2023\Workload\Stored Procedures\sp_DealershipWorkload_Recompile.sql</SourceFile>
+    <Line>2</Line>
+    <Column>29</Column>
+    <Severity>Warning</Severity>
+  </Problem>
+  <Problem>
+    <Rule>Microsoft.Rules.Data.SR0004</Rule>
+    <ProblemDescription>A column without an index that is used as an IN predicate test expression might degrade performance.</ProblemDescription>
+    <SourceFile>C:\GitRepo\ConqueringtheMonsterProc\AutoDealershipDemo_Summit2023\AutoDealershipDemo_Summit2023\Workload\Stored Procedures\sp_DealershipWorkloadFast.sql</SourceFile>
+    <Line>145</Line>
+    <Column>9</Column>
+    <Severity>Warning</Severity>
+  </Problem>
+  <Problem>
+    <Rule>Microsoft.Rules.Data.SR0007</Rule>
+    <ProblemDescription>Nullable columns can cause final results to be evaluated as NULL for the predicate.</ProblemDescription>
+    <SourceFile>C:\GitRepo\ConqueringtheMonsterProc\AutoDealershipDemo_Summit2023\AutoDealershipDemo_Summit2023\Workload\Stored Procedures\sp_DealershipWorkloadFast.sql</SourceFile>
+    <Line>32</Line>
+    <Column>9</Column>
+    <Severity>Warning</Severity>
+  </Problem>
+  <Problem>
+    <Rule>Microsoft.Rules.Data.SR0007</Rule>
+    <ProblemDescription>Nullable columns can cause final results to be evaluated as NULL for the predicate.</ProblemDescription>
+    <SourceFile>C:\GitRepo\ConqueringtheMonsterProc\AutoDealershipDemo_Summit2023\AutoDealershipDemo_Summit2023\Workload\Stored Procedures\sp_DealershipWorkloadFast.sql</SourceFile>
+    <Line>47</Line>
+    <Column>9</Column>
+    <Severity>Warning</Severity>
+  </Problem>
+  <Problem>
+    <Rule>Microsoft.Rules.Data.SR0007</Rule>
+    <ProblemDescription>Nullable columns can cause final results to be evaluated as NULL for the predicate.</ProblemDescription>
+    <SourceFile>C:\GitRepo\ConqueringtheMonsterProc\AutoDealershipDemo_Summit2023\AutoDealershipDemo_Summit2023\Workload\Stored Procedures\sp_DealershipWorkloadFast.sql</SourceFile>
+    <Line>65</Line>
+    <Column>9</Column>
+    <Severity>Warning</Severity>
+  </Problem>
+  <Problem>
+    <Rule>Microsoft.Rules.Data.SR0007</Rule>
+    <ProblemDescription>Nullable columns can cause final results to be evaluated as NULL for the predicate.</ProblemDescription>
+    <SourceFile>C:\GitRepo\ConqueringtheMonsterProc\AutoDealershipDemo_Summit2023\AutoDealershipDemo_Summit2023\Workload\Stored Procedures\sp_DealershipWorkloadFast.sql</SourceFile>
+    <Line>85</Line>
+    <Column>9</Column>
+    <Severity>Warning</Severity>
+  </Problem>
+  <Problem>
+    <Rule>Microsoft.Rules.Data.SR0007</Rule>
+    <ProblemDescription>Nullable columns can cause final results to be evaluated as NULL for the predicate.</ProblemDescription>
+    <SourceFile>C:\GitRepo\ConqueringtheMonsterProc\AutoDealershipDemo_Summit2023\AutoDealershipDemo_Summit2023\Workload\Stored Procedures\sp_DealershipWorkloadFast.sql</SourceFile>
+    <Line>111</Line>
+    <Column>9</Column>
+    <Severity>Warning</Severity>
+  </Problem>
+  <Problem>
+    <Rule>Microsoft.Rules.Data.SR0007</Rule>
+    <ProblemDescription>Nullable columns can cause final results to be evaluated as NULL for the predicate.</ProblemDescription>
+    <SourceFile>C:\GitRepo\ConqueringtheMonsterProc\AutoDealershipDemo_Summit2023\AutoDealershipDemo_Summit2023\Workload\Stored Procedures\sp_DealershipWorkloadFast.sql</SourceFile>
+    <Line>123</Line>
+    <Column>9</Column>
+    <Severity>Warning</Severity>
+  </Problem>
+  <Problem>
+    <Rule>Microsoft.Rules.Data.SR0007</Rule>
+    <ProblemDescription>Nullable columns can cause final results to be evaluated as NULL for the predicate.</ProblemDescription>
+    <SourceFile>C:\GitRepo\ConqueringtheMonsterProc\AutoDealershipDemo_Summit2023\AutoDealershipDemo_Summit2023\Workload\Stored Procedures\sp_DealershipWorkloadFast.sql</SourceFile>
+    <Line>145</Line>
+    <Column>9</Column>
+    <Severity>Warning</Severity>
+  </Problem>
+  <Problem>
+    <Rule>Microsoft.Rules.Data.SR0007</Rule>
+    <ProblemDescription>Nullable columns can cause final results to be evaluated as NULL for the predicate.</ProblemDescription>
+    <SourceFile>C:\GitRepo\ConqueringtheMonsterProc\AutoDealershipDemo_Summit2023\AutoDealershipDemo_Summit2023\Workload\Stored Procedures\sp_DealershipWorkloadFast.sql</SourceFile>
+    <Line>178</Line>
+    <Column>9</Column>
+    <Severity>Warning</Severity>
+  </Problem>
+  <Problem>
+    <Rule>Microsoft.Rules.Data.SR0007</Rule>
+    <ProblemDescription>Nullable columns can cause final results to be evaluated as NULL for the predicate.</ProblemDescription>
+    <SourceFile>C:\GitRepo\ConqueringtheMonsterProc\AutoDealershipDemo_Summit2023\AutoDealershipDemo_Summit2023\Workload\Stored Procedures\sp_DealershipWorkloadFast.sql</SourceFile>
+    <Line>179</Line>
+    <Column>8</Column>
+    <Severity>Warning</Severity>
+  </Problem>
+  <Problem>
+    <Rule>Microsoft.Rules.Data.SR0007</Rule>
+    <ProblemDescription>Nullable columns can cause final results to be evaluated as NULL for the predicate.</ProblemDescription>
+    <SourceFile>C:\GitRepo\ConqueringtheMonsterProc\AutoDealershipDemo_Summit2023\AutoDealershipDemo_Summit2023\Workload\Stored Procedures\sp_DealershipWorkloadFast.sql</SourceFile>
+    <Line>191</Line>
+    <Column>9</Column>
+    <Severity>Warning</Severity>
+  </Problem>
+  <Problem>
+    <Rule>Microsoft.Rules.Data.SR0007</Rule>
+    <ProblemDescription>Nullable columns can cause final results to be evaluated as NULL for the predicate.</ProblemDescription>
+    <SourceFile>C:\GitRepo\ConqueringtheMonsterProc\AutoDealershipDemo_Summit2023\AutoDealershipDemo_Summit2023\Workload\Stored Procedures\sp_DealershipWorkloadFast.sql</SourceFile>
+    <Line>192</Line>
+    <Column>7</Column>
+    <Severity>Warning</Severity>
+  </Problem>
+  <Problem>
+    <Rule>Microsoft.Rules.Data.SR0007</Rule>
+    <ProblemDescription>Nullable columns can cause final results to be evaluated as NULL for the predicate.</ProblemDescription>
+    <SourceFile>C:\GitRepo\ConqueringtheMonsterProc\AutoDealershipDemo_Summit2023\AutoDealershipDemo_Summit2023\Workload\Stored Procedures\sp_DealershipWorkloadFast.sql</SourceFile>
+    <Line>214</Line>
+    <Column>9</Column>
+    <Severity>Warning</Severity>
+  </Problem>
+  <Problem>
+    <Rule>Microsoft.Rules.Data.SR0007</Rule>
+    <ProblemDescription>Nullable columns can cause final results to be evaluated as NULL for the predicate.</ProblemDescription>
+    <SourceFile>C:\GitRepo\ConqueringtheMonsterProc\AutoDealershipDemo_Summit2023\AutoDealershipDemo_Summit2023\Workload\Stored Procedures\sp_DealershipWorkloadFast.sql</SourceFile>
+    <Line>215</Line>
+    <Column>8</Column>
+    <Severity>Warning</Severity>
+  </Problem>
+  <Problem>
+    <Rule>Microsoft.Rules.Data.SR0007</Rule>
+    <ProblemDescription>Nullable columns can cause final results to be evaluated as NULL for the predicate.</ProblemDescription>
+    <SourceFile>C:\GitRepo\ConqueringtheMonsterProc\AutoDealershipDemo_Summit2023\AutoDealershipDemo_Summit2023\Workload\Stored Procedures\sp_DealershipWorkloadFast.sql</SourceFile>
+    <Line>243</Line>
+    <Column>9</Column>
+    <Severity>Warning</Severity>
+  </Problem>
+  <Problem>
+    <Rule>Microsoft.Rules.Data.SR0007</Rule>
+    <ProblemDescription>Nullable columns can cause final results to be evaluated as NULL for the predicate.</ProblemDescription>
+    <SourceFile>C:\GitRepo\ConqueringtheMonsterProc\AutoDealershipDemo_Summit2023\AutoDealershipDemo_Summit2023\Workload\Stored Procedures\sp_DealershipWorkloadFast.sql</SourceFile>
+    <Line>244</Line>
+    <Column>8</Column>
+    <Severity>Warning</Severity>
+  </Problem>
+  <Problem>
+    <Rule>Microsoft.Rules.Data.SR0007</Rule>
+    <ProblemDescription>Nullable columns can cause final results to be evaluated as NULL for the predicate.</ProblemDescription>
+    <SourceFile>C:\GitRepo\ConqueringtheMonsterProc\AutoDealershipDemo_Summit2023\AutoDealershipDemo_Summit2023\Workload\Stored Procedures\sp_DealershipWorkloadFast.sql</SourceFile>
+    <Line>245</Line>
+    <Column>8</Column>
+    <Severity>Warning</Severity>
+  </Problem>
+  <Problem>
+    <Rule>Microsoft.Rules.Data.SR0007</Rule>
+    <ProblemDescription>Nullable columns can cause final results to be evaluated as NULL for the predicate.</ProblemDescription>
+    <SourceFile>C:\GitRepo\ConqueringtheMonsterProc\AutoDealershipDemo_Summit2023\AutoDealershipDemo_Summit2023\Workload\Stored Procedures\sp_DealershipWorkloadFast.sql</SourceFile>
+    <Line>257</Line>
+    <Column>9</Column>
+    <Severity>Warning</Severity>
+  </Problem>
+  <Problem>
+    <Rule>Microsoft.Rules.Data.SR0007</Rule>
+    <ProblemDescription>Nullable columns can cause final results to be evaluated as NULL for the predicate.</ProblemDescription>
+    <SourceFile>C:\GitRepo\ConqueringtheMonsterProc\AutoDealershipDemo_Summit2023\AutoDealershipDemo_Summit2023\Workload\Stored Procedures\sp_DealershipWorkloadFast.sql</SourceFile>
+    <Line>262</Line>
+    <Column>8</Column>
+    <Severity>Warning</Severity>
+  </Problem>
+  <Problem>
+    <Rule>Microsoft.Rules.Data.SR0007</Rule>
+    <ProblemDescription>Nullable columns can cause final results to be evaluated as NULL for the predicate.</ProblemDescription>
+    <SourceFile>C:\GitRepo\ConqueringtheMonsterProc\AutoDealershipDemo_Summit2023\AutoDealershipDemo_Summit2023\Workload\Stored Procedures\sp_DealershipWorkloadFast.sql</SourceFile>
+    <Line>263</Line>
+    <Column>8</Column>
+    <Severity>Warning</Severity>
+  </Problem>
+  <Problem>
+    <Rule>Microsoft.Rules.Data.SR0007</Rule>
+    <ProblemDescription>Nullable columns can cause final results to be evaluated as NULL for the predicate.</ProblemDescription>
+    <SourceFile>C:\GitRepo\ConqueringtheMonsterProc\AutoDealershipDemo_Summit2023\AutoDealershipDemo_Summit2023\Workload\Stored Procedures\sp_DealershipWorkloadFast.sql</SourceFile>
+    <Line>275</Line>
+    <Column>9</Column>
+    <Severity>Warning</Severity>
+  </Problem>
+  <Problem>
+    <Rule>Microsoft.Rules.Data.SR0007</Rule>
+    <ProblemDescription>Nullable columns can cause final results to be evaluated as NULL for the predicate.</ProblemDescription>
+    <SourceFile>C:\GitRepo\ConqueringtheMonsterProc\AutoDealershipDemo_Summit2023\AutoDealershipDemo_Summit2023\Workload\Stored Procedures\sp_DealershipWorkloadFast.sql</SourceFile>
+    <Line>280</Line>
+    <Column>8</Column>
+    <Severity>Warning</Severity>
+  </Problem>
+  <Problem>
+    <Rule>Microsoft.Rules.Data.SR0007</Rule>
+    <ProblemDescription>Nullable columns can cause final results to be evaluated as NULL for the predicate.</ProblemDescription>
+    <SourceFile>C:\GitRepo\ConqueringtheMonsterProc\AutoDealershipDemo_Summit2023\AutoDealershipDemo_Summit2023\Workload\Stored Procedures\sp_DealershipWorkloadFast.sql</SourceFile>
+    <Line>293</Line>
+    <Column>5</Column>
+    <Severity>Warning</Severity>
+  </Problem>
+  <Problem>
+    <Rule>Microsoft.Rules.Data.SR0007</Rule>
+    <ProblemDescription>Nullable columns can cause final results to be evaluated as NULL for the predicate.</ProblemDescription>
+    <SourceFile>C:\GitRepo\ConqueringtheMonsterProc\AutoDealershipDemo_Summit2023\AutoDealershipDemo_Summit2023\Workload\Stored Procedures\sp_DealershipWorkloadFast.sql</SourceFile>
+    <Line>294</Line>
+    <Column>8</Column>
+    <Severity>Warning</Severity>
+  </Problem>
+  <Problem>
+    <Rule>Microsoft.Rules.Data.SR0007</Rule>
+    <ProblemDescription>Nullable columns can cause final results to be evaluated as NULL for the predicate.</ProblemDescription>
+    <SourceFile>C:\GitRepo\ConqueringtheMonsterProc\AutoDealershipDemo_Summit2023\AutoDealershipDemo_Summit2023\Workload\Stored Procedures\sp_DealershipWorkloadFast.sql</SourceFile>
+    <Line>296</Line>
+    <Column>8</Column>
+    <Severity>Warning</Severity>
+  </Problem>
+  <Problem>
+    <Rule>Microsoft.Rules.Data.SR0007</Rule>
+    <ProblemDescription>Nullable columns can cause final results to be evaluated as NULL for the predicate.</ProblemDescription>
+    <SourceFile>C:\GitRepo\ConqueringtheMonsterProc\AutoDealershipDemo_Summit2023\AutoDealershipDemo_Summit2023\Workload\Stored Procedures\sp_DealershipWorkloadFast.sql</SourceFile>
+    <Line>342</Line>
+    <Column>10</Column>
+    <Severity>Warning</Severity>
+  </Problem>
+  <Problem>
+    <Rule>Microsoft.Rules.Data.SR0007</Rule>
+    <ProblemDescription>Nullable columns can cause final results to be evaluated as NULL for the predicate.</ProblemDescription>
+    <SourceFile>C:\GitRepo\ConqueringtheMonsterProc\AutoDealershipDemo_Summit2023\AutoDealershipDemo_Summit2023\Workload\Stored Procedures\sp_DealershipWorkloadFast.sql</SourceFile>
+    <Line>343</Line>
+    <Column>9</Column>
+    <Severity>Warning</Severity>
+  </Problem>
+  <Problem>
+    <Rule>Microsoft.Rules.Data.SR0007</Rule>
+    <ProblemDescription>Nullable columns can cause final results to be evaluated as NULL for the predicate.</ProblemDescription>
+    <SourceFile>C:\GitRepo\ConqueringtheMonsterProc\AutoDealershipDemo_Summit2023\AutoDealershipDemo_Summit2023\Workload\Stored Procedures\sp_DealershipWorkloadFast.sql</SourceFile>
+    <Line>350</Line>
+    <Column>10</Column>
+    <Severity>Warning</Severity>
+  </Problem>
+  <Problem>
+    <Rule>Microsoft.Rules.Data.SR0007</Rule>
+    <ProblemDescription>Nullable columns can cause final results to be evaluated as NULL for the predicate.</ProblemDescription>
+    <SourceFile>C:\GitRepo\ConqueringtheMonsterProc\AutoDealershipDemo_Summit2023\AutoDealershipDemo_Summit2023\Workload\Stored Procedures\sp_DealershipWorkloadFast.sql</SourceFile>
+    <Line>351</Line>
+    <Column>9</Column>
+    <Severity>Warning</Severity>
+  </Problem>
+  <Problem>
+    <Rule>Microsoft.Rules.Data.SR0007</Rule>
+    <ProblemDescription>Nullable columns can cause final results to be evaluated as NULL for the predicate.</ProblemDescription>
+    <SourceFile>C:\GitRepo\ConqueringtheMonsterProc\AutoDealershipDemo_Summit2023\AutoDealershipDemo_Summit2023\Workload\Stored Procedures\sp_DealershipWorkloadFast.sql</SourceFile>
+    <Line>358</Line>
+    <Column>10</Column>
+    <Severity>Warning</Severity>
+  </Problem>
+  <Problem>
+    <Rule>Microsoft.Rules.Data.SR0007</Rule>
+    <ProblemDescription>Nullable columns can cause final results to be evaluated as NULL for the predicate.</ProblemDescription>
+    <SourceFile>C:\GitRepo\ConqueringtheMonsterProc\AutoDealershipDemo_Summit2023\AutoDealershipDemo_Summit2023\Workload\Stored Procedures\sp_DealershipWorkloadFast.sql</SourceFile>
+    <Line>359</Line>
+    <Column>9</Column>
+    <Severity>Warning</Severity>
+  </Problem>
+  <Problem>
+    <Rule>Microsoft.Rules.Data.SR0007</Rule>
+    <ProblemDescription>Nullable columns can cause final results to be evaluated as NULL for the predicate.</ProblemDescription>
+    <SourceFile>C:\GitRepo\ConqueringtheMonsterProc\AutoDealershipDemo_Summit2023\AutoDealershipDemo_Summit2023\Workload\Stored Procedures\sp_DealershipWorkloadFast.sql</SourceFile>
+    <Line>375</Line>
+    <Column>9</Column>
+    <Severity>Warning</Severity>
+  </Problem>
+  <Problem>
+    <Rule>Microsoft.Rules.Data.SR0007</Rule>
+    <ProblemDescription>Nullable columns can cause final results to be evaluated as NULL for the predicate.</ProblemDescription>
+    <SourceFile>C:\GitRepo\ConqueringtheMonsterProc\AutoDealershipDemo_Summit2023\AutoDealershipDemo_Summit2023\Workload\Stored Procedures\sp_DealershipWorkloadFast.sql</SourceFile>
+    <Line>376</Line>
+    <Column>8</Column>
+    <Severity>Warning</Severity>
+  </Problem>
+  <Problem>
+    <Rule>Microsoft.Rules.Data.SR0007</Rule>
+    <ProblemDescription>Nullable columns can cause final results to be evaluated as NULL for the predicate.</ProblemDescription>
+    <SourceFile>C:\GitRepo\ConqueringtheMonsterProc\AutoDealershipDemo_Summit2023\AutoDealershipDemo_Summit2023\Workload\Stored Procedures\sp_DealershipWorkloadFast.sql</SourceFile>
+    <Line>377</Line>
+    <Column>8</Column>
+    <Severity>Warning</Severity>
+  </Problem>
+  <Problem>
+    <Rule>Microsoft.Rules.Data.SR0007</Rule>
+    <ProblemDescription>Nullable columns can cause final results to be evaluated as NULL for the predicate.</ProblemDescription>
+    <SourceFile>C:\GitRepo\ConqueringtheMonsterProc\AutoDealershipDemo_Summit2023\AutoDealershipDemo_Summit2023\Workload\Stored Procedures\sp_DealershipWorkloadFast.sql</SourceFile>
+    <Line>378</Line>
+    <Column>8</Column>
+    <Severity>Warning</Severity>
+  </Problem>
+  <Problem>
+    <Rule>Microsoft.Rules.Data.SR0007</Rule>
+    <ProblemDescription>Nullable columns can cause final results to be evaluated as NULL for the predicate.</ProblemDescription>
+    <SourceFile>C:\GitRepo\ConqueringtheMonsterProc\AutoDealershipDemo_Summit2023\AutoDealershipDemo_Summit2023\Workload\Stored Procedures\sp_DealershipWorkloadFast.sql</SourceFile>
+    <Line>392</Line>
+    <Column>9</Column>
+    <Severity>Warning</Severity>
+  </Problem>
+  <Problem>
+    <Rule>Microsoft.Rules.Data.SR0007</Rule>
+    <ProblemDescription>Nullable columns can cause final results to be evaluated as NULL for the predicate.</ProblemDescription>
+    <SourceFile>C:\GitRepo\ConqueringtheMonsterProc\AutoDealershipDemo_Summit2023\AutoDealershipDemo_Summit2023\Workload\Stored Procedures\sp_DealershipWorkloadFast.sql</SourceFile>
+    <Line>393</Line>
+    <Column>8</Column>
+    <Severity>Warning</Severity>
+  </Problem>
+  <Problem>
+    <Rule>Microsoft.Rules.Data.SR0007</Rule>
+    <ProblemDescription>Nullable columns can cause final results to be evaluated as NULL for the predicate.</ProblemDescription>
+    <SourceFile>C:\GitRepo\ConqueringtheMonsterProc\AutoDealershipDemo_Summit2023\AutoDealershipDemo_Summit2023\Workload\Stored Procedures\sp_DealershipWorkloadFast.sql</SourceFile>
+    <Line>394</Line>
+    <Column>8</Column>
+    <Severity>Warning</Severity>
+  </Problem>
+  <Problem>
+    <Rule>Microsoft.Rules.Data.SR0007</Rule>
+    <ProblemDescription>Nullable columns can cause final results to be evaluated as NULL for the predicate.</ProblemDescription>
+    <SourceFile>C:\GitRepo\ConqueringtheMonsterProc\AutoDealershipDemo_Summit2023\AutoDealershipDemo_Summit2023\Workload\Stored Procedures\sp_DealershipWorkloadFast.sql</SourceFile>
+    <Line>395</Line>
+    <Column>8</Column>
+    <Severity>Warning</Severity>
+  </Problem>
+  <Problem>
+    <Rule>Microsoft.Rules.Data.SR0007</Rule>
+    <ProblemDescription>Nullable columns can cause final results to be evaluated as NULL for the predicate.</ProblemDescription>
+    <SourceFile>C:\GitRepo\ConqueringtheMonsterProc\AutoDealershipDemo_Summit2023\AutoDealershipDemo_Summit2023\Workload\Stored Procedures\sp_DealershipWorkloadFast.sql</SourceFile>
+    <Line>409</Line>
+    <Column>9</Column>
+    <Severity>Warning</Severity>
+  </Problem>
+  <Problem>
+    <Rule>Microsoft.Rules.Data.SR0007</Rule>
+    <ProblemDescription>Nullable columns can cause final results to be evaluated as NULL for the predicate.</ProblemDescription>
+    <SourceFile>C:\GitRepo\ConqueringtheMonsterProc\AutoDealershipDemo_Summit2023\AutoDealershipDemo_Summit2023\Workload\Stored Procedures\sp_DealershipWorkloadFast.sql</SourceFile>
+    <Line>410</Line>
+    <Column>8</Column>
+    <Severity>Warning</Severity>
+  </Problem>
+  <Problem>
+    <Rule>Microsoft.Rules.Data.SR0007</Rule>
+    <ProblemDescription>Nullable columns can cause final results to be evaluated as NULL for the predicate.</ProblemDescription>
+    <SourceFile>C:\GitRepo\ConqueringtheMonsterProc\AutoDealershipDemo_Summit2023\AutoDealershipDemo_Summit2023\Workload\Stored Procedures\sp_DealershipWorkloadFast.sql</SourceFile>
+    <Line>411</Line>
+    <Column>8</Column>
+    <Severity>Warning</Severity>
+  </Problem>
+  <Problem>
+    <Rule>Microsoft.Rules.Data.SR0007</Rule>
+    <ProblemDescription>Nullable columns can cause final results to be evaluated as NULL for the predicate.</ProblemDescription>
+    <SourceFile>C:\GitRepo\ConqueringtheMonsterProc\AutoDealershipDemo_Summit2023\AutoDealershipDemo_Summit2023\Workload\Stored Procedures\sp_DealershipWorkloadFast.sql</SourceFile>
+    <Line>412</Line>
+    <Column>8</Column>
+    <Severity>Warning</Severity>
+  </Problem>
+  <Problem>
+    <Rule>Microsoft.Rules.Data.SR0007</Rule>
+    <ProblemDescription>Nullable columns can cause final results to be evaluated as NULL for the predicate.</ProblemDescription>
+    <SourceFile>C:\GitRepo\ConqueringtheMonsterProc\AutoDealershipDemo_Summit2023\AutoDealershipDemo_Summit2023\Workload\Stored Procedures\sp_DealershipWorkloadFast.sql</SourceFile>
+    <Line>431</Line>
+    <Column>9</Column>
+    <Severity>Warning</Severity>
+  </Problem>
+  <Problem>
+    <Rule>Microsoft.Rules.Data.SR0016</Rule>
+    <ProblemDescription>Stored procedure(sp_DealershipWorkloadFast) includes sp_ prefix in its name.</ProblemDescription>
+    <SourceFile>C:\GitRepo\ConqueringtheMonsterProc\AutoDealershipDemo_Summit2023\AutoDealershipDemo_Summit2023\Workload\Stored Procedures\sp_DealershipWorkloadFast.sql</SourceFile>
+    <Line>1</Line>
+    <Column>27</Column>
+    <Severity>Warning</Severity>
+  </Problem>
+  <Problem>
+    <Rule>Microsoft.Rules.Data.SR0016</Rule>
+    <ProblemDescription>Stored procedure(sp_ExecuteRandomProc) includes sp_ prefix in its name.</ProblemDescription>
+    <SourceFile>C:\GitRepo\ConqueringtheMonsterProc\AutoDealershipDemo_Summit2023\AutoDealershipDemo_Summit2023\Workload\Stored Procedures\sp_ExecuteRandomProc.sql</SourceFile>
+    <Line>2</Line>
+    <Column>29</Column>
+    <Severity>Warning</Severity>
+  </Problem>
+  <Problem>
+    <Rule>Microsoft.Rules.Data.SR0004</Rule>
+    <ProblemDescription>A column without an index that is used as an IN predicate test expression might degrade performance.</ProblemDescription>
+    <SourceFile>C:\GitRepo\ConqueringtheMonsterProc\AutoDealershipDemo_Summit2023\AutoDealershipDemo_Summit2023\Workload\Stored Procedures\sp_DealershipWorkload_NoDyn.sql</SourceFile>
+    <Line>165</Line>
+    <Column>9</Column>
+    <Severity>Warning</Severity>
+  </Problem>
+  <Problem>
+    <Rule>Microsoft.Rules.Data.SR0006</Rule>
+    <ProblemDescription>A column in an expression to be compared in a predicate might cause a table scan and degrade performance.</ProblemDescription>
+    <SourceFile>C:\GitRepo\ConqueringtheMonsterProc\AutoDealershipDemo_Summit2023\AutoDealershipDemo_Summit2023\Workload\Stored Procedures\sp_DealershipWorkload_NoDyn.sql</SourceFile>
+    <Line>451</Line>
+    <Column>10</Column>
+    <Severity>Warning</Severity>
+  </Problem>
+  <Problem>
+    <Rule>Microsoft.Rules.Data.SR0007</Rule>
+    <ProblemDescription>Nullable columns can cause final results to be evaluated as NULL for the predicate.</ProblemDescription>
+    <SourceFile>C:\GitRepo\ConqueringtheMonsterProc\AutoDealershipDemo_Summit2023\AutoDealershipDemo_Summit2023\Workload\Stored Procedures\sp_DealershipWorkload_NoDyn.sql</SourceFile>
+    <Line>64</Line>
+    <Column>9</Column>
+    <Severity>Warning</Severity>
+  </Problem>
+  <Problem>
+    <Rule>Microsoft.Rules.Data.SR0007</Rule>
+    <ProblemDescription>Nullable columns can cause final results to be evaluated as NULL for the predicate.</ProblemDescription>
+    <SourceFile>C:\GitRepo\ConqueringtheMonsterProc\AutoDealershipDemo_Summit2023\AutoDealershipDemo_Summit2023\Workload\Stored Procedures\sp_DealershipWorkload_NoDyn.sql</SourceFile>
+    <Line>77</Line>
+    <Column>9</Column>
+    <Severity>Warning</Severity>
+  </Problem>
+  <Problem>
+    <Rule>Microsoft.Rules.Data.SR0007</Rule>
+    <ProblemDescription>Nullable columns can cause final results to be evaluated as NULL for the predicate.</ProblemDescription>
+    <SourceFile>C:\GitRepo\ConqueringtheMonsterProc\AutoDealershipDemo_Summit2023\AutoDealershipDemo_Summit2023\Workload\Stored Procedures\sp_DealershipWorkload_NoDyn.sql</SourceFile>
+    <Line>93</Line>
+    <Column>9</Column>
+    <Severity>Warning</Severity>
+  </Problem>
+  <Problem>
+    <Rule>Microsoft.Rules.Data.SR0007</Rule>
+    <ProblemDescription>Nullable columns can cause final results to be evaluated as NULL for the predicate.</ProblemDescription>
+    <SourceFile>C:\GitRepo\ConqueringtheMonsterProc\AutoDealershipDemo_Summit2023\AutoDealershipDemo_Summit2023\Workload\Stored Procedures\sp_DealershipWorkload_NoDyn.sql</SourceFile>
+    <Line>111</Line>
+    <Column>9</Column>
+    <Severity>Warning</Severity>
+  </Problem>
+  <Problem>
+    <Rule>Microsoft.Rules.Data.SR0007</Rule>
+    <ProblemDescription>Nullable columns can cause final results to be evaluated as NULL for the predicate.</ProblemDescription>
+    <SourceFile>C:\GitRepo\ConqueringtheMonsterProc\AutoDealershipDemo_Summit2023\AutoDealershipDemo_Summit2023\Workload\Stored Procedures\sp_DealershipWorkload_NoDyn.sql</SourceFile>
+    <Line>135</Line>
+    <Column>9</Column>
+    <Severity>Warning</Severity>
+  </Problem>
+  <Problem>
+    <Rule>Microsoft.Rules.Data.SR0007</Rule>
+    <ProblemDescription>Nullable columns can cause final results to be evaluated as NULL for the predicate.</ProblemDescription>
+    <SourceFile>C:\GitRepo\ConqueringtheMonsterProc\AutoDealershipDemo_Summit2023\AutoDealershipDemo_Summit2023\Workload\Stored Procedures\sp_DealershipWorkload_NoDyn.sql</SourceFile>
+    <Line>145</Line>
+    <Column>9</Column>
+    <Severity>Warning</Severity>
+  </Problem>
+  <Problem>
+    <Rule>Microsoft.Rules.Data.SR0007</Rule>
+    <ProblemDescription>Nullable columns can cause final results to be evaluated as NULL for the predicate.</ProblemDescription>
+    <SourceFile>C:\GitRepo\ConqueringtheMonsterProc\AutoDealershipDemo_Summit2023\AutoDealershipDemo_Summit2023\Workload\Stored Procedures\sp_DealershipWorkload_NoDyn.sql</SourceFile>
+    <Line>165</Line>
+    <Column>9</Column>
+    <Severity>Warning</Severity>
+  </Problem>
+  <Problem>
+    <Rule>Microsoft.Rules.Data.SR0007</Rule>
+    <ProblemDescription>Nullable columns can cause final results to be evaluated as NULL for the predicate.</ProblemDescription>
+    <SourceFile>C:\GitRepo\ConqueringtheMonsterProc\AutoDealershipDemo_Summit2023\AutoDealershipDemo_Summit2023\Workload\Stored Procedures\sp_DealershipWorkload_NoDyn.sql</SourceFile>
+    <Line>196</Line>
+    <Column>9</Column>
+    <Severity>Warning</Severity>
+  </Problem>
+  <Problem>
+    <Rule>Microsoft.Rules.Data.SR0007</Rule>
+    <ProblemDescription>Nullable columns can cause final results to be evaluated as NULL for the predicate.</ProblemDescription>
+    <SourceFile>C:\GitRepo\ConqueringtheMonsterProc\AutoDealershipDemo_Summit2023\AutoDealershipDemo_Summit2023\Workload\Stored Procedures\sp_DealershipWorkload_NoDyn.sql</SourceFile>
+    <Line>197</Line>
+    <Column>8</Column>
+    <Severity>Warning</Severity>
+  </Problem>
+  <Problem>
+    <Rule>Microsoft.Rules.Data.SR0007</Rule>
+    <ProblemDescription>Nullable columns can cause final results to be evaluated as NULL for the predicate.</ProblemDescription>
+    <SourceFile>C:\GitRepo\ConqueringtheMonsterProc\AutoDealershipDemo_Summit2023\AutoDealershipDemo_Summit2023\Workload\Stored Procedures\sp_DealershipWorkload_NoDyn.sql</SourceFile>
+    <Line>207</Line>
+    <Column>9</Column>
+    <Severity>Warning</Severity>
+  </Problem>
+  <Problem>
+    <Rule>Microsoft.Rules.Data.SR0007</Rule>
+    <ProblemDescription>Nullable columns can cause final results to be evaluated as NULL for the predicate.</ProblemDescription>
+    <SourceFile>C:\GitRepo\ConqueringtheMonsterProc\AutoDealershipDemo_Summit2023\AutoDealershipDemo_Summit2023\Workload\Stored Procedures\sp_DealershipWorkload_NoDyn.sql</SourceFile>
+    <Line>208</Line>
+    <Column>7</Column>
+    <Severity>Warning</Severity>
+  </Problem>
+  <Problem>
+    <Rule>Microsoft.Rules.Data.SR0007</Rule>
+    <ProblemDescription>Nullable columns can cause final results to be evaluated as NULL for the predicate.</ProblemDescription>
+    <SourceFile>C:\GitRepo\ConqueringtheMonsterProc\AutoDealershipDemo_Summit2023\AutoDealershipDemo_Summit2023\Workload\Stored Procedures\sp_DealershipWorkload_NoDyn.sql</SourceFile>
+    <Line>228</Line>
+    <Column>9</Column>
+    <Severity>Warning</Severity>
+  </Problem>
+  <Problem>
+    <Rule>Microsoft.Rules.Data.SR0007</Rule>
+    <ProblemDescription>Nullable columns can cause final results to be evaluated as NULL for the predicate.</ProblemDescription>
+    <SourceFile>C:\GitRepo\ConqueringtheMonsterProc\AutoDealershipDemo_Summit2023\AutoDealershipDemo_Summit2023\Workload\Stored Procedures\sp_DealershipWorkload_NoDyn.sql</SourceFile>
+    <Line>229</Line>
+    <Column>8</Column>
+    <Severity>Warning</Severity>
+  </Problem>
+  <Problem>
+    <Rule>Microsoft.Rules.Data.SR0007</Rule>
+    <ProblemDescription>Nullable columns can cause final results to be evaluated as NULL for the predicate.</ProblemDescription>
+    <SourceFile>C:\GitRepo\ConqueringtheMonsterProc\AutoDealershipDemo_Summit2023\AutoDealershipDemo_Summit2023\Workload\Stored Procedures\sp_DealershipWorkload_NoDyn.sql</SourceFile>
+    <Line>255</Line>
+    <Column>9</Column>
+    <Severity>Warning</Severity>
+  </Problem>
+  <Problem>
+    <Rule>Microsoft.Rules.Data.SR0007</Rule>
+    <ProblemDescription>Nullable columns can cause final results to be evaluated as NULL for the predicate.</ProblemDescription>
+    <SourceFile>C:\GitRepo\ConqueringtheMonsterProc\AutoDealershipDemo_Summit2023\AutoDealershipDemo_Summit2023\Workload\Stored Procedures\sp_DealershipWorkload_NoDyn.sql</SourceFile>
+    <Line>256</Line>
+    <Column>8</Column>
+    <Severity>Warning</Severity>
+  </Problem>
+  <Problem>
+    <Rule>Microsoft.Rules.Data.SR0007</Rule>
+    <ProblemDescription>Nullable columns can cause final results to be evaluated as NULL for the predicate.</ProblemDescription>
+    <SourceFile>C:\GitRepo\ConqueringtheMonsterProc\AutoDealershipDemo_Summit2023\AutoDealershipDemo_Summit2023\Workload\Stored Procedures\sp_DealershipWorkload_NoDyn.sql</SourceFile>
+    <Line>257</Line>
+    <Column>8</Column>
+    <Severity>Warning</Severity>
+  </Problem>
+  <Problem>
+    <Rule>Microsoft.Rules.Data.SR0007</Rule>
+    <ProblemDescription>Nullable columns can cause final results to be evaluated as NULL for the predicate.</ProblemDescription>
+    <SourceFile>C:\GitRepo\ConqueringtheMonsterProc\AutoDealershipDemo_Summit2023\AutoDealershipDemo_Summit2023\Workload\Stored Procedures\sp_DealershipWorkload_NoDyn.sql</SourceFile>
+    <Line>267</Line>
+    <Column>9</Column>
+    <Severity>Warning</Severity>
+  </Problem>
+  <Problem>
+    <Rule>Microsoft.Rules.Data.SR0007</Rule>
+    <ProblemDescription>Nullable columns can cause final results to be evaluated as NULL for the predicate.</ProblemDescription>
+    <SourceFile>C:\GitRepo\ConqueringtheMonsterProc\AutoDealershipDemo_Summit2023\AutoDealershipDemo_Summit2023\Workload\Stored Procedures\sp_DealershipWorkload_NoDyn.sql</SourceFile>
+    <Line>272</Line>
+    <Column>8</Column>
+    <Severity>Warning</Severity>
+  </Problem>
+  <Problem>
+    <Rule>Microsoft.Rules.Data.SR0007</Rule>
+    <ProblemDescription>Nullable columns can cause final results to be evaluated as NULL for the predicate.</ProblemDescription>
+    <SourceFile>C:\GitRepo\ConqueringtheMonsterProc\AutoDealershipDemo_Summit2023\AutoDealershipDemo_Summit2023\Workload\Stored Procedures\sp_DealershipWorkload_NoDyn.sql</SourceFile>
+    <Line>273</Line>
+    <Column>8</Column>
+    <Severity>Warning</Severity>
+  </Problem>
+  <Problem>
+    <Rule>Microsoft.Rules.Data.SR0007</Rule>
+    <ProblemDescription>Nullable columns can cause final results to be evaluated as NULL for the predicate.</ProblemDescription>
+    <SourceFile>C:\GitRepo\ConqueringtheMonsterProc\AutoDealershipDemo_Summit2023\AutoDealershipDemo_Summit2023\Workload\Stored Procedures\sp_DealershipWorkload_NoDyn.sql</SourceFile>
+    <Line>283</Line>
+    <Column>9</Column>
+    <Severity>Warning</Severity>
+  </Problem>
+  <Problem>
+    <Rule>Microsoft.Rules.Data.SR0007</Rule>
+    <ProblemDescription>Nullable columns can cause final results to be evaluated as NULL for the predicate.</ProblemDescription>
+    <SourceFile>C:\GitRepo\ConqueringtheMonsterProc\AutoDealershipDemo_Summit2023\AutoDealershipDemo_Summit2023\Workload\Stored Procedures\sp_DealershipWorkload_NoDyn.sql</SourceFile>
+    <Line>288</Line>
+    <Column>8</Column>
+    <Severity>Warning</Severity>
+  </Problem>
+  <Problem>
+    <Rule>Microsoft.Rules.Data.SR0007</Rule>
+    <ProblemDescription>Nullable columns can cause final results to be evaluated as NULL for the predicate.</ProblemDescription>
+    <SourceFile>C:\GitRepo\ConqueringtheMonsterProc\AutoDealershipDemo_Summit2023\AutoDealershipDemo_Summit2023\Workload\Stored Procedures\sp_DealershipWorkload_NoDyn.sql</SourceFile>
+    <Line>299</Line>
+    <Column>5</Column>
+    <Severity>Warning</Severity>
+  </Problem>
+  <Problem>
+    <Rule>Microsoft.Rules.Data.SR0007</Rule>
+    <ProblemDescription>Nullable columns can cause final results to be evaluated as NULL for the predicate.</ProblemDescription>
+    <SourceFile>C:\GitRepo\ConqueringtheMonsterProc\AutoDealershipDemo_Summit2023\AutoDealershipDemo_Summit2023\Workload\Stored Procedures\sp_DealershipWorkload_NoDyn.sql</SourceFile>
+    <Line>300</Line>
+    <Column>8</Column>
+    <Severity>Warning</Severity>
+  </Problem>
+  <Problem>
+    <Rule>Microsoft.Rules.Data.SR0007</Rule>
+    <ProblemDescription>Nullable columns can cause final results to be evaluated as NULL for the predicate.</ProblemDescription>
+    <SourceFile>C:\GitRepo\ConqueringtheMonsterProc\AutoDealershipDemo_Summit2023\AutoDealershipDemo_Summit2023\Workload\Stored Procedures\sp_DealershipWorkload_NoDyn.sql</SourceFile>
+    <Line>302</Line>
+    <Column>8</Column>
+    <Severity>Warning</Severity>
+  </Problem>
+  <Problem>
+    <Rule>Microsoft.Rules.Data.SR0007</Rule>
+    <ProblemDescription>Nullable columns can cause final results to be evaluated as NULL for the predicate.</ProblemDescription>
+    <SourceFile>C:\GitRepo\ConqueringtheMonsterProc\AutoDealershipDemo_Summit2023\AutoDealershipDemo_Summit2023\Workload\Stored Procedures\sp_DealershipWorkload_NoDyn.sql</SourceFile>
+    <Line>347</Line>
+    <Column>10</Column>
+    <Severity>Warning</Severity>
+  </Problem>
+  <Problem>
+    <Rule>Microsoft.Rules.Data.SR0007</Rule>
+    <ProblemDescription>Nullable columns can cause final results to be evaluated as NULL for the predicate.</ProblemDescription>
+    <SourceFile>C:\GitRepo\ConqueringtheMonsterProc\AutoDealershipDemo_Summit2023\AutoDealershipDemo_Summit2023\Workload\Stored Procedures\sp_DealershipWorkload_NoDyn.sql</SourceFile>
+    <Line>348</Line>
+    <Column>9</Column>
+    <Severity>Warning</Severity>
+  </Problem>
+  <Problem>
+    <Rule>Microsoft.Rules.Data.SR0007</Rule>
+    <ProblemDescription>Nullable columns can cause final results to be evaluated as NULL for the predicate.</ProblemDescription>
+    <SourceFile>C:\GitRepo\ConqueringtheMonsterProc\AutoDealershipDemo_Summit2023\AutoDealershipDemo_Summit2023\Workload\Stored Procedures\sp_DealershipWorkload_NoDyn.sql</SourceFile>
+    <Line>355</Line>
+    <Column>10</Column>
+    <Severity>Warning</Severity>
+  </Problem>
+  <Problem>
+    <Rule>Microsoft.Rules.Data.SR0007</Rule>
+    <ProblemDescription>Nullable columns can cause final results to be evaluated as NULL for the predicate.</ProblemDescription>
+    <SourceFile>C:\GitRepo\ConqueringtheMonsterProc\AutoDealershipDemo_Summit2023\AutoDealershipDemo_Summit2023\Workload\Stored Procedures\sp_DealershipWorkload_NoDyn.sql</SourceFile>
+    <Line>356</Line>
+    <Column>9</Column>
+    <Severity>Warning</Severity>
+  </Problem>
+  <Problem>
+    <Rule>Microsoft.Rules.Data.SR0007</Rule>
+    <ProblemDescription>Nullable columns can cause final results to be evaluated as NULL for the predicate.</ProblemDescription>
+    <SourceFile>C:\GitRepo\ConqueringtheMonsterProc\AutoDealershipDemo_Summit2023\AutoDealershipDemo_Summit2023\Workload\Stored Procedures\sp_DealershipWorkload_NoDyn.sql</SourceFile>
+    <Line>363</Line>
+    <Column>10</Column>
+    <Severity>Warning</Severity>
+  </Problem>
+  <Problem>
+    <Rule>Microsoft.Rules.Data.SR0007</Rule>
+    <ProblemDescription>Nullable columns can cause final results to be evaluated as NULL for the predicate.</ProblemDescription>
+    <SourceFile>C:\GitRepo\ConqueringtheMonsterProc\AutoDealershipDemo_Summit2023\AutoDealershipDemo_Summit2023\Workload\Stored Procedures\sp_DealershipWorkload_NoDyn.sql</SourceFile>
+    <Line>364</Line>
+    <Column>9</Column>
+    <Severity>Warning</Severity>
+  </Problem>
+  <Problem>
+    <Rule>Microsoft.Rules.Data.SR0007</Rule>
+    <ProblemDescription>Nullable columns can cause final results to be evaluated as NULL for the predicate.</ProblemDescription>
+    <SourceFile>C:\GitRepo\ConqueringtheMonsterProc\AutoDealershipDemo_Summit2023\AutoDealershipDemo_Summit2023\Workload\Stored Procedures\sp_DealershipWorkload_NoDyn.sql</SourceFile>
+    <Line>379</Line>
+    <Column>9</Column>
+    <Severity>Warning</Severity>
+  </Problem>
+  <Problem>
+    <Rule>Microsoft.Rules.Data.SR0007</Rule>
+    <ProblemDescription>Nullable columns can cause final results to be evaluated as NULL for the predicate.</ProblemDescription>
+    <SourceFile>C:\GitRepo\ConqueringtheMonsterProc\AutoDealershipDemo_Summit2023\AutoDealershipDemo_Summit2023\Workload\Stored Procedures\sp_DealershipWorkload_NoDyn.sql</SourceFile>
+    <Line>380</Line>
+    <Column>8</Column>
+    <Severity>Warning</Severity>
+  </Problem>
+  <Problem>
+    <Rule>Microsoft.Rules.Data.SR0007</Rule>
+    <ProblemDescription>Nullable columns can cause final results to be evaluated as NULL for the predicate.</ProblemDescription>
+    <SourceFile>C:\GitRepo\ConqueringtheMonsterProc\AutoDealershipDemo_Summit2023\AutoDealershipDemo_Summit2023\Workload\Stored Procedures\sp_DealershipWorkload_NoDyn.sql</SourceFile>
+    <Line>381</Line>
+    <Column>8</Column>
+    <Severity>Warning</Severity>
+  </Problem>
+  <Problem>
+    <Rule>Microsoft.Rules.Data.SR0007</Rule>
+    <ProblemDescription>Nullable columns can cause final results to be evaluated as NULL for the predicate.</ProblemDescription>
+    <SourceFile>C:\GitRepo\ConqueringtheMonsterProc\AutoDealershipDemo_Summit2023\AutoDealershipDemo_Summit2023\Workload\Stored Procedures\sp_DealershipWorkload_NoDyn.sql</SourceFile>
+    <Line>382</Line>
+    <Column>8</Column>
+    <Severity>Warning</Severity>
+  </Problem>
+  <Problem>
+    <Rule>Microsoft.Rules.Data.SR0007</Rule>
+    <ProblemDescription>Nullable columns can cause final results to be evaluated as NULL for the predicate.</ProblemDescription>
+    <SourceFile>C:\GitRepo\ConqueringtheMonsterProc\AutoDealershipDemo_Summit2023\AutoDealershipDemo_Summit2023\Workload\Stored Procedures\sp_DealershipWorkload_NoDyn.sql</SourceFile>
+    <Line>396</Line>
+    <Column>9</Column>
+    <Severity>Warning</Severity>
+  </Problem>
+  <Problem>
+    <Rule>Microsoft.Rules.Data.SR0007</Rule>
+    <ProblemDescription>Nullable columns can cause final results to be evaluated as NULL for the predicate.</ProblemDescription>
+    <SourceFile>C:\GitRepo\ConqueringtheMonsterProc\AutoDealershipDemo_Summit2023\AutoDealershipDemo_Summit2023\Workload\Stored Procedures\sp_DealershipWorkload_NoDyn.sql</SourceFile>
+    <Line>397</Line>
+    <Column>8</Column>
+    <Severity>Warning</Severity>
+  </Problem>
+  <Problem>
+    <Rule>Microsoft.Rules.Data.SR0007</Rule>
+    <ProblemDescription>Nullable columns can cause final results to be evaluated as NULL for the predicate.</ProblemDescription>
+    <SourceFile>C:\GitRepo\ConqueringtheMonsterProc\AutoDealershipDemo_Summit2023\AutoDealershipDemo_Summit2023\Workload\Stored Procedures\sp_DealershipWorkload_NoDyn.sql</SourceFile>
+    <Line>398</Line>
+    <Column>8</Column>
+    <Severity>Warning</Severity>
+  </Problem>
+  <Problem>
+    <Rule>Microsoft.Rules.Data.SR0007</Rule>
+    <ProblemDescription>Nullable columns can cause final results to be evaluated as NULL for the predicate.</ProblemDescription>
+    <SourceFile>C:\GitRepo\ConqueringtheMonsterProc\AutoDealershipDemo_Summit2023\AutoDealershipDemo_Summit2023\Workload\Stored Procedures\sp_DealershipWorkload_NoDyn.sql</SourceFile>
+    <Line>399</Line>
+    <Column>8</Column>
+    <Severity>Warning</Severity>
+  </Problem>
+  <Problem>
+    <Rule>Microsoft.Rules.Data.SR0007</Rule>
+    <ProblemDescription>Nullable columns can cause final results to be evaluated as NULL for the predicate.</ProblemDescription>
+    <SourceFile>C:\GitRepo\ConqueringtheMonsterProc\AutoDealershipDemo_Summit2023\AutoDealershipDemo_Summit2023\Workload\Stored Procedures\sp_DealershipWorkload_NoDyn.sql</SourceFile>
+    <Line>412</Line>
+    <Column>9</Column>
+    <Severity>Warning</Severity>
+  </Problem>
+  <Problem>
+    <Rule>Microsoft.Rules.Data.SR0007</Rule>
+    <ProblemDescription>Nullable columns can cause final results to be evaluated as NULL for the predicate.</ProblemDescription>
+    <SourceFile>C:\GitRepo\ConqueringtheMonsterProc\AutoDealershipDemo_Summit2023\AutoDealershipDemo_Summit2023\Workload\Stored Procedures\sp_DealershipWorkload_NoDyn.sql</SourceFile>
+    <Line>413</Line>
+    <Column>8</Column>
+    <Severity>Warning</Severity>
+  </Problem>
+  <Problem>
+    <Rule>Microsoft.Rules.Data.SR0007</Rule>
+    <ProblemDescription>Nullable columns can cause final results to be evaluated as NULL for the predicate.</ProblemDescription>
+    <SourceFile>C:\GitRepo\ConqueringtheMonsterProc\AutoDealershipDemo_Summit2023\AutoDealershipDemo_Summit2023\Workload\Stored Procedures\sp_DealershipWorkload_NoDyn.sql</SourceFile>
+    <Line>414</Line>
+    <Column>8</Column>
+    <Severity>Warning</Severity>
+  </Problem>
+  <Problem>
+    <Rule>Microsoft.Rules.Data.SR0007</Rule>
+    <ProblemDescription>Nullable columns can cause final results to be evaluated as NULL for the predicate.</ProblemDescription>
+    <SourceFile>C:\GitRepo\ConqueringtheMonsterProc\AutoDealershipDemo_Summit2023\AutoDealershipDemo_Summit2023\Workload\Stored Procedures\sp_DealershipWorkload_NoDyn.sql</SourceFile>
+    <Line>415</Line>
+    <Column>8</Column>
+    <Severity>Warning</Severity>
+  </Problem>
+  <Problem>
+    <Rule>Microsoft.Rules.Data.SR0007</Rule>
+    <ProblemDescription>Nullable columns can cause final results to be evaluated as NULL for the predicate.</ProblemDescription>
+    <SourceFile>C:\GitRepo\ConqueringtheMonsterProc\AutoDealershipDemo_Summit2023\AutoDealershipDemo_Summit2023\Workload\Stored Procedures\sp_DealershipWorkload_NoDyn.sql</SourceFile>
+    <Line>433</Line>
+    <Column>9</Column>
+    <Severity>Warning</Severity>
+  </Problem>
+  <Problem>
+    <Rule>Microsoft.Rules.Data.SR0007</Rule>
+    <ProblemDescription>Nullable columns can cause final results to be evaluated as NULL for the predicate.</ProblemDescription>
+    <SourceFile>C:\GitRepo\ConqueringtheMonsterProc\AutoDealershipDemo_Summit2023\AutoDealershipDemo_Summit2023\Workload\Stored Procedures\sp_DealershipWorkload_NoDyn.sql</SourceFile>
+    <Line>452</Line>
+    <Column>9</Column>
+    <Severity>Warning</Severity>
+  </Problem>
+  <Problem>
+    <Rule>Microsoft.Rules.Data.SR0016</Rule>
+    <ProblemDescription>Stored procedure(sp_DealershipWorkload_NoDyn) includes sp_ prefix in its name.</ProblemDescription>
+    <SourceFile>C:\GitRepo\ConqueringtheMonsterProc\AutoDealershipDemo_Summit2023\AutoDealershipDemo_Summit2023\Workload\Stored Procedures\sp_DealershipWorkload_NoDyn.sql</SourceFile>
+    <Line>2</Line>
+    <Column>27</Column>
+    <Severity>Warning</Severity>
+  </Problem>
+  <Problem>
+    <Rule>Microsoft.Rules.Data.SR0004</Rule>
+    <ProblemDescription>A column without an index that is used as an IN predicate test expression might degrade performance.</ProblemDescription>
+    <SourceFile>C:\GitRepo\ConqueringtheMonsterProc\AutoDealershipDemo_Summit2023\AutoDealershipDemo_Summit2023\Workload\Stored Procedures\sp_DealershipWorkload_NoRC.sql</SourceFile>
+    <Line>133</Line>
+    <Column>9</Column>
+    <Severity>Warning</Severity>
+  </Problem>
+  <Problem>
+    <Rule>Microsoft.Rules.Data.SR0006</Rule>
+    <ProblemDescription>A column in an expression to be compared in a predicate might cause a table scan and degrade performance.</ProblemDescription>
+    <SourceFile>C:\GitRepo\ConqueringtheMonsterProc\AutoDealershipDemo_Summit2023\AutoDealershipDemo_Summit2023\Workload\Stored Procedures\sp_DealershipWorkload_NoRC.sql</SourceFile>
+    <Line>419</Line>
+    <Column>10</Column>
+    <Severity>Warning</Severity>
+  </Problem>
+  <Problem>
+    <Rule>Microsoft.Rules.Data.SR0007</Rule>
+    <ProblemDescription>Nullable columns can cause final results to be evaluated as NULL for the predicate.</ProblemDescription>
+    <SourceFile>C:\GitRepo\ConqueringtheMonsterProc\AutoDealershipDemo_Summit2023\AutoDealershipDemo_Summit2023\Workload\Stored Procedures\sp_DealershipWorkload_NoRC.sql</SourceFile>
+    <Line>32</Line>
+    <Column>9</Column>
+    <Severity>Warning</Severity>
+  </Problem>
+  <Problem>
+    <Rule>Microsoft.Rules.Data.SR0007</Rule>
+    <ProblemDescription>Nullable columns can cause final results to be evaluated as NULL for the predicate.</ProblemDescription>
+    <SourceFile>C:\GitRepo\ConqueringtheMonsterProc\AutoDealershipDemo_Summit2023\AutoDealershipDemo_Summit2023\Workload\Stored Procedures\sp_DealershipWorkload_NoRC.sql</SourceFile>
+    <Line>45</Line>
+    <Column>9</Column>
+    <Severity>Warning</Severity>
+  </Problem>
+  <Problem>
+    <Rule>Microsoft.Rules.Data.SR0007</Rule>
+    <ProblemDescription>Nullable columns can cause final results to be evaluated as NULL for the predicate.</ProblemDescription>
+    <SourceFile>C:\GitRepo\ConqueringtheMonsterProc\AutoDealershipDemo_Summit2023\AutoDealershipDemo_Summit2023\Workload\Stored Procedures\sp_DealershipWorkload_NoRC.sql</SourceFile>
+    <Line>61</Line>
+    <Column>9</Column>
+    <Severity>Warning</Severity>
+  </Problem>
+  <Problem>
+    <Rule>Microsoft.Rules.Data.SR0007</Rule>
+    <ProblemDescription>Nullable columns can cause final results to be evaluated as NULL for the predicate.</ProblemDescription>
+    <SourceFile>C:\GitRepo\ConqueringtheMonsterProc\AutoDealershipDemo_Summit2023\AutoDealershipDemo_Summit2023\Workload\Stored Procedures\sp_DealershipWorkload_NoRC.sql</SourceFile>
+    <Line>79</Line>
+    <Column>9</Column>
+    <Severity>Warning</Severity>
+  </Problem>
+  <Problem>
+    <Rule>Microsoft.Rules.Data.SR0007</Rule>
+    <ProblemDescription>Nullable columns can cause final results to be evaluated as NULL for the predicate.</ProblemDescription>
+    <SourceFile>C:\GitRepo\ConqueringtheMonsterProc\AutoDealershipDemo_Summit2023\AutoDealershipDemo_Summit2023\Workload\Stored Procedures\sp_DealershipWorkload_NoRC.sql</SourceFile>
+    <Line>103</Line>
+    <Column>9</Column>
+    <Severity>Warning</Severity>
+  </Problem>
+  <Problem>
+    <Rule>Microsoft.Rules.Data.SR0007</Rule>
+    <ProblemDescription>Nullable columns can cause final results to be evaluated as NULL for the predicate.</ProblemDescription>
+    <SourceFile>C:\GitRepo\ConqueringtheMonsterProc\AutoDealershipDemo_Summit2023\AutoDealershipDemo_Summit2023\Workload\Stored Procedures\sp_DealershipWorkload_NoRC.sql</SourceFile>
+    <Line>113</Line>
+    <Column>9</Column>
+    <Severity>Warning</Severity>
+  </Problem>
+  <Problem>
+    <Rule>Microsoft.Rules.Data.SR0007</Rule>
+    <ProblemDescription>Nullable columns can cause final results to be evaluated as NULL for the predicate.</ProblemDescription>
+    <SourceFile>C:\GitRepo\ConqueringtheMonsterProc\AutoDealershipDemo_Summit2023\AutoDealershipDemo_Summit2023\Workload\Stored Procedures\sp_DealershipWorkload_NoRC.sql</SourceFile>
+    <Line>133</Line>
+    <Column>9</Column>
+    <Severity>Warning</Severity>
+  </Problem>
+  <Problem>
+    <Rule>Microsoft.Rules.Data.SR0007</Rule>
+    <ProblemDescription>Nullable columns can cause final results to be evaluated as NULL for the predicate.</ProblemDescription>
+    <SourceFile>C:\GitRepo\ConqueringtheMonsterProc\AutoDealershipDemo_Summit2023\AutoDealershipDemo_Summit2023\Workload\Stored Procedures\sp_DealershipWorkload_NoRC.sql</SourceFile>
+    <Line>164</Line>
+    <Column>9</Column>
+    <Severity>Warning</Severity>
+  </Problem>
+  <Problem>
+    <Rule>Microsoft.Rules.Data.SR0007</Rule>
+    <ProblemDescription>Nullable columns can cause final results to be evaluated as NULL for the predicate.</ProblemDescription>
+    <SourceFile>C:\GitRepo\ConqueringtheMonsterProc\AutoDealershipDemo_Summit2023\AutoDealershipDemo_Summit2023\Workload\Stored Procedures\sp_DealershipWorkload_NoRC.sql</SourceFile>
+    <Line>165</Line>
+    <Column>8</Column>
+    <Severity>Warning</Severity>
+  </Problem>
+  <Problem>
+    <Rule>Microsoft.Rules.Data.SR0007</Rule>
+    <ProblemDescription>Nullable columns can cause final results to be evaluated as NULL for the predicate.</ProblemDescription>
+    <SourceFile>C:\GitRepo\ConqueringtheMonsterProc\AutoDealershipDemo_Summit2023\AutoDealershipDemo_Summit2023\Workload\Stored Procedures\sp_DealershipWorkload_NoRC.sql</SourceFile>
+    <Line>175</Line>
+    <Column>9</Column>
+    <Severity>Warning</Severity>
+  </Problem>
+  <Problem>
+    <Rule>Microsoft.Rules.Data.SR0007</Rule>
+    <ProblemDescription>Nullable columns can cause final results to be evaluated as NULL for the predicate.</ProblemDescription>
+    <SourceFile>C:\GitRepo\ConqueringtheMonsterProc\AutoDealershipDemo_Summit2023\AutoDealershipDemo_Summit2023\Workload\Stored Procedures\sp_DealershipWorkload_NoRC.sql</SourceFile>
+    <Line>176</Line>
+    <Column>7</Column>
+    <Severity>Warning</Severity>
+  </Problem>
+  <Problem>
+    <Rule>Microsoft.Rules.Data.SR0007</Rule>
+    <ProblemDescription>Nullable columns can cause final results to be evaluated as NULL for the predicate.</ProblemDescription>
+    <SourceFile>C:\GitRepo\ConqueringtheMonsterProc\AutoDealershipDemo_Summit2023\AutoDealershipDemo_Summit2023\Workload\Stored Procedures\sp_DealershipWorkload_NoRC.sql</SourceFile>
+    <Line>196</Line>
+    <Column>9</Column>
+    <Severity>Warning</Severity>
+  </Problem>
+  <Problem>
+    <Rule>Microsoft.Rules.Data.SR0007</Rule>
+    <ProblemDescription>Nullable columns can cause final results to be evaluated as NULL for the predicate.</ProblemDescription>
+    <SourceFile>C:\GitRepo\ConqueringtheMonsterProc\AutoDealershipDemo_Summit2023\AutoDealershipDemo_Summit2023\Workload\Stored Procedures\sp_DealershipWorkload_NoRC.sql</SourceFile>
+    <Line>197</Line>
+    <Column>8</Column>
+    <Severity>Warning</Severity>
+  </Problem>
+  <Problem>
+    <Rule>Microsoft.Rules.Data.SR0007</Rule>
+    <ProblemDescription>Nullable columns can cause final results to be evaluated as NULL for the predicate.</ProblemDescription>
+    <SourceFile>C:\GitRepo\ConqueringtheMonsterProc\AutoDealershipDemo_Summit2023\AutoDealershipDemo_Summit2023\Workload\Stored Procedures\sp_DealershipWorkload_NoRC.sql</SourceFile>
+    <Line>223</Line>
+    <Column>9</Column>
+    <Severity>Warning</Severity>
+  </Problem>
+  <Problem>
+    <Rule>Microsoft.Rules.Data.SR0007</Rule>
+    <ProblemDescription>Nullable columns can cause final results to be evaluated as NULL for the predicate.</ProblemDescription>
+    <SourceFile>C:\GitRepo\ConqueringtheMonsterProc\AutoDealershipDemo_Summit2023\AutoDealershipDemo_Summit2023\Workload\Stored Procedures\sp_DealershipWorkload_NoRC.sql</SourceFile>
+    <Line>224</Line>
+    <Column>8</Column>
+    <Severity>Warning</Severity>
+  </Problem>
+  <Problem>
+    <Rule>Microsoft.Rules.Data.SR0007</Rule>
+    <ProblemDescription>Nullable columns can cause final results to be evaluated as NULL for the predicate.</ProblemDescription>
+    <SourceFile>C:\GitRepo\ConqueringtheMonsterProc\AutoDealershipDemo_Summit2023\AutoDealershipDemo_Summit2023\Workload\Stored Procedures\sp_DealershipWorkload_NoRC.sql</SourceFile>
+    <Line>225</Line>
+    <Column>8</Column>
+    <Severity>Warning</Severity>
+  </Problem>
+  <Problem>
+    <Rule>Microsoft.Rules.Data.SR0007</Rule>
+    <ProblemDescription>Nullable columns can cause final results to be evaluated as NULL for the predicate.</ProblemDescription>
+    <SourceFile>C:\GitRepo\ConqueringtheMonsterProc\AutoDealershipDemo_Summit2023\AutoDealershipDemo_Summit2023\Workload\Stored Procedures\sp_DealershipWorkload_NoRC.sql</SourceFile>
+    <Line>235</Line>
+    <Column>9</Column>
+    <Severity>Warning</Severity>
+  </Problem>
+  <Problem>
+    <Rule>Microsoft.Rules.Data.SR0007</Rule>
+    <ProblemDescription>Nullable columns can cause final results to be evaluated as NULL for the predicate.</ProblemDescription>
+    <SourceFile>C:\GitRepo\ConqueringtheMonsterProc\AutoDealershipDemo_Summit2023\AutoDealershipDemo_Summit2023\Workload\Stored Procedures\sp_DealershipWorkload_NoRC.sql</SourceFile>
+    <Line>240</Line>
+    <Column>8</Column>
+    <Severity>Warning</Severity>
+  </Problem>
+  <Problem>
+    <Rule>Microsoft.Rules.Data.SR0007</Rule>
+    <ProblemDescription>Nullable columns can cause final results to be evaluated as NULL for the predicate.</ProblemDescription>
+    <SourceFile>C:\GitRepo\ConqueringtheMonsterProc\AutoDealershipDemo_Summit2023\AutoDealershipDemo_Summit2023\Workload\Stored Procedures\sp_DealershipWorkload_NoRC.sql</SourceFile>
+    <Line>241</Line>
+    <Column>8</Column>
+    <Severity>Warning</Severity>
+  </Problem>
+  <Problem>
+    <Rule>Microsoft.Rules.Data.SR0007</Rule>
+    <ProblemDescription>Nullable columns can cause final results to be evaluated as NULL for the predicate.</ProblemDescription>
+    <SourceFile>C:\GitRepo\ConqueringtheMonsterProc\AutoDealershipDemo_Summit2023\AutoDealershipDemo_Summit2023\Workload\Stored Procedures\sp_DealershipWorkload_NoRC.sql</SourceFile>
+    <Line>251</Line>
+    <Column>9</Column>
+    <Severity>Warning</Severity>
+  </Problem>
+  <Problem>
+    <Rule>Microsoft.Rules.Data.SR0007</Rule>
+    <ProblemDescription>Nullable columns can cause final results to be evaluated as NULL for the predicate.</ProblemDescription>
+    <SourceFile>C:\GitRepo\ConqueringtheMonsterProc\AutoDealershipDemo_Summit2023\AutoDealershipDemo_Summit2023\Workload\Stored Procedures\sp_DealershipWorkload_NoRC.sql</SourceFile>
+    <Line>256</Line>
+    <Column>8</Column>
+    <Severity>Warning</Severity>
+  </Problem>
+  <Problem>
+    <Rule>Microsoft.Rules.Data.SR0007</Rule>
+    <ProblemDescription>Nullable columns can cause final results to be evaluated as NULL for the predicate.</ProblemDescription>
+    <SourceFile>C:\GitRepo\ConqueringtheMonsterProc\AutoDealershipDemo_Summit2023\AutoDealershipDemo_Summit2023\Workload\Stored Procedures\sp_DealershipWorkload_NoRC.sql</SourceFile>
+    <Line>267</Line>
+    <Column>5</Column>
+    <Severity>Warning</Severity>
+  </Problem>
+  <Problem>
+    <Rule>Microsoft.Rules.Data.SR0007</Rule>
+    <ProblemDescription>Nullable columns can cause final results to be evaluated as NULL for the predicate.</ProblemDescription>
+    <SourceFile>C:\GitRepo\ConqueringtheMonsterProc\AutoDealershipDemo_Summit2023\AutoDealershipDemo_Summit2023\Workload\Stored Procedures\sp_DealershipWorkload_NoRC.sql</SourceFile>
+    <Line>268</Line>
+    <Column>8</Column>
+    <Severity>Warning</Severity>
+  </Problem>
+  <Problem>
+    <Rule>Microsoft.Rules.Data.SR0007</Rule>
+    <ProblemDescription>Nullable columns can cause final results to be evaluated as NULL for the predicate.</ProblemDescription>
+    <SourceFile>C:\GitRepo\ConqueringtheMonsterProc\AutoDealershipDemo_Summit2023\AutoDealershipDemo_Summit2023\Workload\Stored Procedures\sp_DealershipWorkload_NoRC.sql</SourceFile>
+    <Line>270</Line>
+    <Column>8</Column>
+    <Severity>Warning</Severity>
+  </Problem>
+  <Problem>
+    <Rule>Microsoft.Rules.Data.SR0007</Rule>
+    <ProblemDescription>Nullable columns can cause final results to be evaluated as NULL for the predicate.</ProblemDescription>
+    <SourceFile>C:\GitRepo\ConqueringtheMonsterProc\AutoDealershipDemo_Summit2023\AutoDealershipDemo_Summit2023\Workload\Stored Procedures\sp_DealershipWorkload_NoRC.sql</SourceFile>
+    <Line>315</Line>
+    <Column>10</Column>
+    <Severity>Warning</Severity>
+  </Problem>
+  <Problem>
+    <Rule>Microsoft.Rules.Data.SR0007</Rule>
+    <ProblemDescription>Nullable columns can cause final results to be evaluated as NULL for the predicate.</ProblemDescription>
+    <SourceFile>C:\GitRepo\ConqueringtheMonsterProc\AutoDealershipDemo_Summit2023\AutoDealershipDemo_Summit2023\Workload\Stored Procedures\sp_DealershipWorkload_NoRC.sql</SourceFile>
+    <Line>316</Line>
+    <Column>9</Column>
+    <Severity>Warning</Severity>
+  </Problem>
+  <Problem>
+    <Rule>Microsoft.Rules.Data.SR0007</Rule>
+    <ProblemDescription>Nullable columns can cause final results to be evaluated as NULL for the predicate.</ProblemDescription>
+    <SourceFile>C:\GitRepo\ConqueringtheMonsterProc\AutoDealershipDemo_Summit2023\AutoDealershipDemo_Summit2023\Workload\Stored Procedures\sp_DealershipWorkload_NoRC.sql</SourceFile>
+    <Line>323</Line>
+    <Column>10</Column>
+    <Severity>Warning</Severity>
+  </Problem>
+  <Problem>
+    <Rule>Microsoft.Rules.Data.SR0007</Rule>
+    <ProblemDescription>Nullable columns can cause final results to be evaluated as NULL for the predicate.</ProblemDescription>
+    <SourceFile>C:\GitRepo\ConqueringtheMonsterProc\AutoDealershipDemo_Summit2023\AutoDealershipDemo_Summit2023\Workload\Stored Procedures\sp_DealershipWorkload_NoRC.sql</SourceFile>
+    <Line>324</Line>
+    <Column>9</Column>
+    <Severity>Warning</Severity>
+  </Problem>
+  <Problem>
+    <Rule>Microsoft.Rules.Data.SR0007</Rule>
+    <ProblemDescription>Nullable columns can cause final results to be evaluated as NULL for the predicate.</ProblemDescription>
+    <SourceFile>C:\GitRepo\ConqueringtheMonsterProc\AutoDealershipDemo_Summit2023\AutoDealershipDemo_Summit2023\Workload\Stored Procedures\sp_DealershipWorkload_NoRC.sql</SourceFile>
+    <Line>331</Line>
+    <Column>10</Column>
+    <Severity>Warning</Severity>
+  </Problem>
+  <Problem>
+    <Rule>Microsoft.Rules.Data.SR0007</Rule>
+    <ProblemDescription>Nullable columns can cause final results to be evaluated as NULL for the predicate.</ProblemDescription>
+    <SourceFile>C:\GitRepo\ConqueringtheMonsterProc\AutoDealershipDemo_Summit2023\AutoDealershipDemo_Summit2023\Workload\Stored Procedures\sp_DealershipWorkload_NoRC.sql</SourceFile>
+    <Line>332</Line>
+    <Column>9</Column>
+    <Severity>Warning</Severity>
+  </Problem>
+  <Problem>
+    <Rule>Microsoft.Rules.Data.SR0007</Rule>
+    <ProblemDescription>Nullable columns can cause final results to be evaluated as NULL for the predicate.</ProblemDescription>
+    <SourceFile>C:\GitRepo\ConqueringtheMonsterProc\AutoDealershipDemo_Summit2023\AutoDealershipDemo_Summit2023\Workload\Stored Procedures\sp_DealershipWorkload_NoRC.sql</SourceFile>
+    <Line>347</Line>
+    <Column>9</Column>
+    <Severity>Warning</Severity>
+  </Problem>
+  <Problem>
+    <Rule>Microsoft.Rules.Data.SR0007</Rule>
+    <ProblemDescription>Nullable columns can cause final results to be evaluated as NULL for the predicate.</ProblemDescription>
+    <SourceFile>C:\GitRepo\ConqueringtheMonsterProc\AutoDealershipDemo_Summit2023\AutoDealershipDemo_Summit2023\Workload\Stored Procedures\sp_DealershipWorkload_NoRC.sql</SourceFile>
+    <Line>348</Line>
+    <Column>8</Column>
+    <Severity>Warning</Severity>
+  </Problem>
+  <Problem>
+    <Rule>Microsoft.Rules.Data.SR0007</Rule>
+    <ProblemDescription>Nullable columns can cause final results to be evaluated as NULL for the predicate.</ProblemDescription>
+    <SourceFile>C:\GitRepo\ConqueringtheMonsterProc\AutoDealershipDemo_Summit2023\AutoDealershipDemo_Summit2023\Workload\Stored Procedures\sp_DealershipWorkload_NoRC.sql</SourceFile>
+    <Line>349</Line>
+    <Column>8</Column>
+    <Severity>Warning</Severity>
+  </Problem>
+  <Problem>
+    <Rule>Microsoft.Rules.Data.SR0007</Rule>
+    <ProblemDescription>Nullable columns can cause final results to be evaluated as NULL for the predicate.</ProblemDescription>
+    <SourceFile>C:\GitRepo\ConqueringtheMonsterProc\AutoDealershipDemo_Summit2023\AutoDealershipDemo_Summit2023\Workload\Stored Procedures\sp_DealershipWorkload_NoRC.sql</SourceFile>
+    <Line>350</Line>
+    <Column>8</Column>
+    <Severity>Warning</Severity>
+  </Problem>
+  <Problem>
+    <Rule>Microsoft.Rules.Data.SR0007</Rule>
+    <ProblemDescription>Nullable columns can cause final results to be evaluated as NULL for the predicate.</ProblemDescription>
+    <SourceFile>C:\GitRepo\ConqueringtheMonsterProc\AutoDealershipDemo_Summit2023\AutoDealershipDemo_Summit2023\Workload\Stored Procedures\sp_DealershipWorkload_NoRC.sql</SourceFile>
+    <Line>364</Line>
+    <Column>9</Column>
+    <Severity>Warning</Severity>
+  </Problem>
+  <Problem>
+    <Rule>Microsoft.Rules.Data.SR0007</Rule>
+    <ProblemDescription>Nullable columns can cause final results to be evaluated as NULL for the predicate.</ProblemDescription>
+    <SourceFile>C:\GitRepo\ConqueringtheMonsterProc\AutoDealershipDemo_Summit2023\AutoDealershipDemo_Summit2023\Workload\Stored Procedures\sp_DealershipWorkload_NoRC.sql</SourceFile>
+    <Line>365</Line>
+    <Column>8</Column>
+    <Severity>Warning</Severity>
+  </Problem>
+  <Problem>
+    <Rule>Microsoft.Rules.Data.SR0007</Rule>
+    <ProblemDescription>Nullable columns can cause final results to be evaluated as NULL for the predicate.</ProblemDescription>
+    <SourceFile>C:\GitRepo\ConqueringtheMonsterProc\AutoDealershipDemo_Summit2023\AutoDealershipDemo_Summit2023\Workload\Stored Procedures\sp_DealershipWorkload_NoRC.sql</SourceFile>
+    <Line>366</Line>
+    <Column>8</Column>
+    <Severity>Warning</Severity>
+  </Problem>
+  <Problem>
+    <Rule>Microsoft.Rules.Data.SR0007</Rule>
+    <ProblemDescription>Nullable columns can cause final results to be evaluated as NULL for the predicate.</ProblemDescription>
+    <SourceFile>C:\GitRepo\ConqueringtheMonsterProc\AutoDealershipDemo_Summit2023\AutoDealershipDemo_Summit2023\Workload\Stored Procedures\sp_DealershipWorkload_NoRC.sql</SourceFile>
+    <Line>367</Line>
+    <Column>8</Column>
+    <Severity>Warning</Severity>
+  </Problem>
+  <Problem>
+    <Rule>Microsoft.Rules.Data.SR0007</Rule>
+    <ProblemDescription>Nullable columns can cause final results to be evaluated as NULL for the predicate.</ProblemDescription>
+    <SourceFile>C:\GitRepo\ConqueringtheMonsterProc\AutoDealershipDemo_Summit2023\AutoDealershipDemo_Summit2023\Workload\Stored Procedures\sp_DealershipWorkload_NoRC.sql</SourceFile>
+    <Line>380</Line>
+    <Column>9</Column>
+    <Severity>Warning</Severity>
+  </Problem>
+  <Problem>
+    <Rule>Microsoft.Rules.Data.SR0007</Rule>
+    <ProblemDescription>Nullable columns can cause final results to be evaluated as NULL for the predicate.</ProblemDescription>
+    <SourceFile>C:\GitRepo\ConqueringtheMonsterProc\AutoDealershipDemo_Summit2023\AutoDealershipDemo_Summit2023\Workload\Stored Procedures\sp_DealershipWorkload_NoRC.sql</SourceFile>
+    <Line>381</Line>
+    <Column>8</Column>
+    <Severity>Warning</Severity>
+  </Problem>
+  <Problem>
+    <Rule>Microsoft.Rules.Data.SR0007</Rule>
+    <ProblemDescription>Nullable columns can cause final results to be evaluated as NULL for the predicate.</ProblemDescription>
+    <SourceFile>C:\GitRepo\ConqueringtheMonsterProc\AutoDealershipDemo_Summit2023\AutoDealershipDemo_Summit2023\Workload\Stored Procedures\sp_DealershipWorkload_NoRC.sql</SourceFile>
+    <Line>382</Line>
+    <Column>8</Column>
+    <Severity>Warning</Severity>
+  </Problem>
+  <Problem>
+    <Rule>Microsoft.Rules.Data.SR0007</Rule>
+    <ProblemDescription>Nullable columns can cause final results to be evaluated as NULL for the predicate.</ProblemDescription>
+    <SourceFile>C:\GitRepo\ConqueringtheMonsterProc\AutoDealershipDemo_Summit2023\AutoDealershipDemo_Summit2023\Workload\Stored Procedures\sp_DealershipWorkload_NoRC.sql</SourceFile>
+    <Line>383</Line>
+    <Column>8</Column>
+    <Severity>Warning</Severity>
+  </Problem>
+  <Problem>
+    <Rule>Microsoft.Rules.Data.SR0007</Rule>
+    <ProblemDescription>Nullable columns can cause final results to be evaluated as NULL for the predicate.</ProblemDescription>
+    <SourceFile>C:\GitRepo\ConqueringtheMonsterProc\AutoDealershipDemo_Summit2023\AutoDealershipDemo_Summit2023\Workload\Stored Procedures\sp_DealershipWorkload_NoRC.sql</SourceFile>
+    <Line>401</Line>
+    <Column>9</Column>
+    <Severity>Warning</Severity>
+  </Problem>
+  <Problem>
+    <Rule>Microsoft.Rules.Data.SR0007</Rule>
+    <ProblemDescription>Nullable columns can cause final results to be evaluated as NULL for the predicate.</ProblemDescription>
+    <SourceFile>C:\GitRepo\ConqueringtheMonsterProc\AutoDealershipDemo_Summit2023\AutoDealershipDemo_Summit2023\Workload\Stored Procedures\sp_DealershipWorkload_NoRC.sql</SourceFile>
+    <Line>420</Line>
+    <Column>9</Column>
+    <Severity>Warning</Severity>
+  </Problem>
+  <Problem>
+    <Rule>Microsoft.Rules.Data.SR0016</Rule>
+    <ProblemDescription>Stored procedure(sp_DealershipWorkload_NoRC) includes sp_ prefix in its name.</ProblemDescription>
+    <SourceFile>C:\GitRepo\ConqueringtheMonsterProc\AutoDealershipDemo_Summit2023\AutoDealershipDemo_Summit2023\Workload\Stored Procedures\sp_DealershipWorkload_NoRC.sql</SourceFile>
+    <Line>2</Line>
+    <Column>27</Column>
+    <Severity>Warning</Severity>
+  </Problem>
+  <Problem>
+    <Rule>Microsoft.Rules.Data.SR0007</Rule>
+    <ProblemDescription>Nullable columns can cause final results to be evaluated as NULL for the predicate.</ProblemDescription>
+    <SourceFile>C:\GitRepo\ConqueringtheMonsterProc\AutoDealershipDemo_Summit2023\AutoDealershipDemo_Summit2023\dbo\Stored Procedures\sp_SearchAllSoldInventory.sql</SourceFile>
+    <Line>47</Line>
+    <Column>3</Column>
+    <Severity>Warning</Severity>
+  </Problem>
+  <Problem>
+    <Rule>Microsoft.Rules.Data.SR0007</Rule>
+    <ProblemDescription>Nullable columns can cause final results to be evaluated as NULL for the predicate.</ProblemDescription>
+    <SourceFile>C:\GitRepo\ConqueringtheMonsterProc\AutoDealershipDemo_Summit2023\AutoDealershipDemo_Summit2023\dbo\Stored Procedures\sp_SearchAllSoldInventory.sql</SourceFile>
+    <Line>51</Line>
+    <Column>3</Column>
+    <Severity>Warning</Severity>
+  </Problem>
+  <Problem>
+    <Rule>Microsoft.Rules.Data.SR0007</Rule>
+    <ProblemDescription>Nullable columns can cause final results to be evaluated as NULL for the predicate.</ProblemDescription>
+    <SourceFile>C:\GitRepo\ConqueringtheMonsterProc\AutoDealershipDemo_Summit2023\AutoDealershipDemo_Summit2023\dbo\Stored Procedures\sp_SearchAllSoldInventory.sql</SourceFile>
+    <Line>55</Line>
+    <Column>3</Column>
+    <Severity>Warning</Severity>
+  </Problem>
+  <Problem>
+    <Rule>Microsoft.Rules.Data.SR0007</Rule>
+    <ProblemDescription>Nullable columns can cause final results to be evaluated as NULL for the predicate.</ProblemDescription>
+    <SourceFile>C:\GitRepo\ConqueringtheMonsterProc\AutoDealershipDemo_Summit2023\AutoDealershipDemo_Summit2023\dbo\Stored Procedures\sp_SearchAllSoldInventory.sql</SourceFile>
+    <Line>59</Line>
+    <Column>3</Column>
+    <Severity>Warning</Severity>
+  </Problem>
+  <Problem>
+    <Rule>Microsoft.Rules.Data.SR0007</Rule>
+    <ProblemDescription>Nullable columns can cause final results to be evaluated as NULL for the predicate.</ProblemDescription>
+    <SourceFile>C:\GitRepo\ConqueringtheMonsterProc\AutoDealershipDemo_Summit2023\AutoDealershipDemo_Summit2023\dbo\Stored Procedures\sp_SearchAllSoldInventory.sql</SourceFile>
+    <Line>63</Line>
+    <Column>3</Column>
+    <Severity>Warning</Severity>
+  </Problem>
+  <Problem>
+    <Rule>Microsoft.Rules.Data.SR0007</Rule>
+    <ProblemDescription>Nullable columns can cause final results to be evaluated as NULL for the predicate.</ProblemDescription>
+    <SourceFile>C:\GitRepo\ConqueringtheMonsterProc\AutoDealershipDemo_Summit2023\AutoDealershipDemo_Summit2023\dbo\Stored Procedures\sp_SearchAllSoldInventory.sql</SourceFile>
+    <Line>66</Line>
+    <Column>3</Column>
+    <Severity>Warning</Severity>
+  </Problem>
+  <Problem>
+    <Rule>Microsoft.Rules.Data.SR0007</Rule>
+    <ProblemDescription>Nullable columns can cause final results to be evaluated as NULL for the predicate.</ProblemDescription>
+    <SourceFile>C:\GitRepo\ConqueringtheMonsterProc\AutoDealershipDemo_Summit2023\AutoDealershipDemo_Summit2023\dbo\Stored Procedures\sp_SearchAllSoldInventory.sql</SourceFile>
+    <Line>69</Line>
+    <Column>3</Column>
+    <Severity>Warning</Severity>
+  </Problem>
+  <Problem>
+    <Rule>Microsoft.Rules.Data.SR0007</Rule>
+    <ProblemDescription>Nullable columns can cause final results to be evaluated as NULL for the predicate.</ProblemDescription>
+    <SourceFile>C:\GitRepo\ConqueringtheMonsterProc\AutoDealershipDemo_Summit2023\AutoDealershipDemo_Summit2023\dbo\Stored Procedures\sp_SearchAllSoldInventory.sql</SourceFile>
+    <Line>72</Line>
+    <Column>3</Column>
+    <Severity>Warning</Severity>
+  </Problem>
+  <Problem>
+    <Rule>Microsoft.Rules.Data.SR0007</Rule>
+    <ProblemDescription>Nullable columns can cause final results to be evaluated as NULL for the predicate.</ProblemDescription>
+    <SourceFile>C:\GitRepo\ConqueringtheMonsterProc\AutoDealershipDemo_Summit2023\AutoDealershipDemo_Summit2023\dbo\Stored Procedures\sp_SearchAllSoldInventory.sql</SourceFile>
+    <Line>75</Line>
+    <Column>3</Column>
+    <Severity>Warning</Severity>
+  </Problem>
+  <Problem>
+    <Rule>Microsoft.Rules.Data.SR0007</Rule>
+    <ProblemDescription>Nullable columns can cause final results to be evaluated as NULL for the predicate.</ProblemDescription>
+    <SourceFile>C:\GitRepo\ConqueringtheMonsterProc\AutoDealershipDemo_Summit2023\AutoDealershipDemo_Summit2023\dbo\Stored Procedures\sp_SearchAllSoldInventory.sql</SourceFile>
+    <Line>78</Line>
+    <Column>3</Column>
+    <Severity>Warning</Severity>
+  </Problem>
+  <Problem>
+    <Rule>Microsoft.Rules.Data.SR0014</Rule>
+    <ProblemDescription>Data loss might occur when casting from ASCII String(10) to Date.</ProblemDescription>
+    <SourceFile>C:\GitRepo\ConqueringtheMonsterProc\AutoDealershipDemo_Summit2023\AutoDealershipDemo_Summit2023\dbo\Stored Procedures\sp_SearchAllSoldInventory.sql</SourceFile>
+    <Line>13</Line>
+    <Column>26</Column>
+    <Severity>Warning</Severity>
+  </Problem>
+  <Problem>
+    <Rule>Microsoft.Rules.Data.SR0014</Rule>
+    <ProblemDescription>Data loss might occur when casting from ASCII String(10) to Date.</ProblemDescription>
+    <SourceFile>C:\GitRepo\ConqueringtheMonsterProc\AutoDealershipDemo_Summit2023\AutoDealershipDemo_Summit2023\dbo\Stored Procedures\sp_SearchAllSoldInventory.sql</SourceFile>
+    <Line>14</Line>
+    <Column>26</Column>
+    <Severity>Warning</Severity>
+  </Problem>
+  <Problem>
+    <Rule>Microsoft.Rules.Data.SR0014</Rule>
+    <ProblemDescription>Data loss might occur when casting from ASCII String(10) to DateTime.</ProblemDescription>
+    <SourceFile>C:\GitRepo\ConqueringtheMonsterProc\AutoDealershipDemo_Summit2023\AutoDealershipDemo_Summit2023\dbo\Stored Procedures\sp_SearchAllSoldInventory.sql</SourceFile>
+    <Line>15</Line>
+    <Column>33</Column>
+    <Severity>Warning</Severity>
+  </Problem>
+  <Problem>
+    <Rule>Microsoft.Rules.Data.SR0014</Rule>
+    <ProblemDescription>Data loss might occur when casting from ASCII String(10) to DateTime.</ProblemDescription>
+    <SourceFile>C:\GitRepo\ConqueringtheMonsterProc\AutoDealershipDemo_Summit2023\AutoDealershipDemo_Summit2023\dbo\Stored Procedures\sp_SearchAllSoldInventory.sql</SourceFile>
+    <Line>16</Line>
+    <Column>33</Column>
+    <Severity>Warning</Severity>
+  </Problem>
+  <Problem>
+    <Rule>Microsoft.Rules.Data.SR0016</Rule>
+    <ProblemDescription>Stored procedure(sp_SearchAllSoldInventory) includes sp_ prefix in its name.</ProblemDescription>
+    <SourceFile>C:\GitRepo\ConqueringtheMonsterProc\AutoDealershipDemo_Summit2023\AutoDealershipDemo_Summit2023\dbo\Stored Procedures\sp_SearchAllSoldInventory.sql</SourceFile>
+    <Line>2</Line>
+    <Column>20</Column>
+    <Severity>Warning</Severity>
+  </Problem>
+  <Problem>
+    <Rule>Microsoft.Rules.Data.SR0006</Rule>
+    <ProblemDescription>A column in an expression to be compared in a predicate might cause a table scan and degrade performance.</ProblemDescription>
+    <SourceFile>C:\GitRepo\ConqueringtheMonsterProc\AutoDealershipDemo_Summit2023\AutoDealershipDemo_Summit2023\Workload\Stored Procedures\sp_DealershipDMLWorkload.sql</SourceFile>
+    <Line>50</Line>
+    <Column>10</Column>
+    <Severity>Warning</Severity>
+  </Problem>
+  <Problem>
+    <Rule>Microsoft.Rules.Data.SR0006</Rule>
+    <ProblemDescription>A column in an expression to be compared in a predicate might cause a table scan and degrade performance.</ProblemDescription>
+    <SourceFile>C:\GitRepo\ConqueringtheMonsterProc\AutoDealershipDemo_Summit2023\AutoDealershipDemo_Summit2023\Workload\Stored Procedures\sp_DealershipDMLWorkload.sql</SourceFile>
+    <Line>62</Line>
+    <Column>10</Column>
+    <Severity>Warning</Severity>
+  </Problem>
+  <Problem>
+    <Rule>Microsoft.Rules.Data.SR0006</Rule>
+    <ProblemDescription>A column in an expression to be compared in a predicate might cause a table scan and degrade performance.</ProblemDescription>
+    <SourceFile>C:\GitRepo\ConqueringtheMonsterProc\AutoDealershipDemo_Summit2023\AutoDealershipDemo_Summit2023\Workload\Stored Procedures\sp_DealershipDMLWorkload.sql</SourceFile>
+    <Line>81</Line>
+    <Column>9</Column>
+    <Severity>Warning</Severity>
+  </Problem>
+  <Problem>
+    <Rule>Microsoft.Rules.Data.SR0007</Rule>
+    <ProblemDescription>Nullable columns can cause final results to be evaluated as NULL for the predicate.</ProblemDescription>
+    <SourceFile>C:\GitRepo\ConqueringtheMonsterProc\AutoDealershipDemo_Summit2023\AutoDealershipDemo_Summit2023\Workload\Stored Procedures\sp_DealershipDMLWorkload.sql</SourceFile>
+    <Line>82</Line>
+    <Column>8</Column>
+    <Severity>Warning</Severity>
+  </Problem>
+  <Problem>
+    <Rule>Microsoft.Rules.Data.SR0016</Rule>
+    <ProblemDescription>Stored procedure(sp_DealershipDMLWorkload) includes sp_ prefix in its name.</ProblemDescription>
+    <SourceFile>C:\GitRepo\ConqueringtheMonsterProc\AutoDealershipDemo_Summit2023\AutoDealershipDemo_Summit2023\Workload\Stored Procedures\sp_DealershipDMLWorkload.sql</SourceFile>
+    <Line>2</Line>
+    <Column>29</Column>
+    <Severity>Warning</Severity>
+  </Problem>
+  <Problem>
+    <Rule>Microsoft.Rules.Data.SR0007</Rule>
+    <ProblemDescription>Nullable columns can cause final results to be evaluated as NULL for the predicate.</ProblemDescription>
+    <SourceFile>C:\GitRepo\ConqueringtheMonsterProc\AutoDealershipDemo_Summit2023\AutoDealershipDemo_Summit2023\dbo\Stored Procedures\sp_SalesSummaryByDate.sql</SourceFile>
+    <Line>28</Line>
+    <Column>8</Column>
+    <Severity>Warning</Severity>
+  </Problem>
+  <Problem>
+    <Rule>Microsoft.Rules.Data.SR0014</Rule>
+    <ProblemDescription>Data loss might occur when casting from ASCII String(10) to DateTime.</ProblemDescription>
+    <SourceFile>C:\GitRepo\ConqueringtheMonsterProc\AutoDealershipDemo_Summit2023\AutoDealershipDemo_Summit2023\dbo\Stored Procedures\sp_SalesSummaryByDate.sql</SourceFile>
+    <Line>2</Line>
+    <Column>24</Column>
+    <Severity>Warning</Severity>
+  </Problem>
+  <Problem>
+    <Rule>Microsoft.Rules.Data.SR0014</Rule>
+    <ProblemDescription>Data loss might occur when casting from ASCII String(10) to DateTime.</ProblemDescription>
+    <SourceFile>C:\GitRepo\ConqueringtheMonsterProc\AutoDealershipDemo_Summit2023\AutoDealershipDemo_Summit2023\dbo\Stored Procedures\sp_SalesSummaryByDate.sql</SourceFile>
+    <Line>3</Line>
+    <Column>22</Column>
+    <Severity>Warning</Severity>
+  </Problem>
+  <Problem>
+    <Rule>Microsoft.Rules.Data.SR0016</Rule>
+    <ProblemDescription>Stored procedure(sp_SalesSummaryByDate) includes sp_ prefix in its name.</ProblemDescription>
+    <SourceFile>C:\GitRepo\ConqueringtheMonsterProc\AutoDealershipDemo_Summit2023\AutoDealershipDemo_Summit2023\dbo\Stored Procedures\sp_SalesSummaryByDate.sql</SourceFile>
+    <Line>1</Line>
+    <Column>24</Column>
+    <Severity>Warning</Severity>
+  </Problem>
+  <Problem>
+    <Rule>Microsoft.Rules.Data.SR0004</Rule>
+    <ProblemDescription>A column without an index that is used as an IN predicate test expression might degrade performance.</ProblemDescription>
+    <SourceFile>C:\GitRepo\ConqueringtheMonsterProc\AutoDealershipDemo_Summit2023\AutoDealershipDemo_Summit2023\Workload\Stored Procedures\sp_DealershipWorkload.sql</SourceFile>
+    <Line>165</Line>
+    <Column>9</Column>
+    <Severity>Warning</Severity>
+  </Problem>
+  <Problem>
+    <Rule>Microsoft.Rules.Data.SR0007</Rule>
+    <ProblemDescription>Nullable columns can cause final results to be evaluated as NULL for the predicate.</ProblemDescription>
+    <SourceFile>C:\GitRepo\ConqueringtheMonsterProc\AutoDealershipDemo_Summit2023\AutoDealershipDemo_Summit2023\Workload\Stored Procedures\sp_DealershipWorkload.sql</SourceFile>
+    <Line>64</Line>
+    <Column>9</Column>
+    <Severity>Warning</Severity>
+  </Problem>
+  <Problem>
+    <Rule>Microsoft.Rules.Data.SR0007</Rule>
+    <ProblemDescription>Nullable columns can cause final results to be evaluated as NULL for the predicate.</ProblemDescription>
+    <SourceFile>C:\GitRepo\ConqueringtheMonsterProc\AutoDealershipDemo_Summit2023\AutoDealershipDemo_Summit2023\Workload\Stored Procedures\sp_DealershipWorkload.sql</SourceFile>
+    <Line>77</Line>
+    <Column>9</Column>
+    <Severity>Warning</Severity>
+  </Problem>
+  <Problem>
+    <Rule>Microsoft.Rules.Data.SR0007</Rule>
+    <ProblemDescription>Nullable columns can cause final results to be evaluated as NULL for the predicate.</ProblemDescription>
+    <SourceFile>C:\GitRepo\ConqueringtheMonsterProc\AutoDealershipDemo_Summit2023\AutoDealershipDemo_Summit2023\Workload\Stored Procedures\sp_DealershipWorkload.sql</SourceFile>
+    <Line>93</Line>
+    <Column>9</Column>
+    <Severity>Warning</Severity>
+  </Problem>
+  <Problem>
+    <Rule>Microsoft.Rules.Data.SR0007</Rule>
+    <ProblemDescription>Nullable columns can cause final results to be evaluated as NULL for the predicate.</ProblemDescription>
+    <SourceFile>C:\GitRepo\ConqueringtheMonsterProc\AutoDealershipDemo_Summit2023\AutoDealershipDemo_Summit2023\Workload\Stored Procedures\sp_DealershipWorkload.sql</SourceFile>
+    <Line>111</Line>
+    <Column>9</Column>
+    <Severity>Warning</Severity>
+  </Problem>
+  <Problem>
+    <Rule>Microsoft.Rules.Data.SR0007</Rule>
+    <ProblemDescription>Nullable columns can cause final results to be evaluated as NULL for the predicate.</ProblemDescription>
+    <SourceFile>C:\GitRepo\ConqueringtheMonsterProc\AutoDealershipDemo_Summit2023\AutoDealershipDemo_Summit2023\Workload\Stored Procedures\sp_DealershipWorkload.sql</SourceFile>
+    <Line>135</Line>
+    <Column>9</Column>
+    <Severity>Warning</Severity>
+  </Problem>
+  <Problem>
+    <Rule>Microsoft.Rules.Data.SR0007</Rule>
+    <ProblemDescription>Nullable columns can cause final results to be evaluated as NULL for the predicate.</ProblemDescription>
+    <SourceFile>C:\GitRepo\ConqueringtheMonsterProc\AutoDealershipDemo_Summit2023\AutoDealershipDemo_Summit2023\Workload\Stored Procedures\sp_DealershipWorkload.sql</SourceFile>
+    <Line>145</Line>
+    <Column>9</Column>
+    <Severity>Warning</Severity>
+  </Problem>
+  <Problem>
+    <Rule>Microsoft.Rules.Data.SR0007</Rule>
+    <ProblemDescription>Nullable columns can cause final results to be evaluated as NULL for the predicate.</ProblemDescription>
+    <SourceFile>C:\GitRepo\ConqueringtheMonsterProc\AutoDealershipDemo_Summit2023\AutoDealershipDemo_Summit2023\Workload\Stored Procedures\sp_DealershipWorkload.sql</SourceFile>
+    <Line>165</Line>
+    <Column>9</Column>
+    <Severity>Warning</Severity>
+  </Problem>
+  <Problem>
+    <Rule>Microsoft.Rules.Data.SR0007</Rule>
+    <ProblemDescription>Nullable columns can cause final results to be evaluated as NULL for the predicate.</ProblemDescription>
+    <SourceFile>C:\GitRepo\ConqueringtheMonsterProc\AutoDealershipDemo_Summit2023\AutoDealershipDemo_Summit2023\Workload\Stored Procedures\sp_DealershipWorkload.sql</SourceFile>
+    <Line>196</Line>
+    <Column>9</Column>
+    <Severity>Warning</Severity>
+  </Problem>
+  <Problem>
+    <Rule>Microsoft.Rules.Data.SR0007</Rule>
+    <ProblemDescription>Nullable columns can cause final results to be evaluated as NULL for the predicate.</ProblemDescription>
+    <SourceFile>C:\GitRepo\ConqueringtheMonsterProc\AutoDealershipDemo_Summit2023\AutoDealershipDemo_Summit2023\Workload\Stored Procedures\sp_DealershipWorkload.sql</SourceFile>
+    <Line>197</Line>
+    <Column>8</Column>
+    <Severity>Warning</Severity>
+  </Problem>
+  <Problem>
+    <Rule>Microsoft.Rules.Data.SR0007</Rule>
+    <ProblemDescription>Nullable columns can cause final results to be evaluated as NULL for the predicate.</ProblemDescription>
+    <SourceFile>C:\GitRepo\ConqueringtheMonsterProc\AutoDealershipDemo_Summit2023\AutoDealershipDemo_Summit2023\Workload\Stored Procedures\sp_DealershipWorkload.sql</SourceFile>
+    <Line>207</Line>
+    <Column>9</Column>
+    <Severity>Warning</Severity>
+  </Problem>
+  <Problem>
+    <Rule>Microsoft.Rules.Data.SR0007</Rule>
+    <ProblemDescription>Nullable columns can cause final results to be evaluated as NULL for the predicate.</ProblemDescription>
+    <SourceFile>C:\GitRepo\ConqueringtheMonsterProc\AutoDealershipDemo_Summit2023\AutoDealershipDemo_Summit2023\Workload\Stored Procedures\sp_DealershipWorkload.sql</SourceFile>
+    <Line>208</Line>
+    <Column>7</Column>
+    <Severity>Warning</Severity>
+  </Problem>
+  <Problem>
+    <Rule>Microsoft.Rules.Data.SR0007</Rule>
+    <ProblemDescription>Nullable columns can cause final results to be evaluated as NULL for the predicate.</ProblemDescription>
+    <SourceFile>C:\GitRepo\ConqueringtheMonsterProc\AutoDealershipDemo_Summit2023\AutoDealershipDemo_Summit2023\Workload\Stored Procedures\sp_DealershipWorkload.sql</SourceFile>
+    <Line>228</Line>
+    <Column>9</Column>
+    <Severity>Warning</Severity>
+  </Problem>
+  <Problem>
+    <Rule>Microsoft.Rules.Data.SR0007</Rule>
+    <ProblemDescription>Nullable columns can cause final results to be evaluated as NULL for the predicate.</ProblemDescription>
+    <SourceFile>C:\GitRepo\ConqueringtheMonsterProc\AutoDealershipDemo_Summit2023\AutoDealershipDemo_Summit2023\Workload\Stored Procedures\sp_DealershipWorkload.sql</SourceFile>
+    <Line>229</Line>
+    <Column>8</Column>
+    <Severity>Warning</Severity>
+  </Problem>
+  <Problem>
+    <Rule>Microsoft.Rules.Data.SR0007</Rule>
+    <ProblemDescription>Nullable columns can cause final results to be evaluated as NULL for the predicate.</ProblemDescription>
+    <SourceFile>C:\GitRepo\ConqueringtheMonsterProc\AutoDealershipDemo_Summit2023\AutoDealershipDemo_Summit2023\Workload\Stored Procedures\sp_DealershipWorkload.sql</SourceFile>
+    <Line>255</Line>
+    <Column>9</Column>
+    <Severity>Warning</Severity>
+  </Problem>
+  <Problem>
+    <Rule>Microsoft.Rules.Data.SR0007</Rule>
+    <ProblemDescription>Nullable columns can cause final results to be evaluated as NULL for the predicate.</ProblemDescription>
+    <SourceFile>C:\GitRepo\ConqueringtheMonsterProc\AutoDealershipDemo_Summit2023\AutoDealershipDemo_Summit2023\Workload\Stored Procedures\sp_DealershipWorkload.sql</SourceFile>
+    <Line>256</Line>
+    <Column>8</Column>
+    <Severity>Warning</Severity>
+  </Problem>
+  <Problem>
+    <Rule>Microsoft.Rules.Data.SR0007</Rule>
+    <ProblemDescription>Nullable columns can cause final results to be evaluated as NULL for the predicate.</ProblemDescription>
+    <SourceFile>C:\GitRepo\ConqueringtheMonsterProc\AutoDealershipDemo_Summit2023\AutoDealershipDemo_Summit2023\Workload\Stored Procedures\sp_DealershipWorkload.sql</SourceFile>
+    <Line>257</Line>
+    <Column>8</Column>
+    <Severity>Warning</Severity>
+  </Problem>
+  <Problem>
+    <Rule>Microsoft.Rules.Data.SR0007</Rule>
+    <ProblemDescription>Nullable columns can cause final results to be evaluated as NULL for the predicate.</ProblemDescription>
+    <SourceFile>C:\GitRepo\ConqueringtheMonsterProc\AutoDealershipDemo_Summit2023\AutoDealershipDemo_Summit2023\Workload\Stored Procedures\sp_DealershipWorkload.sql</SourceFile>
+    <Line>267</Line>
+    <Column>9</Column>
+    <Severity>Warning</Severity>
+  </Problem>
+  <Problem>
+    <Rule>Microsoft.Rules.Data.SR0007</Rule>
+    <ProblemDescription>Nullable columns can cause final results to be evaluated as NULL for the predicate.</ProblemDescription>
+    <SourceFile>C:\GitRepo\ConqueringtheMonsterProc\AutoDealershipDemo_Summit2023\AutoDealershipDemo_Summit2023\Workload\Stored Procedures\sp_DealershipWorkload.sql</SourceFile>
+    <Line>272</Line>
+    <Column>8</Column>
+    <Severity>Warning</Severity>
+  </Problem>
+  <Problem>
+    <Rule>Microsoft.Rules.Data.SR0007</Rule>
+    <ProblemDescription>Nullable columns can cause final results to be evaluated as NULL for the predicate.</ProblemDescription>
+    <SourceFile>C:\GitRepo\ConqueringtheMonsterProc\AutoDealershipDemo_Summit2023\AutoDealershipDemo_Summit2023\Workload\Stored Procedures\sp_DealershipWorkload.sql</SourceFile>
+    <Line>273</Line>
+    <Column>8</Column>
+    <Severity>Warning</Severity>
+  </Problem>
+  <Problem>
+    <Rule>Microsoft.Rules.Data.SR0007</Rule>
+    <ProblemDescription>Nullable columns can cause final results to be evaluated as NULL for the predicate.</ProblemDescription>
+    <SourceFile>C:\GitRepo\ConqueringtheMonsterProc\AutoDealershipDemo_Summit2023\AutoDealershipDemo_Summit2023\Workload\Stored Procedures\sp_DealershipWorkload.sql</SourceFile>
+    <Line>283</Line>
+    <Column>9</Column>
+    <Severity>Warning</Severity>
+  </Problem>
+  <Problem>
+    <Rule>Microsoft.Rules.Data.SR0007</Rule>
+    <ProblemDescription>Nullable columns can cause final results to be evaluated as NULL for the predicate.</ProblemDescription>
+    <SourceFile>C:\GitRepo\ConqueringtheMonsterProc\AutoDealershipDemo_Summit2023\AutoDealershipDemo_Summit2023\Workload\Stored Procedures\sp_DealershipWorkload.sql</SourceFile>
+    <Line>288</Line>
+    <Column>8</Column>
+    <Severity>Warning</Severity>
+  </Problem>
+  <Problem>
+    <Rule>Microsoft.Rules.Data.SR0007</Rule>
+    <ProblemDescription>Nullable columns can cause final results to be evaluated as NULL for the predicate.</ProblemDescription>
+    <SourceFile>C:\GitRepo\ConqueringtheMonsterProc\AutoDealershipDemo_Summit2023\AutoDealershipDemo_Summit2023\Workload\Stored Procedures\sp_DealershipWorkload.sql</SourceFile>
+    <Line>299</Line>
+    <Column>5</Column>
+    <Severity>Warning</Severity>
+  </Problem>
+  <Problem>
+    <Rule>Microsoft.Rules.Data.SR0007</Rule>
+    <ProblemDescription>Nullable columns can cause final results to be evaluated as NULL for the predicate.</ProblemDescription>
+    <SourceFile>C:\GitRepo\ConqueringtheMonsterProc\AutoDealershipDemo_Summit2023\AutoDealershipDemo_Summit2023\Workload\Stored Procedures\sp_DealershipWorkload.sql</SourceFile>
+    <Line>300</Line>
+    <Column>8</Column>
+    <Severity>Warning</Severity>
+  </Problem>
+  <Problem>
+    <Rule>Microsoft.Rules.Data.SR0007</Rule>
+    <ProblemDescription>Nullable columns can cause final results to be evaluated as NULL for the predicate.</ProblemDescription>
+    <SourceFile>C:\GitRepo\ConqueringtheMonsterProc\AutoDealershipDemo_Summit2023\AutoDealershipDemo_Summit2023\Workload\Stored Procedures\sp_DealershipWorkload.sql</SourceFile>
+    <Line>302</Line>
+    <Column>8</Column>
+    <Severity>Warning</Severity>
+  </Problem>
+  <Problem>
+    <Rule>Microsoft.Rules.Data.SR0007</Rule>
+    <ProblemDescription>Nullable columns can cause final results to be evaluated as NULL for the predicate.</ProblemDescription>
+    <SourceFile>C:\GitRepo\ConqueringtheMonsterProc\AutoDealershipDemo_Summit2023\AutoDealershipDemo_Summit2023\Workload\Stored Procedures\sp_DealershipWorkload.sql</SourceFile>
+    <Line>347</Line>
+    <Column>10</Column>
+    <Severity>Warning</Severity>
+  </Problem>
+  <Problem>
+    <Rule>Microsoft.Rules.Data.SR0007</Rule>
+    <ProblemDescription>Nullable columns can cause final results to be evaluated as NULL for the predicate.</ProblemDescription>
+    <SourceFile>C:\GitRepo\ConqueringtheMonsterProc\AutoDealershipDemo_Summit2023\AutoDealershipDemo_Summit2023\Workload\Stored Procedures\sp_DealershipWorkload.sql</SourceFile>
+    <Line>348</Line>
+    <Column>9</Column>
+    <Severity>Warning</Severity>
+  </Problem>
+  <Problem>
+    <Rule>Microsoft.Rules.Data.SR0007</Rule>
+    <ProblemDescription>Nullable columns can cause final results to be evaluated as NULL for the predicate.</ProblemDescription>
+    <SourceFile>C:\GitRepo\ConqueringtheMonsterProc\AutoDealershipDemo_Summit2023\AutoDealershipDemo_Summit2023\Workload\Stored Procedures\sp_DealershipWorkload.sql</SourceFile>
+    <Line>355</Line>
+    <Column>10</Column>
+    <Severity>Warning</Severity>
+  </Problem>
+  <Problem>
+    <Rule>Microsoft.Rules.Data.SR0007</Rule>
+    <ProblemDescription>Nullable columns can cause final results to be evaluated as NULL for the predicate.</ProblemDescription>
+    <SourceFile>C:\GitRepo\ConqueringtheMonsterProc\AutoDealershipDemo_Summit2023\AutoDealershipDemo_Summit2023\Workload\Stored Procedures\sp_DealershipWorkload.sql</SourceFile>
+    <Line>356</Line>
+    <Column>9</Column>
+    <Severity>Warning</Severity>
+  </Problem>
+  <Problem>
+    <Rule>Microsoft.Rules.Data.SR0007</Rule>
+    <ProblemDescription>Nullable columns can cause final results to be evaluated as NULL for the predicate.</ProblemDescription>
+    <SourceFile>C:\GitRepo\ConqueringtheMonsterProc\AutoDealershipDemo_Summit2023\AutoDealershipDemo_Summit2023\Workload\Stored Procedures\sp_DealershipWorkload.sql</SourceFile>
+    <Line>363</Line>
+    <Column>10</Column>
+    <Severity>Warning</Severity>
+  </Problem>
+  <Problem>
+    <Rule>Microsoft.Rules.Data.SR0007</Rule>
+    <ProblemDescription>Nullable columns can cause final results to be evaluated as NULL for the predicate.</ProblemDescription>
+    <SourceFile>C:\GitRepo\ConqueringtheMonsterProc\AutoDealershipDemo_Summit2023\AutoDealershipDemo_Summit2023\Workload\Stored Procedures\sp_DealershipWorkload.sql</SourceFile>
+    <Line>364</Line>
+    <Column>9</Column>
+    <Severity>Warning</Severity>
+  </Problem>
+  <Problem>
+    <Rule>Microsoft.Rules.Data.SR0007</Rule>
+    <ProblemDescription>Nullable columns can cause final results to be evaluated as NULL for the predicate.</ProblemDescription>
+    <SourceFile>C:\GitRepo\ConqueringtheMonsterProc\AutoDealershipDemo_Summit2023\AutoDealershipDemo_Summit2023\Workload\Stored Procedures\sp_DealershipWorkload.sql</SourceFile>
+    <Line>379</Line>
+    <Column>9</Column>
+    <Severity>Warning</Severity>
+  </Problem>
+  <Problem>
+    <Rule>Microsoft.Rules.Data.SR0007</Rule>
+    <ProblemDescription>Nullable columns can cause final results to be evaluated as NULL for the predicate.</ProblemDescription>
+    <SourceFile>C:\GitRepo\ConqueringtheMonsterProc\AutoDealershipDemo_Summit2023\AutoDealershipDemo_Summit2023\Workload\Stored Procedures\sp_DealershipWorkload.sql</SourceFile>
+    <Line>380</Line>
+    <Column>8</Column>
+    <Severity>Warning</Severity>
+  </Problem>
+  <Problem>
+    <Rule>Microsoft.Rules.Data.SR0007</Rule>
+    <ProblemDescription>Nullable columns can cause final results to be evaluated as NULL for the predicate.</ProblemDescription>
+    <SourceFile>C:\GitRepo\ConqueringtheMonsterProc\AutoDealershipDemo_Summit2023\AutoDealershipDemo_Summit2023\Workload\Stored Procedures\sp_DealershipWorkload.sql</SourceFile>
+    <Line>381</Line>
+    <Column>8</Column>
+    <Severity>Warning</Severity>
+  </Problem>
+  <Problem>
+    <Rule>Microsoft.Rules.Data.SR0007</Rule>
+    <ProblemDescription>Nullable columns can cause final results to be evaluated as NULL for the predicate.</ProblemDescription>
+    <SourceFile>C:\GitRepo\ConqueringtheMonsterProc\AutoDealershipDemo_Summit2023\AutoDealershipDemo_Summit2023\Workload\Stored Procedures\sp_DealershipWorkload.sql</SourceFile>
+    <Line>382</Line>
+    <Column>8</Column>
+    <Severity>Warning</Severity>
+  </Problem>
+  <Problem>
+    <Rule>Microsoft.Rules.Data.SR0007</Rule>
+    <ProblemDescription>Nullable columns can cause final results to be evaluated as NULL for the predicate.</ProblemDescription>
+    <SourceFile>C:\GitRepo\ConqueringtheMonsterProc\AutoDealershipDemo_Summit2023\AutoDealershipDemo_Summit2023\Workload\Stored Procedures\sp_DealershipWorkload.sql</SourceFile>
+    <Line>396</Line>
+    <Column>9</Column>
+    <Severity>Warning</Severity>
+  </Problem>
+  <Problem>
+    <Rule>Microsoft.Rules.Data.SR0007</Rule>
+    <ProblemDescription>Nullable columns can cause final results to be evaluated as NULL for the predicate.</ProblemDescription>
+    <SourceFile>C:\GitRepo\ConqueringtheMonsterProc\AutoDealershipDemo_Summit2023\AutoDealershipDemo_Summit2023\Workload\Stored Procedures\sp_DealershipWorkload.sql</SourceFile>
+    <Line>397</Line>
+    <Column>8</Column>
+    <Severity>Warning</Severity>
+  </Problem>
+  <Problem>
+    <Rule>Microsoft.Rules.Data.SR0007</Rule>
+    <ProblemDescription>Nullable columns can cause final results to be evaluated as NULL for the predicate.</ProblemDescription>
+    <SourceFile>C:\GitRepo\ConqueringtheMonsterProc\AutoDealershipDemo_Summit2023\AutoDealershipDemo_Summit2023\Workload\Stored Procedures\sp_DealershipWorkload.sql</SourceFile>
+    <Line>398</Line>
+    <Column>8</Column>
+    <Severity>Warning</Severity>
+  </Problem>
+  <Problem>
+    <Rule>Microsoft.Rules.Data.SR0007</Rule>
+    <ProblemDescription>Nullable columns can cause final results to be evaluated as NULL for the predicate.</ProblemDescription>
+    <SourceFile>C:\GitRepo\ConqueringtheMonsterProc\AutoDealershipDemo_Summit2023\AutoDealershipDemo_Summit2023\Workload\Stored Procedures\sp_DealershipWorkload.sql</SourceFile>
+    <Line>399</Line>
+    <Column>8</Column>
+    <Severity>Warning</Severity>
+  </Problem>
+  <Problem>
+    <Rule>Microsoft.Rules.Data.SR0007</Rule>
+    <ProblemDescription>Nullable columns can cause final results to be evaluated as NULL for the predicate.</ProblemDescription>
+    <SourceFile>C:\GitRepo\ConqueringtheMonsterProc\AutoDealershipDemo_Summit2023\AutoDealershipDemo_Summit2023\Workload\Stored Procedures\sp_DealershipWorkload.sql</SourceFile>
+    <Line>412</Line>
+    <Column>9</Column>
+    <Severity>Warning</Severity>
+  </Problem>
+  <Problem>
+    <Rule>Microsoft.Rules.Data.SR0007</Rule>
+    <ProblemDescription>Nullable columns can cause final results to be evaluated as NULL for the predicate.</ProblemDescription>
+    <SourceFile>C:\GitRepo\ConqueringtheMonsterProc\AutoDealershipDemo_Summit2023\AutoDealershipDemo_Summit2023\Workload\Stored Procedures\sp_DealershipWorkload.sql</SourceFile>
+    <Line>413</Line>
+    <Column>8</Column>
+    <Severity>Warning</Severity>
+  </Problem>
+  <Problem>
+    <Rule>Microsoft.Rules.Data.SR0007</Rule>
+    <ProblemDescription>Nullable columns can cause final results to be evaluated as NULL for the predicate.</ProblemDescription>
+    <SourceFile>C:\GitRepo\ConqueringtheMonsterProc\AutoDealershipDemo_Summit2023\AutoDealershipDemo_Summit2023\Workload\Stored Procedures\sp_DealershipWorkload.sql</SourceFile>
+    <Line>414</Line>
+    <Column>8</Column>
+    <Severity>Warning</Severity>
+  </Problem>
+  <Problem>
+    <Rule>Microsoft.Rules.Data.SR0007</Rule>
+    <ProblemDescription>Nullable columns can cause final results to be evaluated as NULL for the predicate.</ProblemDescription>
+    <SourceFile>C:\GitRepo\ConqueringtheMonsterProc\AutoDealershipDemo_Summit2023\AutoDealershipDemo_Summit2023\Workload\Stored Procedures\sp_DealershipWorkload.sql</SourceFile>
+    <Line>415</Line>
+    <Column>8</Column>
+    <Severity>Warning</Severity>
+  </Problem>
+  <Problem>
+    <Rule>Microsoft.Rules.Data.SR0007</Rule>
+    <ProblemDescription>Nullable columns can cause final results to be evaluated as NULL for the predicate.</ProblemDescription>
+    <SourceFile>C:\GitRepo\ConqueringtheMonsterProc\AutoDealershipDemo_Summit2023\AutoDealershipDemo_Summit2023\Workload\Stored Procedures\sp_DealershipWorkload.sql</SourceFile>
+    <Line>433</Line>
+    <Column>9</Column>
+    <Severity>Warning</Severity>
+  </Problem>
+  <Problem>
+    <Rule>Microsoft.Rules.Data.SR0016</Rule>
+    <ProblemDescription>Stored procedure(sp_DealershipWorkload) includes sp_ prefix in its name.</ProblemDescription>
+    <SourceFile>C:\GitRepo\ConqueringtheMonsterProc\AutoDealershipDemo_Summit2023\AutoDealershipDemo_Summit2023\Workload\Stored Procedures\sp_DealershipWorkload.sql</SourceFile>
+    <Line>2</Line>
+    <Column>29</Column>
+    <Severity>Warning</Severity>
+  </Problem>
+  <Problem>
+    <Rule>Microsoft.Rules.Data.SR0016</Rule>
+    <ProblemDescription>Stored procedure(sp_SelectFromAll) includes sp_ prefix in its name.</ProblemDescription>
+    <SourceFile>C:\GitRepo\ConqueringtheMonsterProc\AutoDealershipDemo_Summit2023\AutoDealershipDemo_Summit2023\Workload\Stored Procedures\sp_SelectFromAll.sql</SourceFile>
+    <Line>3</Line>
+    <Column>29</Column>
+    <Severity>Warning</Severity>
+  </Problem>
+  <Problem>
+    <Rule>Microsoft.Rules.Data.SR0016</Rule>
+    <ProblemDescription>Stored procedure(sp_GetInventoryFlatNV_VehiclePackageDetail) includes sp_ prefix in its name.</ProblemDescription>
+    <SourceFile>C:\GitRepo\ConqueringtheMonsterProc\AutoDealershipDemo_Summit2023\AutoDealershipDemo_Summit2023\Workload\Stored Procedures\sp_GetInventoryFlatNV_VehiclePackageDetail.sql</SourceFile>
+    <Line>1</Line>
+    <Column>29</Column>
+    <Severity>Warning</Severity>
+  </Problem>
+  <Problem>
+    <Rule>Microsoft.Rules.Data.SR0007</Rule>
+    <ProblemDescription>Nullable columns can cause final results to be evaluated as NULL for the predicate.</ProblemDescription>
+    <SourceFile>C:\GitRepo\ConqueringtheMonsterProc\AutoDealershipDemo_Summit2023\AutoDealershipDemo_Summit2023\Workload\Stored Procedures\sp_RandomVINLookup.sql</SourceFile>
+    <Line>36</Line>
+    <Column>8</Column>
+    <Severity>Warning</Severity>
+  </Problem>
+  <Problem>
+    <Rule>Microsoft.Rules.Data.SR0016</Rule>
+    <ProblemDescription>Stored procedure(sp_RandomVINLookup) includes sp_ prefix in its name.</ProblemDescription>
+    <SourceFile>C:\GitRepo\ConqueringtheMonsterProc\AutoDealershipDemo_Summit2023\AutoDealershipDemo_Summit2023\Workload\Stored Procedures\sp_RandomVINLookup.sql</SourceFile>
+    <Line>1</Line>
+    <Column>29</Column>
+    <Severity>Warning</Severity>
+  </Problem>
+  <Problem>
+    <Rule>Microsoft.Rules.Data.SR0016</Rule>
+    <ProblemDescription>Stored procedure(sp_Get_SalesHistoryByCustomer) includes sp_ prefix in its name.</ProblemDescription>
+    <SourceFile>C:\GitRepo\ConqueringtheMonsterProc\AutoDealershipDemo_Summit2023\AutoDealershipDemo_Summit2023\Workload\Stored Procedures\sp_Get_SalesHistoryByCustomer.sql</SourceFile>
+    <Line>2</Line>
+    <Column>31</Column>
+    <Severity>Warning</Severity>
+  </Problem>
+  <Problem>
+    <Rule>Microsoft.Rules.Data.SR0006</Rule>
+    <ProblemDescription>A column in an expression to be compared in a predicate might cause a table scan and degrade performance.</ProblemDescription>
+    <SourceFile>C:\GitRepo\ConqueringtheMonsterProc\AutoDealershipDemo_Summit2023\AutoDealershipDemo_Summit2023\Workload\Stored Procedures\sp_Adv_PE_Workload.sql</SourceFile>
+    <Line>57</Line>
+    <Column>8</Column>
+    <Severity>Warning</Severity>
+  </Problem>
+  <Problem>
+    <Rule>Microsoft.Rules.Data.SR0006</Rule>
+    <ProblemDescription>A column in an expression to be compared in a predicate might cause a table scan and degrade performance.</ProblemDescription>
+    <SourceFile>C:\GitRepo\ConqueringtheMonsterProc\AutoDealershipDemo_Summit2023\AutoDealershipDemo_Summit2023\Workload\Stored Procedures\sp_Adv_PE_Workload.sql</SourceFile>
+    <Line>57</Line>
+    <Column>33</Column>
+    <Severity>Warning</Severity>
+  </Problem>
+  <Problem>
+    <Rule>Microsoft.Rules.Data.SR0007</Rule>
+    <ProblemDescription>Nullable columns can cause final results to be evaluated as NULL for the predicate.</ProblemDescription>
+    <SourceFile>C:\GitRepo\ConqueringtheMonsterProc\AutoDealershipDemo_Summit2023\AutoDealershipDemo_Summit2023\Workload\Stored Procedures\sp_Adv_PE_Workload.sql</SourceFile>
+    <Line>57</Line>
+    <Column>8</Column>
+    <Severity>Warning</Severity>
+  </Problem>
+  <Problem>
+    <Rule>Microsoft.Rules.Data.SR0007</Rule>
+    <ProblemDescription>Nullable columns can cause final results to be evaluated as NULL for the predicate.</ProblemDescription>
+    <SourceFile>C:\GitRepo\ConqueringtheMonsterProc\AutoDealershipDemo_Summit2023\AutoDealershipDemo_Summit2023\Workload\Stored Procedures\sp_Adv_PE_Workload.sql</SourceFile>
+    <Line>57</Line>
+    <Column>33</Column>
+    <Severity>Warning</Severity>
+  </Problem>
+  <Problem>
+    <Rule>Microsoft.Rules.Data.SR0007</Rule>
+    <ProblemDescription>Nullable columns can cause final results to be evaluated as NULL for the predicate.</ProblemDescription>
+    <SourceFile>C:\GitRepo\ConqueringtheMonsterProc\AutoDealershipDemo_Summit2023\AutoDealershipDemo_Summit2023\Workload\Stored Procedures\sp_Adv_PE_Workload.sql</SourceFile>
+    <Line>190</Line>
+    <Column>8</Column>
+    <Severity>Warning</Severity>
+  </Problem>
+  <Problem>
+    <Rule>Microsoft.Rules.Data.SR0014</Rule>
+    <ProblemDescription>Data loss might occur when casting from ASCII String(10) to DateTime.</ProblemDescription>
+    <SourceFile>C:\GitRepo\ConqueringtheMonsterProc\AutoDealershipDemo_Summit2023\AutoDealershipDemo_Summit2023\Workload\Stored Procedures\sp_Adv_PE_Workload.sql</SourceFile>
+    <Line>134</Line>
+    <Column>31</Column>
+    <Severity>Warning</Severity>
+  </Problem>
+  <Problem>
+    <Rule>Microsoft.Rules.Data.SR0014</Rule>
+    <ProblemDescription>Data loss might occur when casting from ASCII String(10) to DateTime.</ProblemDescription>
+    <SourceFile>C:\GitRepo\ConqueringtheMonsterProc\AutoDealershipDemo_Summit2023\AutoDealershipDemo_Summit2023\Workload\Stored Procedures\sp_Adv_PE_Workload.sql</SourceFile>
+    <Line>134</Line>
+    <Column>56</Column>
+    <Severity>Warning</Severity>
+  </Problem>
+  <Problem>
+    <Rule>Microsoft.Rules.Data.SR0016</Rule>
+    <ProblemDescription>Stored procedure(sp_Adv_PE_Workload) includes sp_ prefix in its name.</ProblemDescription>
+    <SourceFile>C:\GitRepo\ConqueringtheMonsterProc\AutoDealershipDemo_Summit2023\AutoDealershipDemo_Summit2023\Workload\Stored Procedures\sp_Adv_PE_Workload.sql</SourceFile>
+    <Line>31</Line>
+    <Column>31</Column>
+    <Severity>Warning</Severity>
+  </Problem>
+  <Problem>
+    <Rule>Microsoft.Rules.Data.SR0007</Rule>
+    <ProblemDescription>Nullable columns can cause final results to be evaluated as NULL for the predicate.</ProblemDescription>
+    <SourceFile>C:\GitRepo\ConqueringtheMonsterProc\AutoDealershipDemo_Summit2023\AutoDealershipDemo_Summit2023\Workload\Stored Procedures\sp_Get_SalesHistoryByDate_OlderThanN.sql</SourceFile>
+    <Line>87</Line>
+    <Column>13</Column>
+    <Severity>Warning</Severity>
+  </Problem>
+  <Problem>
+    <Rule>Microsoft.Rules.Data.SR0007</Rule>
+    <ProblemDescription>Nullable columns can cause final results to be evaluated as NULL for the predicate.</ProblemDescription>
+    <SourceFile>C:\GitRepo\ConqueringtheMonsterProc\AutoDealershipDemo_Summit2023\AutoDealershipDemo_Summit2023\Workload\Stored Procedures\sp_Get_SalesHistoryByDate_OlderThanN.sql</SourceFile>
+    <Line>89</Line>
+    <Column>53</Column>
+    <Severity>Warning</Severity>
+  </Problem>
+  <Problem>
+    <Rule>Microsoft.Rules.Data.SR0007</Rule>
+    <ProblemDescription>Nullable columns can cause final results to be evaluated as NULL for the predicate.</ProblemDescription>
+    <SourceFile>C:\GitRepo\ConqueringtheMonsterProc\AutoDealershipDemo_Summit2023\AutoDealershipDemo_Summit2023\Workload\Stored Procedures\sp_Get_SalesHistoryByDate_OlderThanN.sql</SourceFile>
+    <Line>89</Line>
+    <Column>85</Column>
+    <Severity>Warning</Severity>
+  </Problem>
+  <Problem>
+    <Rule>Microsoft.Rules.Data.SR0014</Rule>
+    <ProblemDescription>Data loss might occur when casting from BigInt to Int.</ProblemDescription>
+    <SourceFile>C:\GitRepo\ConqueringtheMonsterProc\AutoDealershipDemo_Summit2023\AutoDealershipDemo_Summit2023\Workload\Stored Procedures\sp_Get_SalesHistoryByDate_OlderThanN.sql</SourceFile>
+    <Line>52</Line>
+    <Column>4</Column>
+    <Severity>Warning</Severity>
+  </Problem>
+  <Problem>
+    <Rule>Microsoft.Rules.Data.SR0014</Rule>
+    <ProblemDescription>Data loss might occur when casting from Date to DateTime.</ProblemDescription>
+    <SourceFile>C:\GitRepo\ConqueringtheMonsterProc\AutoDealershipDemo_Summit2023\AutoDealershipDemo_Summit2023\Workload\Stored Procedures\sp_Get_SalesHistoryByDate_OlderThanN.sql</SourceFile>
+    <Line>89</Line>
+    <Column>85</Column>
+    <Severity>Warning</Severity>
+  </Problem>
+  <Problem>
+    <Rule>Microsoft.Rules.Data.SR0016</Rule>
+    <ProblemDescription>Stored procedure(sp_Get_SalesHistoryByDate_OlderThanN) includes sp_ prefix in its name.</ProblemDescription>
+    <SourceFile>C:\GitRepo\ConqueringtheMonsterProc\AutoDealershipDemo_Summit2023\AutoDealershipDemo_Summit2023\Workload\Stored Procedures\sp_Get_SalesHistoryByDate_OlderThanN.sql</SourceFile>
+    <Line>29</Line>
+    <Column>31</Column>
+    <Severity>Warning</Severity>
+  </Problem>
+</Problems>

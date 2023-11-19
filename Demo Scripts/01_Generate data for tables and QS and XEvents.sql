@@ -1,3 +1,6 @@
+USE AutoDealershipDemo_Summit2023
+GO
+
 /* run script for one night over one week */
 
 EXEC demo.sp_NightlyProcessingForReporting 

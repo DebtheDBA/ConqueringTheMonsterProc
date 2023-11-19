@@ -25,7 +25,7 @@ https://github.com/SQLBek/sp_helpExpandView
 */
 
 /* run sp_helpExpandView for the main proc. Includes information for the related stored procedure */
-EXEC master.dbo.sp_helpExpandView @ViewName = '[demo].[sp_NightlyProcessingForReporting]', @OutputFormat = 'horizontal'
+EXEC sp_helpExpandView @ViewName = '[demo].[sp_NightlyProcessingForReporting]', @OutputFormat = 'horizontal'
 
 
 /* run sp_helpExpandView for the main proc. Includes information for the related stored procedure */

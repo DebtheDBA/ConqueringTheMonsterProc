@@ -1,3 +1,9 @@
+/* get the objects that the stored proc is dependent on */
+USE AutoDealershipDemo_Summit2023
+GO
+
+
+/* create the temp table to hold the data */
 DROP TABLE IF EXISTS #helpExpandViewResults
 CREATE TABLE #helpExpandViewResults
 	(HierarchyLvl TINYINT,

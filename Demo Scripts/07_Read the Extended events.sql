@@ -28,6 +28,7 @@ FROM
         ) AS ed
         CROSS APPLY
         ed.event_data.nodes( 'event' ) AS q(n)
+WHERE n.value( '(@timestamp)[1]', 'datetime2' ) > '2024-06-01'
 GO
 
 
@@ -59,6 +60,8 @@ FROM
         ) AS ed
         CROSS APPLY
         ed.event_data.nodes( 'event' ) AS q(n)
+WHERE n.value( '(@timestamp)[1]', 'datetime2' ) > '2024-06-01'
+AND n.value( '(@name)[1]', 'varchar(50)' ) = 'sp_statement_completed'
 ORDER BY n.value( '(data[@name="duration"]/value)[1]', 'bigint' ) / 1000 DESC
 
 GO

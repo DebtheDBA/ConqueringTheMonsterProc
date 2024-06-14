@@ -1,4 +1,6 @@
 /* EXEC Demo.sp_NightlyProcessingForReporting @StartDate = getdate() */
+USE AutoDealershipDemo_Summit2023
+GO
 
 /* confirm the object information*/
 SELECT * FROM sys.objects 
